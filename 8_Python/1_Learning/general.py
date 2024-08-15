@@ -136,7 +136,54 @@
 
 ## Destructuring
 
-friends = [("Rolf", 25), ("Anne", 23), ("Charlie", 31)]
+# friends = [("Rolf", 25), ("Anne", 23), ("Charlie", 31)]
 
-for name, age in friends:
-    print(f"{name} is {age} years old.")
+# for name, age in friends:
+#     print(f"{name} is {age} years old.")
+
+## Iterating into dictionaries
+
+# friends_ages = {"Rolf":25, "Anne":24, "Bob":22}
+
+# for friends in friends_ages:
+#     print(friends)
+
+# for friends in friends_ages.values():
+#     print(friends)
+
+# for names, ages in friends_ages.items():
+#     print(f"{names} is {ages} year old.")
+
+## Using break and continue keywords
+
+# cars = ['ok', 'ok', 'ok', 'faulty', 'ok', 'ok']
+
+# for status in cars:
+#     if status == 'faulty':
+#         print("This car is faulty. Breaking the loop")
+#         break
+#     print(f"This car is {status}")
+
+# cars = ['ok', 'ok', 'ok', 'faulty', 'ok', 'ok']
+
+# for status in cars:
+#     if status == 'faulty':
+#         #print("This car is faulty. Breaking the loop")
+#         continue
+#     print(f"This car is {status}")
+
+## Challging Code Task
+
+for num in range(1, 101, 1):
+    if num % 3 == 0:
+        if num % 5 == 0:
+            print("FizzBuzz")
+        else:
+            print("Fizz")
+    elif num % 5 == 0:
+        if num % 3 == 0:
+            print("FizzBuzz")
+        else:
+            print("Buzz")
+    else:
+        print(num)

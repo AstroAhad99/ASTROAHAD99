@@ -4,5 +4,5 @@
 
 3. When we have main target the n put that in the while loop. The Rest of the conditional checks should be in the other case checkings like IF-ELSE condition.
 
-4. langston ant is a complex property of simple program that when a program reaches to 10,000 steps it starts to do something unique.
+4. langtons ant is a complex property of simple program that when a program reaches to 10,000 steps it starts to do something unique.
 

@@ -121,3 +121,27 @@ for index in ele:
 here the index can be any other variable.
 
 26. Destructing means assigning a tupple to multiple variables
+
+
+27. Iteration in dictionary is also possible. we can go through both either keys or values like this
+
+```
+
+friends_ages = {"Rolf":25, "Anne":24, "Bob":22}
+
+for friends in friends_ages:
+    print(friends)
+
+for friends in friends_ages.values():
+    print(friends)
+
+for names, ages in friends_ages.items():
+    print(f"{names} is {ages} year old.")
+
+```
+28. Break and continue is another important keywords here is the example. Break keyword is used with the for loop to break the iteration loop and comes out. The CONTINUE keyword on the otherhand does not break the loop but instead it skips that particular iteration and continues the program.
+
+29. The for loop can also be used not only to repeat over the number of time but also move over the collection of elements.
+
+30. The FOR or WHILE loop has another unique property called ELSE. If you want to print something or do anything else after the successful complition of the loop you can use the ELSE keyword in the same indentation as the loop. If in the loop you have used break keywork and the loop is breaked during the execution then this ELSE will not be executed.
+
