@@ -9,6 +9,7 @@
 
 3. commit - Save the changes to the Git.
 
+<<<<<<< HEAD
 4. push - Upload the Git changes to the remote repository from the local repository. Sometimes push does not work because you need to tell github to receive the updates from you local editor. For this purpose you need to add SSH key. Check this video at time 20:40 for more information.
 ```https://www.youtube.com/watch?v=RGOj5yH7evk``` 
 
@@ -78,3 +79,9 @@
 31. Fork means copy the whole repository from other source to our account and make us able to make the changes.  
 
 32. Strings have another feature of "Something".join(another_list) or other properties.
+=======
+4. push - Upload the Git changes to the remote repository from the local repository.
+
+5. pull - Download the changes from the remote repository to the local repository.
+
+>>>>>>> e5dddf5dbf4a9fec31d4966471a30fdec27d13dd
