@@ -174,16 +174,105 @@
 
 ## Challging Code Task
 
-for num in range(1, 101, 1):
-    if num % 3 == 0:
-        if num % 5 == 0:
-            print("FizzBuzz")
-        else:
-            print("Fizz")
-    elif num % 5 == 0:
-        if num % 3 == 0:
-            print("FizzBuzz")
-        else:
-            print("Buzz")
-    else:
-        print(num)
+# for num in range(1, 101, 1):
+#     if num % 3 == 0:
+#         if num % 5 == 0:
+#             print("FizzBuzz")
+#         else:
+#             print("Fizz")
+#     elif num % 5 == 0:
+#         if num % 3 == 0:
+#             print("FizzBuzz")
+#         else:
+#             print("Buzz")
+#     else:
+#         print(num)
+
+## List Slicing
+
+# friends = ["Rolf", "Charlie", "Anna", "Bob", "Jen"]
+# print(friends[2:4]) # This will start from 2 and ends at 3
+# print(friends[1:]) # Skips element at index 0
+# print(friends[:4]) # Skips element at index 4
+# print(friends[:]) # Gets a new list
+# print(friends[-3:]) # Jen is at -1 so it will start from Anna
+# print(friends[:-2]) # Starting from 0 and ends at Anna
+
+## List Comprehension
+## This is normal way
+# numbers = [0, 1, 2, 3, 4]
+# double_numbers = []
+
+# for number in numbers:
+#     double_numbers.append(number * 2)
+
+# print(double_numbers)
+
+## List comp way
+
+# double_numbers = []
+
+# double_numbers = [number * 2 for number in numbers]
+# print(double_numbers)
+
+
+# double_numbers = []
+
+# double_numbers = [number * 2 for number in range(5)]
+# print(double_numbers)
+
+# friend_ages = [22, 23, 24, 25]
+
+# outputs = [f"My friend is {age} years old." for age in friend_ages]
+# print(outputs)
+
+# names = ["Rolf", "Bob", "Jen"]
+# friend = input("Enter the name of the friend: ")
+# lower = [name.lower() for name in names]
+# if friend.lower() in lower:
+#     print(f"My friend name is {friend.title()}.")
+
+## List Comprehensions with conditionals
+
+# ages = [22, 21, 33, 43, 11]
+
+# odds = [age for age in ages if age % 2 == 0]
+# print(odds)
+
+# friends = ["Rolf", "ruth", "Charlie", "Jen"]
+# guests = ["jose", "Bob", "Rolf", "Charlie", "michael"]
+
+# friends_lower = set([friend.lower() for friend in friends])
+# guests_lower = set([guest.lower() for guest in guests])
+
+# print(friends_lower.intersection(guests_lower))
+
+## Doing the same thing but using list comprehensions
+
+# friends = ["Rolf", "ruth", "Charlie", "Jen"]
+# guests = ["jose", "Bob", "Rolf", "Charlie", "michael"]
+
+# guests_lower = [g.lower() for g in guests]
+# present_friends = [common.title() for common in friends if common.lower() in guests_lower]
+
+# print(present_friends)
+
+## Sets and dictionary comprehension
+# Sets comprehension
+# friends = ["Rolf", "ruth", "Charlie", "Jen"]
+# guests = ["jose", "Bob", "Rolf", "Charlie", "michael"]
+
+# friends_lower = {f.lower() for f in friends}
+# guests_lower = {g.lower() for g in friends}
+
+# present_friends = friends_lower.intersection(guests_lower)
+
+# present_friends = {name.title() for name in present_friends}
+# print(present_friends)
+
+#Dictionary Comprehension
+friends = ["Rolf", "Bob", "Jen", "Anne"]
+time_seen = [3 , 5, 7, 9]
+
+name_time = {friends[i] : time_seen[i] for i in range(len(friends)) if time_seen[i]>5}
+print(name_time)

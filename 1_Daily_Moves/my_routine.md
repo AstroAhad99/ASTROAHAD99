@@ -33,5 +33,9 @@ https://go.tecla.do/python-operators-cheatsheet
 3. Started on Brilliant org course
 
 ### 16th August 2024
-2. Continue on AI course
-3. Started on Brilliant org course 1 completed
+1. Continue on AI course
+2. Started on Brilliant org course 1 
+
+### 17th August 2024
+1. Continue on AI course
+2. Started on Brilliant org course 1 completed

@@ -81,7 +81,7 @@ friends = friends + ("Ahmed",)
 
 14. In sets we can do command like symmetric_difference. This will give us the output which is not common in both.
 
-15. Sets are useful in the cases when you have to perform difference or intersection operation on data so there sets are very userful.
+15. Sets are useful in the cases when you have to perform difference or intersection operation on data so there sets are very userful. Sets are also in curly brackets.
 
 16. Dictionary contains both keys and values.
 
@@ -145,3 +145,36 @@ for names, ages in friends_ages.items():
 
 30. The FOR or WHILE loop has another unique property called ELSE. If you want to print something or do anything else after the successful complition of the loop you can use the ELSE keyword in the same indentation as the loop. If in the loop you have used break keywork and the loop is breaked during the execution then this ELSE will not be executed.
 
+31. Finding a number if it is prime or not using for loop and else keyword is done in the find_prime_num_loops.py.
+
+32. This does not run anything
+```
+for n in range(2,2):
+    print(n)
+```
+
+33. Slicing of a list, tuple is also very useful
+```
+
+friends = ["Rolf", "Charlie", "Anna", "Bob", "Jen"]
+print(friends[2:4]) # This will start from 2 and ends at 3
+print(friends[1:]) # Skips element at index 0
+print(friends[:4]) # Skips element at index 4
+print(friends[:]) # Gets a new list
+print(friends[-3:]) # Jen is at -1 so it will start from Anna
+print(friends[:-2]) # Starting from 0 and ends at Anna
+
+```
+ 
+34. List comprehension means if you want to perform some actions (calculation) then you can do inside the list itself like this
+```
+
+names = ["Rolf", "Bob", "Jen"]
+friend = input("Enter the name of the friend: ")
+lower = [name.lower() for name in names]
+if friend.lower() in lower:
+    print(f"My friend name is {friend.title()}.")
+
+```
+
+35. The same thing we can do for sets and dictionary comprehension
