@@ -39,3 +39,10 @@ https://go.tecla.do/python-operators-cheatsheet
 ### 17th August 2024
 1. Continue on AI course
 2. Started on Brilliant org course 1 completed
+3. Udemy python course
+
+
+### 17th August 2024
+1. Continue on AI course lecture 3
+2. Started on Brilliant org course 2 completed
+3. Udemy python course until 43
