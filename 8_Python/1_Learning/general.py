@@ -270,9 +270,29 @@
 # present_friends = {name.title() for name in present_friends}
 # print(present_friends)
 
-#Dictionary Comprehension
-friends = ["Rolf", "Bob", "Jen", "Anne"]
-time_seen = [3 , 5, 7, 9]
+## Dictionary Comprehension
+# friends = ["Rolf", "Bob", "Jen", "Anne"]
+# time_seen = [3 , 5, 7, 9]
 
-name_time = {friends[i] : time_seen[i] for i in range(len(friends)) if time_seen[i]>5}
-print(name_time)
+# name_time = {friends[i] : time_seen[i] for i in range(len(friends)) if time_seen[i]>5}
+# print(name_time)
+
+## ZIP function
+
+# friends = ["Rolf", "Bob", "Jen", "Anne"]
+# time_seen = [3 , 5, 7, 9]
+
+# combined = dict(zip(friends, time_seen))
+# print(combined)
+
+## Enumerate Function
+friends = ["Rolf", "Bob", "Jen", "Anne"]
+
+# for counter, friend in enumerate(friends, start = 1):
+#     print(counter, friend)
+
+# for counter, friend in enumerate(friends):
+#     print(counter, friend)
+
+print(dict(enumerate(friends))) # Build dictionary
+print(list(enumerate(friends))) # Build tuple
