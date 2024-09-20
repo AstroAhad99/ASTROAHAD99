@@ -286,7 +286,7 @@
 # print(combined)
 
 ## Enumerate Function
-friends = ["Rolf", "Bob", "Jen", "Anne"]
+# friends = ["Rolf", "Bob", "Jen", "Anne"]
 
 # for counter, friend in enumerate(friends, start = 1):
 #     print(counter, friend)
@@ -294,5 +294,34 @@ friends = ["Rolf", "Bob", "Jen", "Anne"]
 # for counter, friend in enumerate(friends):
 #     print(counter, friend)
 
-print(dict(enumerate(friends))) # Build dictionary
-print(list(enumerate(friends))) # Build tuple
+# print(dict(enumerate(friends))) # Build dictionary
+# print(list(enumerate(friends))) # Build tuple
+
+
+# #Print position of the character found in the string
+
+# str1 = "Is it going well?" 
+# str2 = "go"
+# print(str1.find(str2))
+
+# # If it doesnt finds anything then it will return -1
+# # find command is case sensitive
+# # This will return the first occurance of the str2 in str1
+# str1 = "Hi hey hello he." 
+# str2 = "he"
+# print(str1.find(str2))
+
+
+# #Substings
+
+# #In substring the first index is the index of the letter and the last index letter is not 
+# #added in it
+
+# sentence = "I like rocks but they seem indifferent."
+# conjunction_index = sentence.find("but")
+# left_side = sentence[0:conjunction_index] 
+# #left_side = sentence[0:conjunction_index-1] 
+# right_side = sentence[conjunction_index + 3:]
+# #right_side = sentence[conjunction_index + 4:]
+# classy_sentence = left_side + "yet" + right_side
+# print(classy_sentence)

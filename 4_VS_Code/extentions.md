@@ -23,3 +23,9 @@ Allow to work with Json effeciently
 #### Jupiter
 
 #### Remote SSH
+
+#### ipykernel 
+For step run code
+
+#### Install turtle library
+pip install PythonTurtle

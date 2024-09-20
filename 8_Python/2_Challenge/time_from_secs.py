@@ -1,3 +1,5 @@
+# This is the program in which you enter the seconds and it will give you the proper time
+
 seconds = 14926
 
 hours = seconds // 3600 #These are total hours

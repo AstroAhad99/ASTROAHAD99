@@ -1,0 +1,3 @@
+1. Computer science uses two different words to disambiguate these two notions of “faster.” Latency is the time it takes for a process to go from start to finish, and throughput is the rate at which a system can finish processes.
+2. Parallelism can improve performance by improving latency (the time that a task takes from beginning to end) or by improving throughput (the amount of tasks that can complete during a given interval of time).
+3. For example, mobile internet connections might have high throughput (that's good) but high latency (that's bad). This might lead to high-quality video streaming, but choppy video calls.

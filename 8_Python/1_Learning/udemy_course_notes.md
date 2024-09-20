@@ -178,3 +178,7 @@ if friend.lower() in lower:
 ```
 
 35. The same thing we can do for sets and dictionary comprehension
+
+36. There is another function called ZIP which is used to combine two or more list together like in a tuple.
+
+37. Another function is the Enumerate which give the corresponding index of the element in the simple list.
