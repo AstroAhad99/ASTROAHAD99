@@ -7,7 +7,7 @@ For showing recently opened files
 
 
 ### Run Commands
-Enter > in the commad palette
+Enter > in the command palette
 
 Helps to run any vs command
 

@@ -12,3 +12,17 @@
 9. Think a problem a complete structure that can be repeated as a whole so that you can use loops correctly.
 10. When we have main target the n put that in the while loop. The Rest of the conditional checks should be in the other case checkings like IF-ELSE condition.
 11. langtons ant is a complex property of simple program that when a program reaches to 10,000 steps it starts to do something unique.
+12. In problem solving technique finding out the most powerful information and starting with tha information is very important.
+13. Learning different sorting array techniques helps us to make good 
+in problem solving and analyse different solution based on the problem situation.
+14. Selection sort scans the unsorted part of the array by doing scanning more and less swaps.
+15. Insertion sort scans the sorted part of the array by doing less scanning and more swaps.
+16. Insertion sort is more efficient than selection sort when the array is partially sorted.
+17. While the selection sort is useful when the array is highly unsorted.
+18. In general both have advantages and disadvantages.
+19. The timing of the program is very important to understand. As we increase the size of the program the time increase parabolically.
+20. The selection sort for (n) array elements does (n-1) swaps and (n^2-n)/2 comparisions and it is fixed.
+21. Permutation means the ordering of elements
+22. Formula for permutation is n!/(n-r)!: Eg: If there are 3 elements (1,2,3) then 6 orders
+
+![Screenshot1](./Images/insertioncase.png)

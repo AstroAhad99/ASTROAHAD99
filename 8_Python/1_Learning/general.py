@@ -277,6 +277,8 @@
 # name_time = {friends[i] : time_seen[i] for i in range(len(friends)) if time_seen[i]>5}
 # print(name_time)
 
+#________________________________________
+
 ## ZIP function
 
 # friends = ["Rolf", "Bob", "Jen", "Anne"]
@@ -284,6 +286,8 @@
 
 # combined = dict(zip(friends, time_seen))
 # print(combined)
+
+#________________________________________
 
 ## Enumerate Function
 # friends = ["Rolf", "Bob", "Jen", "Anne"]
@@ -297,6 +301,7 @@
 # print(dict(enumerate(friends))) # Build dictionary
 # print(list(enumerate(friends))) # Build tuple
 
+#________________________________________
 
 # #Print position of the character found in the string
 
@@ -311,6 +316,7 @@
 # str2 = "he"
 # print(str1.find(str2))
 
+#________________________________________
 
 # #Substings
 
@@ -325,3 +331,63 @@
 # #right_side = sentence[conjunction_index + 4:]
 # classy_sentence = left_side + "yet" + right_side
 # print(classy_sentence)
+
+#________________________________________
+
+# # Creating a simple function
+# def greet():
+#     name = input("Enter your name: ")
+#     print(f"Hello, {name}!")
+
+# greet()
+
+#________________________________________
+
+
+# # Creating function with arguments
+
+# # The following is the list of dictionary
+
+# cars = [{"make":"Ford", "model":"Fiesta","mileage":23000, "fuel_consumption":460},
+#        {"make":"Ford", "model":"Focus","mileage":17000, "fuel_consumption":350},
+#        {"make":"Mazda", "model":"MX-5","mileage":49000, "fuel_consumption":900},
+#        {"make":"Mini", "model":"Cooper","mileage":31000, "fuel_consumption":235}
+#        ]
+
+# def calculate_mpg(car):
+#     mpg = car["mileage"] / car["fuel_consumption"]
+#     name = f"{car["make"]} {car["model"]}"
+#     print(f"{name} does {mpg} miles per gallon.")
+
+# for car in cars:
+#     calculate_mpg(car)
+
+
+# # Now we are going to call functions inside funtions
+
+
+# cars = [{"make":"Ford", "model":"Fiesta","mileage":23000, "fuel_consumption":460},
+#        {"make":"Ford", "model":"Focus","mileage":17000, "fuel_consumption":350},
+#        {"make":"Mazda", "model":"MX-5","mileage":49000, "fuel_consumption":900},
+#        {"make":"Mini", "model":"Cooper","mileage":31000, "fuel_consumption":235}
+#        ]
+
+# def calculate_mpg(car_mileage, car_consump):
+#     mpg = car_mileage / car_consump
+#     return mpg
+
+
+# def car_name(car): 
+#     name = f"{car["make"]} {car["model"]}"
+#     return name
+
+
+# def print_car_info(car):
+#     mpg = calculate_mpg(car['mileage'], car['fuel_consumption'])
+#     name = car_name(car)
+#     return f"{name} does {mpg} miles per gallon."
+
+# for car in cars:
+# #   print(car['mileage'])
+#     print(print_car_info(car))
+
