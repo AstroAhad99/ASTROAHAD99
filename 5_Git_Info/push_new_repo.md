@@ -14,4 +14,6 @@
 
     ``` git remote add origin https://github.com/AstroAhad99/ASTROAHAD99.git ```
 
+    ``` git push --set-upstream origin master ```
+
 6. Done :)

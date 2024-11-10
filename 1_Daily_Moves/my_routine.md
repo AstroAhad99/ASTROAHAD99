@@ -49,3 +49,11 @@ https://go.tecla.do/python-operators-cheatsheet
 
 ### 25th August 2024
 1. Did lessons on Brilliant.org
+
+### 26th August - 18th September 2024
+1. I did Brilliant course every day
+
+#### 19th September - 29th September 2024
+1. I did Brilliant course every day
+2. I did python course on udemy from lesson 44 to 50.
+

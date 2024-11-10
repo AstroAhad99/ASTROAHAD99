@@ -1,9 +1,13 @@
 ### Extensions to install in VS Code
 
-#### 1. Auto Rename Tags
+#### Add python to environment variables
+C:\Users\Qanare\AppData\Local\Programs\Python\Python312\
+C:\Users\Qanare\AppData\Local\Programs\Python\Python312\Scripts\
+
+#### Auto Rename Tags
 Allows to renmae the tags automatically
 
-#### 2. Paste JSON as Code
+#### Paste JSON as Code
 Allow to work with Json effeciently
 
 #### Python

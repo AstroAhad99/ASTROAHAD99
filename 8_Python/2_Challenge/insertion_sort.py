@@ -24,3 +24,4 @@ print(array)
 # will be less otherwise it will be many comparisions
 # If the array is already sorted then (n-1) comparisions
 # If the array is unsorted then (n^2-n)/2 comparisions
+# the average case can be n^2/4 comparisions

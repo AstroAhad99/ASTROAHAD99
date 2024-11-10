@@ -26,3 +26,20 @@ in problem solving and analyse different solution based on the problem situation
 22. Formula for permutation is n!/(n-r)!: Eg: If there are 3 elements (1,2,3) then 6 orders
 
 ![Screenshot1](./Images/insertioncase.png)
+
+
+23. The algorithm design it is important to start simple. Then modify and generalize gradually to make it able to solve the real worl problem.
+
+24. The deffered - accceptance algorithm (gale-shapley algorithm) is applied on hospital and candidate scenario in which both hospital and candidates have a list of candidates and hospitals for priority selection. 
+
+25. First the hospital makes an offer and then candidates makes a decision. Candidates can also hold one offer and wait for another offer from the hospital.
+
+26. Algorithm works does not mean it will produce a correct result for every type of input.
+
+27. The algorithm must work on some cases and some not.
+
+28. When the algorithm has a loop then a programmer needs to find a condition where it get out of the loop to move ahead.
+
+29. When designing the algorithm you might use loops to control something.
+
+30. It is important that look for some parameters that become smaller or larger to conclude the algorithm on something.

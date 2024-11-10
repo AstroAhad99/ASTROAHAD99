@@ -363,6 +363,8 @@
 #     calculate_mpg(car)
 
 
+#__________________________________________
+
 # # Now we are going to call functions inside funtions
 
 
@@ -391,3 +393,84 @@
 # #   print(car['mileage'])
 #     print(print_car_info(car))
 
+#__________________________________________
+
+# # The folowing is we are going to define the function with named arguments.
+# # You can add a default value also in the add function
+# # You can also define the values in the function when calling them after defining the function
+
+
+# def add(x=2, y=1):
+#     total = x + y
+#     print(total)
+
+# print(add(5, 5))
+
+# print(1, 2, 3, 4, 5, sep="-")
+
+#__________________________________________
+
+# # Now we are going to do the lambda function that we can use instead 
+# # of defining function. Lambda is use as one liner function.
+
+# # def average(sequence):
+# #     return sum(sequence)/len(sequence)
+
+# average = lambda sequence: sum(sequence)/len(sequence)
+
+# students = [{"name":"Rolf", "grade":(67, 90, 95, 100)},
+#             {"name":"Bob", "grade":(56, 78, 80, 90)},
+#             {"name":"Jen", "grade":(98, 90, 95, 99)},
+#             {"name":"Anne", "grade":(100, 100, 95, 100)}]
+
+
+# for student in students:
+#     print(average(student["grade"]))
+
+
+# Creating functions using lambda inside the dictionary
+
+# operations = {"avg":lambda seq: sum(seq)/len(seq),
+#               "sum":lambda seq: sum(seq),
+#               "max":lambda seq: max(seq)}
+
+# students = [{"name":"Rolf", "grade":(67, 90, 95, 100)},
+#              {"name":"Bob", "grade":(56, 78, 80, 90)},
+#              {"name":"Jen", "grade":(98, 90, 95, 99)},
+#              {"name":"Anne", "grade":(100, 100, 95, 100)}]
+
+
+# for student in students:
+    
+#     name = student["name"]
+#     grade = student["grade"]
+
+#     print(f"Student name is: {name}")
+#     action = input("Enter the operation name (avg), (sum), (max): ")
+
+#     set_function = operations[action]
+#     print(set_function(grade))
+
+# _______________________________________________________
+
+# def over_age(data, getter):
+#     return getter(data) >= 18
+ 
+# user = { 'username': 'rolf123', 'age': '35' }
+ 
+# print(over_age(user, lambda x: int(x['age'])))
+
+# _______________________________________________________
+
+# movies = [{'title': 'aa', 'director': 'sdf', 'year': '123'}, {'title': 'qer', 'director': '345', 'year': 'gfd'}]
+
+# inp = str(input("Something: "))
+
+# for dicti in movies:
+#     print(dicti)
+#     for key, value in dicti.items():
+#         if value == inp:
+#             print("Found")
+#             break
+
+# _______________________________________________________

@@ -10,3 +10,4 @@
 
 ![Screenshot](./Images/prioralgo2.png)
 
+4. Defection means to match up.

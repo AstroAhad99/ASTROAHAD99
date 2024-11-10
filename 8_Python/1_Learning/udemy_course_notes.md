@@ -182,3 +182,11 @@ if friend.lower() in lower:
 36. There is another function called ZIP which is used to combine two or more list together like in a tuple.
 
 37. Another function is the Enumerate which give the corresponding index of the element in the simple list.
+
+38. The functions are define by using def keyword.
+
+39. By passing the function inside a print function it will print the return value of the function.
+
+40. print function has a builtin function called (sep) to seperate the values that are printed.
+
+41. Python interpreter goes from top to bottom when executing.

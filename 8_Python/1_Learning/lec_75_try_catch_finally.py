@@ -1,3 +1,9 @@
+"""
+If you catch the type error then it will not show the description of the error that you have added in the function
+block with the raise exception.
+
+"""
+
 class Car:
     def __init__(self, make, model):
         self.make = make
@@ -27,8 +33,14 @@ class Garage:
 
 
 ford = Garage()
-car = Car('Ford', 'Fiesta')
-ford.add_cars(car)
-print(ford)
-print(car)
-print(len(ford))
+car1 = Car('Ford', 'Fiesta')
+car2 = Car('Toyota', 'Carrolla')
+try:
+    ford.add_cars(car1)
+    ford.add_cars(car2)
+    #ford.add_cars('car')
+except TypeError:
+    print('Your car was not a car.')
+finally:
+    print(f'The garage has now {len(ford)} cars.')
+    print(ford)
