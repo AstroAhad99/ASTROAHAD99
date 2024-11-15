@@ -1,0 +1,3 @@
+Ahad,25,Uit,Engineering
+Ali,20,NED,MBBS
+Ahmed,26,Dha,Law
