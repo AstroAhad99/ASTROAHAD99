@@ -16,5 +16,5 @@ The following line allows to raise the error message that you have created MyErr
 
 err = MyError('This error occured', 500)
 print(err.__doc__) # this function shows the doc which is inside the class
-
+print(err)
 
