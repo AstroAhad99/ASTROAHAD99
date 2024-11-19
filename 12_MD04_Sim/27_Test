@@ -147,7 +147,7 @@ ax.set_ylim(-100, conveyor_height + 100)
 ax.axis('on')
 
 def Builder():
-    x_positions = [random.randint(0, 20) for pos in range(0,4)]
+    x_positions = [random.randint(5, 40) for pos in range(0,4)]
     lanes_y = [0, 150, 300, 450]  # Y-positions for each lane
     conveyor_id = [1, 2, 3, 4]
     widths = [random.randint(40, 80) for wid in range(0,4)]
@@ -189,6 +189,7 @@ interface = ConveyorInterface()
 conveyors = []
 for idx, lane_y in enumerate(lanes_y):
     conveyor = Conveyor(ax, lane_y, idx, interface, bulder[idx])
+    interface.register_box(bulder[idx])
     conveyors.append(conveyor)
     interface.register_conveyor(conveyor)
 
