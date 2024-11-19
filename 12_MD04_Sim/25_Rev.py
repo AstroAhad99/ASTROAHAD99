@@ -93,7 +93,7 @@ class Conveyor:
 
     def initialize_box(self):
         # Create a new box with a random starting position
-        initial_x = random.randint(0, 20)
+        initial_x = random.randint(50, 100)
         self.box = Box(self.ax, self.lane_y, self.conveyor_id + 1, initial_x, 0)  # Priority will be set later
         self.interface.register_box(self.box)
         self.interface.assign_priorities()  # Assign initial priorities based on distance to exit
@@ -158,7 +158,7 @@ class ConveyorInterface:
 
     def assign_priorities(self):
         # Sort boxes by distance to the exit and assign priorities
-        sorted_boxes = sorted(self.boxes, key=lambda box: box.x_pos + box.width)
+        sorted_boxes = sorted(self.boxes, key=lambda box:conveyor_height - box.x_pos + abs(box.get_right_edge() - box.get_left_edge()))
         print(sorted_boxes)
         for priority, box in enumerate(sorted_boxes, start=1):
             box.priority = priority

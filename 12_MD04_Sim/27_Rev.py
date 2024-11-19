@@ -115,7 +115,7 @@ class Conveyor:
         # Reinitialize boxes if all have exited
         if not any(conveyor.box for conveyor in self.interface.conveyors.values()):
 #            self.interface.reinitialize_boxes()
-            Builder()
+            Builder.has_run = False
 
 # Conveyor interface to manage interactions between conveyors
 class ConveyorInterface:
@@ -147,20 +147,26 @@ ax.set_ylim(-100, conveyor_height + 100)
 ax.axis('on')
 
 def Builder():
-    x_positions = [random.randint(5, 40) for pos in range(0,4)]
+
+    if getattr(Builder, 'has_run', False):
+        print("This function has already run.")
+        return
+    print("Running the function...")
+
+    x_positions = [random.randint(50, 100) for pos in range(0,4)]
     lanes_y = [0, 150, 300, 450]  # Y-positions for each lane
     conveyor_id = [1, 2, 3, 4]
-    widths = [random.randint(40, 80) for wid in range(0,4)]
-    heights = [random.randint(40, 80) for hei in range(0,4)]
+    widths = [random.randint(10, 30) for wid in range(0,4)]
+    heights = [random.randint(30, 40) for hei in range(0,4)]
     priority = []
     make_boxes = [Box(ax, lanes_y[pos], conveyor_id[pos], x_positions[pos], 0, widths[pos], heights[pos]) for pos in range(0, 4)]
     distances = []
 
     for index, value in enumerate(make_boxes):
-        left_edge = value.get_left_edge()
-        right_edge = value.get_right_edge()
-
-        dist = x_positions[index] + (left_edge - right_edge)
+        left_edge = abs(value.get_left_edge())
+        right_edge = abs(value.get_right_edge())
+        print(left_edge, right_edge)
+        dist = conveyor_height - x_positions[index] + (right_edge - left_edge)
         distances.append(dist)
 
     # Sorting the list while keeping track of indices
@@ -172,12 +178,13 @@ def Builder():
     # Assign priorities based on the sorted indices
     for rank, index in enumerate(sorted_indices, start=1):
         priority[index] = len(distances) - rank + 1
-
+    print(distances)
+    print(priority)
     final_boxes = [Box(ax, lanes_y[pos], conveyor_id[pos], x_positions[pos], priority[pos], widths[pos], heights[pos]) for pos in range(0, 4)]
     return final_boxes
 
 
-bulder = Builder()
+builder = Builder()
 
 
 # Draw conveyor lane borders
@@ -188,8 +195,9 @@ for lane_y in lanes_y:
 interface = ConveyorInterface()
 conveyors = []
 for idx, lane_y in enumerate(lanes_y):
-    conveyor = Conveyor(ax, lane_y, idx, interface, bulder[idx])
-    interface.register_box(bulder[idx])
+    Builder.has_run = True
+    conveyor = Conveyor(ax, lane_y, idx, interface, builder[idx])
+    interface.register_box(builder[idx])
     conveyors.append(conveyor)
     interface.register_conveyor(conveyor)
 
