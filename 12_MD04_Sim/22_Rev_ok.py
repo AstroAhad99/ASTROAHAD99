@@ -125,7 +125,7 @@ class ConveyorInterface:
 # Initialize plot
 fig, ax = plt.subplots(figsize=(12, 6))
 ax.set_xlim(0, conveyor_length)
-ax.set_ylim(-5, 15)
+ax.set_ylim(-10, 20)
 ax.axis("on")
 
 # Draw conveyor lane borders
@@ -134,8 +134,13 @@ ax.plot([0, conveyor_length + 10], [0, 0], color="black", linewidth=2)
 
 # Create ConveyorInterface and conveyors
 interface = ConveyorInterface(ax)
-conveyor1 = ConveyorWithEdgeMarkers(ax, 10, 0, interface=interface)  # Section 1
-conveyor2 = ConveyorWithEdgeMarkers(ax, 0, 0, paired_conveyor=conveyor1, interface=interface)  # Section 2
+
+#conveyor1 = ConveyorWithEdgeMarkers(ax, 10, 0, interface=interface)  # Section 1
+#conveyor2 = ConveyorWithEdgeMarkers(ax, 0, 0, paired_conveyor=conveyor1, interface=interface)  # Section 2
+
+conveyor2 = ConveyorWithEdgeMarkers(ax, 0, 0, interface=interface)  # Section 2
+conveyor1 = ConveyorWithEdgeMarkers(ax, 10, 0, paired_conveyor=conveyor2, interface=interface)  # Section 1
+
 interface.add_conveyor(conveyor1)
 interface.add_conveyor(conveyor2)
 interface.register_box(conveyor1.box)
