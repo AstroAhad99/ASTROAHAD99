@@ -1,3 +1,4 @@
+from typing import Self
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 import numpy as np
@@ -114,15 +115,50 @@ class Conveyor:
 
         # Reinitialize boxes if all have exited
         if not any(conveyor.box for conveyor in self.interface.conveyors.values()):
-#            self.interface.reinitialize_boxes()
-            Builder.has_run = False
+            self.interface.Builder()
 
 # Conveyor interface to manage interactions between conveyors
 class ConveyorInterface:
     def __init__(self):
         self.boxes = []
         self.conveyors = {}
+        self.builds = []
 
+    def __repr__(self) -> str:
+        pass
+
+    def Builder(self):
+        self.boxes.clear()
+        x_positions = [random.randint(50, 100) for pos in range(0,4)]
+        lanes_y = [0, 150, 300, 450]  # Y-positions for each lane
+        conveyor_id = [1, 2, 3, 4]
+        widths = [random.randint(10, 30) for wid in range(0,4)]
+        heights = [random.randint(30, 40) for hei in range(0,4)]
+        priority = []
+        make_boxes = [Box(ax, lanes_y[pos], conveyor_id[pos], x_positions[pos], 0, widths[pos], heights[pos]) for pos in range(0, 4)]
+        distances = []
+
+        for index, value in enumerate(make_boxes):
+            left_edge = abs(value.get_left_edge())
+            right_edge = abs(value.get_right_edge())
+            print(left_edge, right_edge)
+            dist = conveyor_height - x_positions[index] + (right_edge - left_edge)
+            distances.append(dist)
+
+        # Sorting the list while keeping track of indices
+        sorted_indices = sorted(range(len(distances)), key=lambda x: distances[x])
+
+        # Create the priority list with default value 0
+        priority = [0] * len(distances)
+
+        # Assign priorities based on the sorted indices
+        for rank, index in enumerate(sorted_indices, start=1):
+            priority[index] = len(distances) - rank + 1
+        print(distances)
+        print(priority)
+        self.builds = [Box(ax, lanes_y[pos], conveyor_id[pos], x_positions[pos], priority[pos], widths[pos], heights[pos]) for pos in range(0, 4)]
+        return self.builds
+    
     def register_conveyor(self, conveyor):
         self.conveyors[conveyor.conveyor_id] = conveyor
 
@@ -146,46 +182,6 @@ ax.set_xlim(-100, conveyor_height)
 ax.set_ylim(-100, conveyor_height + 100)
 ax.axis('on')
 
-def Builder():
-
-    if getattr(Builder, 'has_run', False):
-        print("This function has already run.")
-        return
-    print("Running the function...")
-
-    x_positions = [random.randint(50, 100) for pos in range(0,4)]
-    lanes_y = [0, 150, 300, 450]  # Y-positions for each lane
-    conveyor_id = [1, 2, 3, 4]
-    widths = [random.randint(10, 30) for wid in range(0,4)]
-    heights = [random.randint(30, 40) for hei in range(0,4)]
-    priority = []
-    make_boxes = [Box(ax, lanes_y[pos], conveyor_id[pos], x_positions[pos], 0, widths[pos], heights[pos]) for pos in range(0, 4)]
-    distances = []
-
-    for index, value in enumerate(make_boxes):
-        left_edge = abs(value.get_left_edge())
-        right_edge = abs(value.get_right_edge())
-        print(left_edge, right_edge)
-        dist = conveyor_height - x_positions[index] + (right_edge - left_edge)
-        distances.append(dist)
-
-    # Sorting the list while keeping track of indices
-    sorted_indices = sorted(range(len(distances)), key=lambda x: distances[x])
-
-    # Create the priority list with default value 0
-    priority = [0] * len(distances)
-
-    # Assign priorities based on the sorted indices
-    for rank, index in enumerate(sorted_indices, start=1):
-        priority[index] = len(distances) - rank + 1
-    print(distances)
-    print(priority)
-    final_boxes = [Box(ax, lanes_y[pos], conveyor_id[pos], x_positions[pos], priority[pos], widths[pos], heights[pos]) for pos in range(0, 4)]
-    return final_boxes
-
-
-builder = Builder()
-
 
 # Draw conveyor lane borders
 for lane_y in lanes_y:
@@ -193,11 +189,11 @@ for lane_y in lanes_y:
 
 # Create ConveyorInterface and Conveyor objects
 interface = ConveyorInterface()
+builds = interface.Builder()
 conveyors = []
 for idx, lane_y in enumerate(lanes_y):
-    Builder.has_run = True
-    conveyor = Conveyor(ax, lane_y, idx, interface, builder[idx])
-    interface.register_box(builder[idx])
+    conveyor = Conveyor(ax, lane_y, idx, interface, builds[idx])
+    interface.register_box(builds[idx])
     conveyors.append(conveyor)
     interface.register_conveyor(conveyor)
 

@@ -1,3 +1,4 @@
+from typing import Self
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 import numpy as np
@@ -13,7 +14,7 @@ gap = 40  # Required gap between tail of one box and head of the next box in pix
 
 # Box class representing each parcel
 class Box:
-    def __init__(self, ax, lane_y, box_id, initial_x, priority):
+    def __init__(self, ax, lane_y, box_id, initial_x, priority, width, height):
         self.ax = ax
         self.lane_y = lane_y
         self.box_id = box_id
@@ -21,9 +22,9 @@ class Box:
         self.x_pos = initial_x
         self.left_edge = 0
         self.right_edge = 0
-        self.width = random.randint(40, 80)  # Random width within specified range
-        self.height = random.randint(40, 80)  # Random height within specified range
-        self.rotation_angle = np.radians(random.uniform(0, 90))
+        self.width = width
+        self.height = height
+        self.rotation_angle = np.radians(random.uniform(0, 0))
         self.speed = 2  # Initial speed
         self.create_box()
 
@@ -42,7 +43,7 @@ class Box:
             [np.cos(self.rotation_angle), -np.sin(self.rotation_angle)],
             [np.sin(self.rotation_angle), np.cos(self.rotation_angle)]
         ])
-        centered_y = lane_y + (150 - self.height) / 2
+        centered_y = self.lane_y + (150 - self.height) / 2
         rotated_corners = self.corners.dot(rotation_matrix) + [self.x_pos, self.lane_y]
         self.rect = patches.Polygon(rotated_corners, closed=True, edgecolor="black", facecolor="lightgrey")
         self.text = ax.text(self.x_pos + self.width / 4, centered_y + self.height / 4, str(self.priority),
@@ -83,20 +84,44 @@ class Box:
 
 # Conveyor class to manage a single box on a single lane
 class Conveyor:
-    def __init__(self, ax, lane_y, conveyor_id, interface):
+    def __init__(self, ax, lane_y, conveyor_id, interface, box):
         self.ax = ax
         self.lane_y = lane_y
         self.conveyor_id = conveyor_id
         self.interface = interface  # Interface to interact with other conveyors
-        self.box = None  # Initialize without a box
-        self.initialize_box()  # Initialize the first box
+        self.box = box  # Initialize without a box
 
-    def initialize_box(self):
-        # Create a new box with a random starting position
-        initial_x = random.randint(0, 20)
-        self.box = Box(self.ax, self.lane_y, self.conveyor_id + 1, initial_x, 0)  # Priority will be set later
-        self.interface.register_box(self.box)
-        self.interface.assign_priorities()  # Assign initial priorities based on distance to exit
+    def Builder(self):
+        self.boxes.clear()
+        x_positions = [random.randint(50, 100) for pos in range(0,4)]
+        lanes_y = [0, 150, 300, 450]  # Y-positions for each lane
+        conveyor_id = [1, 2, 3, 4]
+        widths = [random.randint(10, 30) for wid in range(0,4)]
+        heights = [random.randint(30, 40) for hei in range(0,4)]
+        priority = []
+        make_boxes = [Box(ax, lanes_y[pos], conveyor_id[pos], x_positions[pos], 0, widths[pos], heights[pos]) for pos in range(0, 4)]
+        distances = []
+
+        for index, value in enumerate(make_boxes):
+            left_edge = abs(value.get_left_edge())
+            right_edge = abs(value.get_right_edge())
+            print(left_edge, right_edge)
+            dist = conveyor_height - x_positions[index] + (right_edge - left_edge)
+            distances.append(dist)
+
+        # Sorting the list while keeping track of indices
+        sorted_indices = sorted(range(len(distances)), key=lambda x: distances[x])
+
+        # Create the priority list with default value 0
+        priority = [0] * len(distances)
+
+        # Assign priorities based on the sorted indices
+        for rank, index in enumerate(sorted_indices, start=1):
+            priority[index] = len(distances) - rank + 1
+        print(distances)
+        print(priority)
+        self.builds = [Box(ax, lanes_y[pos], conveyor_id[pos], x_positions[pos], priority[pos], widths[pos], heights[pos]) for pos in range(0, 4)]
+        return self.builds
 
     def update_position(self):
         if self.box:
@@ -122,14 +147,18 @@ class Conveyor:
 
         # Reinitialize boxes if all have exited
         if not any(conveyor.box for conveyor in self.interface.conveyors.values()):
-            self.interface.reinitialize_boxes()
+            self.interface.Builder()
 
 # Conveyor interface to manage interactions between conveyors
 class ConveyorInterface:
     def __init__(self):
         self.boxes = []
         self.conveyors = {}
+        self.builds = []
 
+    def __repr__(self) -> str:
+        pass
+    
     def register_conveyor(self, conveyor):
         self.conveyors[conveyor.conveyor_id] = conveyor
 
@@ -147,30 +176,12 @@ class ConveyorInterface:
             return min(lower_priority_boxes, key=lambda b: b.priority)
         return None
 
-    def reinitialize_boxes(self):
-        # Clear all existing boxes
-        self.boxes.clear()
-        # Reinitialize each conveyor with a new box at a random position
-        for conveyor in self.conveyors.values():
-            conveyor.initialize_box()
-        # Assign new priorities based on proximity to exit
-        self.assign_priorities()
-
-    def assign_priorities(self):
-        # Sort boxes by distance to the exit and assign priorities
-        sorted_boxes = sorted(self.boxes, key=lambda box: conveyor_height - box.x_pos + (box.get_left_edge() - box.get_right_edge()))
-        print(sorted_boxes)
-        for priority, box in enumerate(sorted_boxes, start=1):
-            box.priority = priority
-            box.text.set_text(str(box.priority))  # Update the displayed priority
-
-
-
 # Initialize plot
 fig, ax = plt.subplots()
 ax.set_xlim(-100, conveyor_height)
 ax.set_ylim(-100, conveyor_height + 100)
 ax.axis('on')
+
 
 # Draw conveyor lane borders
 for lane_y in lanes_y:
@@ -178,9 +189,11 @@ for lane_y in lanes_y:
 
 # Create ConveyorInterface and Conveyor objects
 interface = ConveyorInterface()
+builds = interface.Builder()
 conveyors = []
 for idx, lane_y in enumerate(lanes_y):
-    conveyor = Conveyor(ax, lane_y, idx, interface)
+    conveyor = Conveyor(ax, lane_y, idx, interface, builds[idx])
+    interface.register_box(builds[idx])
     conveyors.append(conveyor)
     interface.register_conveyor(conveyor)
 

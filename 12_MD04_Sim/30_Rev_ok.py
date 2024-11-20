@@ -21,14 +21,14 @@ class Box:
         self.x_pos = initial_x
         self.left_edge = 0
         self.right_edge = 0
-        self.width = random.randint(40, 80)  # Random width within specified range
-        self.height = random.randint(40, 80)  # Random height within specified range
-        self.rotation_angle = np.radians(random.uniform(0, 90))
+        self.width = 50 # random.randint(10, 30)  # Random width within specified range
+        self.height = 50 # random.randint(10, 40)  # Random height within specified range
+        self.rotation_angle = 0 # np.radians(random.uniform(0, 90))
         self.speed = 2  # Initial speed
         self.create_box()
 
-    def __repr__(self):
-        return (f"Priority={self.priority}, X_pos={self.x_pos}")
+    #def __repr__(self):
+    #    return (f"Priority={self.priority}, X_pos={self.x_pos}")
 
     def create_box(self):
     # Calculate the rotated corners of the box
@@ -42,6 +42,7 @@ class Box:
             [np.cos(self.rotation_angle), -np.sin(self.rotation_angle)],
             [np.sin(self.rotation_angle), np.cos(self.rotation_angle)]
         ])
+        #print(rotation_matrix)
         centered_y = lane_y + (150 - self.height) / 2
         rotated_corners = self.corners.dot(rotation_matrix) + [self.x_pos, self.lane_y]
         self.rect = patches.Polygon(rotated_corners, closed=True, edgecolor="black", facecolor="lightgrey")
@@ -93,14 +94,14 @@ class Conveyor:
 
     def initialize_box(self):
         # Create a new box with a random starting position
-        initial_x = random.randint(0, 20)
+        initial_x = random.randint(60, 120)
         self.box = Box(self.ax, self.lane_y, self.conveyor_id + 1, initial_x, 0)  # Priority will be set later
         self.interface.register_box(self.box)
-        self.interface.assign_priorities()  # Assign initial priorities based on distance to exit
+        self.interface.assign_priorities()  # Assign priorities based on distance to exit
 
     def update_position(self):
         if self.box:
-            if self.box.get_right_edge() < exit_position:
+            if self.box.get_left_edge() < exit_position:
                 # Get the next lower-priority box
                 next_box = self.interface.get_next_priority_box(self.box.priority)
 
@@ -129,6 +130,11 @@ class ConveyorInterface:
     def __init__(self):
         self.boxes = []
         self.conveyors = {}
+        self.distances = [0, 0, 0, 0]
+        self.priority = None 
+
+    def __repr__(self) -> str:
+        return f"Distances: {self.distances}, Priorities: {self.priority}"
 
     def register_conveyor(self, conveyor):
         self.conveyors[conveyor.conveyor_id] = conveyor
@@ -144,7 +150,9 @@ class ConveyorInterface:
         # Get the next lower-priority box
         lower_priority_boxes = [box for box in self.boxes if box.priority > current_priority]
         if lower_priority_boxes:
-            return min(lower_priority_boxes, key=lambda b: b.priority)
+            prior = min(lower_priority_boxes, key=lambda b: b.priority)
+            #print(prior)
+            return prior
         return None
 
     def reinitialize_boxes(self):
@@ -154,15 +162,40 @@ class ConveyorInterface:
         for conveyor in self.conveyors.values():
             conveyor.initialize_box()
         # Assign new priorities based on proximity to exit
-        self.assign_priorities()
+        # self.assign_priorities()
 
     def assign_priorities(self):
         # Sort boxes by distance to the exit and assign priorities
-        sorted_boxes = sorted(self.boxes, key=lambda box: conveyor_height - box.x_pos + (box.get_left_edge() - box.get_right_edge()))
-        print(sorted_boxes)
-        for priority, box in enumerate(sorted_boxes, start=1):
-            box.priority = priority
+
+        if len(self.boxes) != 4:
+            return
+
+        for index, value in enumerate(self.boxes):
+            left_edge = abs(value.get_left_edge())
+            right_edge = abs(value.get_right_edge())
+            dist = conveyor_height - value.x_pos + (right_edge - left_edge)
+            #print(value.x_pos, left_edge, right_edge, (right_edge - left_edge))
+            self.distances[index] = dist
+
+        # Sorting the list while keeping track of indices
+        sorted_indices = sorted(range(len(self.distances)), key=lambda x: self.distances[x])
+
+        # Create the priority list with default value 0
+        self.priority = [0] * len(self.distances)
+
+        # Assign priorities based on the sorted indices
+        for rank, index in enumerate(sorted_indices, start=1):
+            self.priority[index] = len(self.distances) - rank + 1
+
+        # Assign priorities to the boxes
+        for idex, box in enumerate(self.boxes):
+            box.priority = self.priority[idex]
             box.text.set_text(str(box.priority))  # Update the displayed priority
+
+        rounded_distances = [round(val, 2) for val in self.distances]
+        print(rounded_distances)
+        print(self.priority)
+
 
 
 
@@ -178,9 +211,11 @@ for lane_y in lanes_y:
 
 # Create ConveyorInterface and Conveyor objects
 interface = ConveyorInterface()
+
 conveyors = []
 for idx, lane_y in enumerate(lanes_y):
     conveyor = Conveyor(ax, lane_y, idx, interface)
+    
     conveyors.append(conveyor)
     interface.register_conveyor(conveyor)
 
