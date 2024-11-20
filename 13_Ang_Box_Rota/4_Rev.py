@@ -3,12 +3,16 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Define parameters for gradual angle increase
-L1 = 10.0  # Length of conveyor 1 (in meters)
-T = 9.0  # Threshold position (90% of conveyor 1 length)
-P = np.linspace(0, L1, 200)  # Box positions along conveyor 1 (tracking of box on MD05)
+L1 = 10.0  # Length of conveyor MD05 (in meters)
+T = 9.0  # Threshold position (when 90% of MD05 length)
+P = np.linspace(0, L1, 200)  # Box positions along MD05 (tracking of box on MD05)
 W = 1.0  # Box width (in meters) (input the width of the box)
 L_offset = 0.1  # Effective length offset for angle calculation
 theta_final = np.degrees(np.arctan(W / L_offset))  # Final roller angle for 1m box
+# Sigmoid gradual angle function (non-linear)
+k = 6  # Steepness factor for sigmoid
+theta_sigmoid = theta_final / (1 + np.exp(-k * (P - T)))
+
 
 # Linear gradual angle function
 theta_linear = np.where(P >= T, theta_final * (P - T) / (L1 - T), 0)

@@ -12,7 +12,7 @@ class database_connection:
         self.connection = None
         self.cursor = None
 
-    def __enter__(self):
+    def __enter__(self) -> sqlite3.Connection:
         self.connection = sqlite3.connect(self.database)
         self.cursor = self.connection.cursor()
         return self.cursor

@@ -3,7 +3,7 @@
 using context manager to avoid opening and closing of the db connection multiple times
 
 """
-
+from typing import List, Dict, Union
 # from .db_conn import database_connection
 # OR
 from utils.db_conn import database_connection
@@ -11,14 +11,14 @@ from utils.db_conn import database_connection
 books_file = "C:\\Users\\Qanare\\Documents\\ASTROAHAD99\\8_Python\\2_Challenge\\milestone_proj2_V4\\utils\\books.db"
             
 
-def _create_book_table():
+def _create_book_table() -> None:
     with database_connection(books_file) as cursor:
         # cursor = connection.cursor()
         query = "CREATE TABLE IF NOT EXISTS books(name text primary key, author text, read integer)"
         cursor.execute(query)
 
 
-def add_book(name, author):
+def add_book(name: str, author: str) -> None:
     _create_book_table()
 
     with database_connection(books_file) as cursor:
@@ -27,7 +27,7 @@ def add_book(name, author):
         cursor.execute(query, (name, author))
 
 
-def get_all_books():
+def get_all_books() -> List[Dict[str, str]]:
     with database_connection(books_file) as cursor:
         query = "SELECT * FROM books"
         cursor.execute(query)
@@ -36,13 +36,13 @@ def get_all_books():
     return books
 
 
-def mark_book_as_read(name):
+def mark_book_as_read(name: str) -> None:
     with database_connection(books_file) as cursor:
         query = "UPDATE books SET read=1 WHERE name=?"
         cursor.execute(query, (name,))
 
 
-def delete_book(name):
+def delete_book(name: str) -> None:
     with database_connection(books_file) as cursor:
         query = "DELETE FROM books WHERE name=?"
         cursor.execute(query,(name,))
