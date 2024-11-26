@@ -21,17 +21,18 @@ class Box:
         self.x_pos = initial_x
         self.left_edge = 0
         self.right_edge = 0
-        self.width = random.randint(30, 50)
-        self.height = random.randint(30, 50) 
-        self.rotation_angle = np.radians(random.uniform(0, -45))
+        self.width = 30 #random.randint(30, 50)
+        self.height = 30 #random.randint(30, 50) 
+        self.rotation_angle = 0 #np.radians(random.uniform(0, 0))
         self.speed = 2
         self.create_box()
 
     def __repr__(self):
-        return (f"X_pos={self.x_pos}")
+        return (f"X_pos={self.priority}")
 
     def create_box(self):
     # Calculate the rotated corners of the box
+        #print(self.priority)
         self.corners = np.array([
             [-self.width / 2, -self.height / 2],
             [self.width / 2, -self.height / 2],
@@ -43,8 +44,8 @@ class Box:
             [np.cos(self.rotation_angle), -np.sin(self.rotation_angle)],
             [np.sin(self.rotation_angle), np.cos(self.rotation_angle)]
         ])
-        print(rotation_matrix)
-        centered_y = lane_y + (150 - self.height) / 2
+        #print(rotation_matrix)
+        centered_y = (self.lane_y - 20) - self.height / 2
         rotated_corners = self.corners.dot(rotation_matrix) + [self.x_pos, self.lane_y]
         #print(rotated_corners)
         self.rect = patches.Polygon(rotated_corners, closed=True, edgecolor="black", facecolor="lightgrey")
@@ -96,17 +97,21 @@ class Conveyor:
 
     def initialize_box(self):
         # Create a new box with a random starting position
-        initial_x = random.randint(50, 100)
+        initial_x = random.randint(-70, -20) #random.randint(50, 100)
         self.box = Box(self.ax, self.lane_y, self.conveyor_id + 1, initial_x, 0)  # Priority will be set later
-        self.interface.register_box(self.box)
-        self.interface.assign_priorities()  # Assign priorities based on distance to exit
+#        self.interface.register_box(self.box)
+#        self.interface.assign_priorities()  # Assign priorities based on distance to exit
 
     def update_position(self):
         if self.box:
-            if self.box.get_left_edge() < exit_position:
+            
+            if self.box.get_left_edge() > 0 and self.box.priority < 1:
+                self.interface.register_box(self.box)
+                self.interface.assign_priorities()
+
+            elif self.box.get_left_edge() < exit_position and self.box.get_left_edge() > 0:
                 # Get the next lower-priority box
                 next_box = self.interface.get_next_priority_box(self.box.priority)
-
                 # Adjust speed based on the gap requirement with the next lower-priority box
                 if next_box:
                     distance_to_next_box = next_box.get_left_edge() - self.box.get_right_edge()
@@ -117,11 +122,14 @@ class Conveyor:
 
                 # Move the box
                 self.box.move()
-            else:
+            elif self.box.get_left_edge() > exit_position:
                 # Remove the box if it reaches the exit
                 self.box.remove()
                 self.interface.unregister_box(self.box)
                 self.box = None  # Set to None so a new box can be created
+
+            else:
+                self.box.move()
 
         # Reinitialize boxes if all have exited
         if not any(conveyor.box for conveyor in self.interface.conveyors.values()):
@@ -169,8 +177,8 @@ class ConveyorInterface:
     def assign_priorities(self):
         # Sort boxes by distance to the exit and assign priorities
 
-        if len(self.boxes) != 4:
-            return
+#        if len(self.boxes) != 4:
+#            return
 
         for index, value in enumerate(self.boxes):
             left_edge = abs(value.get_left_edge())
@@ -201,18 +209,25 @@ class ConveyorInterface:
         print(self.priority)
         print("-------------")
 
-
+    def assign_priority_check(self):
+        pass
 
 
 # Initialize plot
 fig, ax = plt.subplots()
-ax.set_xlim(0, conveyor_height)
-ax.set_ylim(-100, conveyor_height + 100)
+ax.set_xlim(-100, conveyor_height + 100)
+ax.set_ylim(0, conveyor_height)
 ax.axis('on')
 
 # Draw conveyor lane borders
 for lane_y in lanes_y:
-    ax.plot([-100, conveyor_height], [lane_y, lane_y], color='gray', linestyle='-', linewidth=2)
+    ax.plot([-100, conveyor_height + 100], [lane_y, lane_y], color='gray', linestyle='-', linewidth=2)
+
+
+# Add vertical lines at x = 0 and x = 600
+ax.axvline(x=0, color='red', linestyle='--', linewidth=2, label="Start Line")
+ax.axvline(x=600, color='blue', linestyle='--', linewidth=2, label="Exit Line")
+
 
 # Create ConveyorInterface and Conveyor objects
 interface = ConveyorInterface()
