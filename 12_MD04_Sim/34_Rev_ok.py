@@ -12,9 +12,12 @@ exit_position = 600  # Position where boxes exit the conveyor
 lanes_y = [0, 150, 300, 450]  # Y-positions for each lane
 gap = 40  # Required gap between tail of one box and head of the next box in pixels
 
+
 # Box class representing each parcel
 class Box:
+    last_box_id = 0
     def __init__(self, ax, lane_y, conveyor_id, initial_x, priority):
+        Box.last_box_id = Box.last_box_id + 1
         self.ax = ax
         self.lane_y = lane_y + 60
         self.conveyor_id = conveyor_id
@@ -26,10 +29,12 @@ class Box:
         self.height = 30 #random.randint(30, 50) 
         self.rotation_angle = 0 #np.radians(random.uniform(0, 0))
         self.speed = 2
+        self.box_id = Box.last_box_id
+        
         self.create_box()
 
     def __repr__(self):
-        return (f"X_pos={self.priority}")
+        return (f"Box_id= {self.box_id} X_pos={self.x_pos}, Priority={self.priority}")
 
     def create_box(self):
     # Calculate the rotated corners of the box
@@ -94,50 +99,44 @@ class Conveyor:
         self.interface = interface  # Interface to interact with other conveyors
         self.box = None  # Initialize without a box
         self.speed = 2
-        self.initialize_box()  # Initialize the first box
+
 
     def __repr__(self) -> str:
         return str(self.conveyor_id)
 
-    def initialize_box(self):
-        # Create a new box with a random starting position
-
-        initial_x = random.randint(-70, -20) #random.randint(50, 100)
-        self.box = Box(self.ax, self.lane_y, self.conveyor_id + 1, initial_x, 0)  # Priority will be set later
 
     def update_position(self):
-
+       
         if self.box:
-            
-            if self.box.get_left_edge() > 0 and self.box.priority < 1:
+            if self.box.get_left_edge() > 0 and self.box.priority == 0:
+                print(f"First Condition box: {self.box}")
                 self.interface.register_box(self.box)
                 self.interface.assign_priorities()
+                print(f"No priority assigned: {self.box}")
 
-            elif self.box.get_left_edge() < exit_position and self.box.get_left_edge() > 0:
-                # Get the next lower-priority box
+            if self.box.get_left_edge() < exit_position and self.box.get_left_edge() > 0:
+                print(f"Second Condition box: {self.box}")
                 next_box = self.interface.get_next_priority_box(self.box.priority)
-                # Adjust speed based on the gap requirement with the next lower-priority box
                 if next_box:
                     distance_to_next_box = next_box.get_left_edge() - self.box.get_right_edge()
-                    if distance_to_next_box < gap:
-                        self.box.speed = 1  # Slow down if the distance is less than the gap
-                    else:
-                        self.box.speed = 2  # Speed up if distance is sufficient
+                    self.box.speed = 1 if distance_to_next_box < gap else 2
+                    print(f"next box: {next_box}")
+                else:
+                    self.box.speed = 2
 
-                # Move the box
                 self.box.move()
-            elif self.box.get_left_edge() > exit_position:
-                # Remove the box if it reaches the exit
+
+            elif self.box.get_left_edge() >= exit_position:
+                print(f"Box {self.box} exited at {self.box.get_left_edge()}")
                 self.box.remove()
                 self.interface.unregister_box(self.box)
-                self.box = None  # Set to None so a new box can be created
-
+                self.box = None
             else:
                 self.box.move()
+                if self.box.box_id == 1:
+                    print(f"box move only: {self.box}")
 
-        # Reinitialize boxes if all have exited
-        if not any(conveyor.box for conveyor in self.interface.conveyors.values()):
-            self.interface.reinitialize_boxes()
+
 
 # Conveyor interface to manage interactions between conveyors
 class ConveyorInterface:
@@ -154,18 +153,21 @@ class ConveyorInterface:
         self.conveyors[conveyor.conveyor_id] = conveyor
 
     def register_box(self, box):
-        self.boxes.append(box)
+        if box not in self.boxes:  # Avoid duplicates
+            self.boxes.append(box)
 
     def unregister_box(self, box):
         if box in self.boxes:
             self.boxes.remove(box)
+
+    def interface_boxes(self):
+        return self.boxes
 
     def get_next_priority_box(self, current_priority):
         # Get the next lower-priority box
         lower_priority_boxes = [box for box in self.boxes if box.priority > current_priority]
         if lower_priority_boxes:
             prior = min(lower_priority_boxes, key=lambda b: b.priority)
-            #print(prior)
             return prior
         return None
 
@@ -178,37 +180,21 @@ class ConveyorInterface:
 
 
     def assign_priorities(self):
-        # Sort boxes by distance to the exit and assign priorities
+        # Dynamically adjust the size of the distances list to match the number of boxes
+        self.distances = [0] * len(self.boxes)
 
-        for index, value in enumerate(self.boxes):
-            left_edge = abs(value.get_left_edge())
-            right_edge = abs(value.get_right_edge())
-            dist = conveyor_height - value.x_pos + (right_edge - left_edge)
-            print(f"Ini_X: {value.x_pos}, L_Edge: {left_edge}, R_Edge: {right_edge}, Width: {(right_edge - left_edge)}")
+        # Calculate distances for each box
+        for index, box in enumerate(self.boxes):
+            dist = exit_position - box.get_right_edge()  # Distance to the exit
             self.distances[index] = dist
 
-        # Sorting the list while keeping track of indices
+        # Sort boxes by distance to the exit in ascending order
         sorted_indices = sorted(range(len(self.distances)), key=lambda x: self.distances[x])
 
-        # Create the priority list with default value 0
-        self.priority = [0] * len(self.distances)
-
-        # Assign priorities based on the sorted indices
+        # Assign priorities based on sorted indices
         for rank, index in enumerate(sorted_indices, start=1):
-            self.priority[index] = len(self.distances) - rank + 1
-
-        # Assign priorities to the boxes
-        for idex, box in enumerate(self.boxes):
-            box.priority = self.priority[idex]
-            box.text.set_text(str(box.priority))  # Update the displayed priority
-
-        rounded_distances = [float(round(val, 2)) for val in self.distances]
-        print(rounded_distances)
-        print(self.priority)
-        print("-------------")
-
-    def assign_priority_check(self):
-        pass
+            self.boxes[index].priority = rank
+            self.boxes[index].text.set_text(str(rank))  # Update displayed priority
 
 
 # Initialize plot
@@ -236,18 +222,44 @@ for idx, lane_y in enumerate(lanes_y):
     conveyors.append(conveyor)
     interface.register_conveyor(conveyor)
 
-print(interface)
+#print(interface)
+#print(len(conveyors))
+
+
+def box_generator(interface):
+    # Check if there is space available on any conveyor between -100 and 0
+    for conveyor in conveyors:
+        if conveyor.box is None:
+            # Create a box if the conveyor is empty
+            initial_x = random.randint(-100, 0)
+            #print(initial_x)
+            conveyor.box = Box(
+                conveyor.ax, conveyor.lane_y, conveyor.conveyor_id + 1, initial_x, 0
+            )
+            #interface.register_box(conveyor.box)
+            break
+        else:
+            # Check if there's space on the conveyor
+            left_edge = conveyor.box.get_left_edge()
+            if left_edge > 0:  # Space available
+                initial_x = random.randint(-100, 0)
+                if abs(initial_x - left_edge) > gap:  # Ensure no overlap
+                    conveyor.box = Box(
+                        conveyor.ax, conveyor.lane_y, conveyor.conveyor_id + 1, initial_x, 0
+                    )
+                    #print(initial_x)
+                    #interface.register_box(conveyor.box)
+                    break
+
 
 # Update function for animation
 def update(frame):
+    # Generate boxes only if needed
+    box_generator(interface)
+
+    # Update positions for all conveyors
     for conveyor in conveyors:
         conveyor.update_position()
-
-
-# Box initializer
-def box_generator():
-    pass
-    
 
 
 
