@@ -1,0 +1,10 @@
+29-11-2024 15:32:20 ---> DEBUG    [lec_145_logging.py:24] This is debug level logger
+29-11-2024 15:32:20 ---> INFO     [lec_145_logging.py:25] This is info level logger
+29-11-2024 15:32:20 ---> WARNING  [lec_145_logging.py:26] This is warning level logger
+29-11-2024 15:32:20 ---> CRITICAL [lec_145_logging.py:27] This is critical level logger
+29-11-2024 15:32:20 ---> ERROR    [lec_145_logging.py:28] This is error level logger
+29-11-2024 15:32:20 ---> DEBUG    [lec_145_logging.py:31] This is debug level logger
+29-11-2024 15:32:20 ---> INFO     [lec_145_logging.py:32] This is info level logger
+29-11-2024 15:32:20 ---> WARNING  [lec_145_logging.py:33] This is warning level logger
+29-11-2024 15:32:20 ---> CRITICAL [lec_145_logging.py:34] This is critical level logger
+29-11-2024 15:32:20 ---> ERROR    [lec_145_logging.py:35] This is error level logger
