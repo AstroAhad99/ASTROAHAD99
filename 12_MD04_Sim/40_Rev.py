@@ -107,10 +107,12 @@ class Conveyor:
 
     def update_position(self):
         for box in self.boxes[:]:  # Iterate over a copy of the list to allow removal
-            if box.get_left_edge() > 0 and box.priority == 0:
-                # Assign priorities if the box hasn't been prioritized yet
-                self.interface.register_box(box)
-                self.interface.assign_priorities()
+            if self.interface.assign_counter < 2:
+                if box.get_left_edge() > 0 and box.priority == 0:
+                    # Assign priorities if the box hasn't been prioritized yet
+                    self.interface.register_box(box)
+                    self.interface.assign_priorities()
+                    self.interface.assign_counter += 1
 
             if box.get_left_edge() < exit_position:
                 # Handle box movement
@@ -122,6 +124,7 @@ class Conveyor:
                     box.speed = 2
 
                 box.move()
+
             elif box.get_left_edge() >= exit_position:
                 # Remove box if it reaches the exit
                 print(f"Box {box} exited at {box.get_left_edge()}")
@@ -140,6 +143,10 @@ class ConveyorInterface:
         self.priority = None
         self.total_boxes_generated = 0  # Counter for total generated boxes
         self.box_limit = 8  # Maximum number of boxes allowed
+        self.first_prior = 0
+        self.second_prior = 0
+        self.assign_counter = 0
+        self.gap_gen = False
 
     def __repr__(self) -> str:
         return f"Conveyors: {self.conveyors}"
@@ -185,36 +192,6 @@ class ConveyorInterface:
             self.boxes[index].text.set_text(str(rank))  # Update displayed priority
 
 
-# Initialize plot
-fig, ax = plt.subplots()
-ax.set_xlim(-100, conveyor_height + 100)
-ax.set_ylim(0, conveyor_height)
-ax.axis('on')
-
-
-# Draw conveyor lane borders
-for lane_y in lanes_y:
-    ax.plot([-100, conveyor_height + 100], [lane_y, lane_y], color='gray', linestyle='-', linewidth=2)
-
-
-
-# Add vertical lines at x = 0 and x = 600
-ax.axvline(x=0, color='red', linestyle='--', linewidth=2, label="Start Line")
-ax.axvline(x=600, color='blue', linestyle='--', linewidth=2, label="Exit Line")
-
-
-# Create ConveyorInterface and Conveyor objects and then we will be changing its propertiesl later
-interface = ConveyorInterface()
-conveyors = []
-for idx, lane_y in enumerate(lanes_y):
-    conveyor = Conveyor(ax, lane_y, idx, interface)
-    conveyors.append(conveyor)
-    interface.register_conveyor(conveyor)
-
-#print(interface)
-#print(len(conveyors))
-
-
 
 # Updated box_generator function to append boxes to a list in each conveyor
 def box_generator(interface):
@@ -227,7 +204,7 @@ def box_generator(interface):
             initial_x = random.randint(-100, 0)
             new_box = Box(conveyor.ax, conveyor.lane_y, conveyor.conveyor_id + 1, initial_x, 0)
             conveyor.boxes.append(new_box)
-            interface.register_box(new_box)
+            #interface.register_box(new_box)
             break
         else:
             # Check if there's space for a new box at the start of the conveyor
@@ -237,9 +214,33 @@ def box_generator(interface):
                 if abs(initial_x - last_box.get_left_edge()) > gap:  # Ensure no overlap
                     new_box = Box(conveyor.ax, conveyor.lane_y, conveyor.conveyor_id + 1, initial_x, 0)
                     conveyor.boxes.append(new_box)
-                    interface.register_box(new_box)
+                    #interface.register_box(new_box)
                     break
 
+
+# ------------------------------------------------------------------------------------------------
+
+# Initialize plot
+fig, ax = plt.subplots()
+ax.set_xlim(-100, conveyor_height + 100)
+ax.set_ylim(0, conveyor_height)
+ax.axis('on')
+
+# Draw conveyor lane borders
+for lane_y in lanes_y:
+    ax.plot([-100, conveyor_height + 100], [lane_y, lane_y], color='gray', linestyle='-', linewidth=2)
+
+# Add vertical lines at x = 0 and x = 600
+ax.axvline(x=0, color='red', linestyle='--', linewidth=2, label="Start Line")
+ax.axvline(x=600, color='blue', linestyle='--', linewidth=2, label="Exit Line")
+
+# Create ConveyorInterface and Conveyor objects and then we will be changing its propertiesl later
+interface = ConveyorInterface()
+conveyors = []
+for idx, lane_y in enumerate(lanes_y):
+    conveyor = Conveyor(ax, lane_y, idx, interface)
+    conveyors.append(conveyor)
+    interface.register_conveyor(conveyor)
 
 # Update function for animation
 def update(frame):
@@ -251,7 +252,9 @@ def update(frame):
         conveyor.update_position()
 
 
+#print(interface)
+#print(len(conveyors))
+
 # Animation
 ani = FuncAnimation(fig, update, frames=np.arange(0, 100), interval=50)
 plt.show()
-                  
