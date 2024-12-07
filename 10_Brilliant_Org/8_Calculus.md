@@ -44,4 +44,4 @@ Here is the example of the inflection point when the second derivative chnages i
 
 19. From DISTANCE TO JERK is the path from 0th order derivative to 3rd order derivative.
 
-
+![Screenshot](./Images/derivativeslope.png)
