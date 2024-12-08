@@ -2,7 +2,7 @@
 2. For a linear function it is easy to find the rate of change by just looking at the slope of the function.
 3. When the function is a non-linear function then we can break down that function into small pieces and that will look like a LINE. That is if we zoom into the non-linear function until it looks like a linear function.
 4. So we make it linear. Now to investigate the rate of change we use the secants (secants are the lines).
-5. If that line best approximates any cureve then we can get the rate of the change by calculating the slope of the that line.
+5. If that line best approximates any curve then we can get the rate of the change by calculating the slope of the that line.
 6. The derivative of a function is the rate of change (also known as slope of the function).
 7. For non-linear function we take out the derivative which is the slope of the function.
 8. The derivate has the minima and the maxima of which are the limits.
