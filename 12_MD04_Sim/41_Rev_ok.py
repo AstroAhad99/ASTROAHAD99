@@ -106,31 +106,45 @@ class Conveyor:
 
 
     def update_position(self):
-        for box in self.boxes[:]:  # Iterate over a copy of the list to allow removal
+        # Assign priorities to boxes with no priority
+        for box in self.boxes[:]:  # Iterate over a copy of the list
             if self.interface.assign_counter < 2:
                 if box.get_left_edge() > 0 and box.priority == 0:
-                    # Assign priorities if the box hasn't been prioritized yet
                     self.interface.register_box(box)
                     self.interface.assign_priorities()
                     self.interface.assign_counter += 1
 
+        # Adjust speed and update position for each box
+        for i, box in enumerate(self.boxes[:]):
             if box.get_left_edge() < exit_position:
-                # Handle box movement
+                # Handle box movement based on the next box in the priority order
                 next_box = self.interface.get_next_priority_box(box.priority)
                 if next_box:
+                    # Calculate gap to the next box
                     distance_to_next_box = next_box.get_left_edge() - box.get_right_edge()
+
+                    # Adjust speed for the current box
                     box.speed = 1 if distance_to_next_box < gap else 2
+
+                    # Reset counter if the gap condition is satisfied
+                    if distance_to_next_box == gap:
+                        self.interface.assign_counter = 0
+                elif box.priority == 0:
+                    # If no priority is assigned, keep the box moving slowly
+                    box.speed = 1
                 else:
+                    # Default speed for boxes with no immediate next box
                     box.speed = 2
 
+                # Move the current box
                 box.move()
-
             elif box.get_left_edge() >= exit_position:
-                # Remove box if it reaches the exit
+                # Remove the box if it reaches the exit
                 print(f"Box {box} exited at {box.get_left_edge()}")
                 box.remove()
                 self.interface.unregister_box(box)
                 self.boxes.remove(box)  # Remove the box from the conveyor's list
+
 
 
 
@@ -142,7 +156,7 @@ class ConveyorInterface:
         self.distances = [0, 0, 0, 0]
         self.priority = None
         self.total_boxes_generated = 0  # Counter for total generated boxes
-        self.box_limit = 8  # Maximum number of boxes allowed
+        self.box_limit = 6  # Maximum number of boxes allowed
         self.first_prior = 0
         self.second_prior = 0
         self.assign_counter = 0
@@ -155,9 +169,10 @@ class ConveyorInterface:
         self.conveyors[conveyor.conveyor_id] = conveyor
 
     def register_box(self, box):
-        if box not in self.boxes and self.total_boxes_generated < self.box_limit:  # Check box limit
+        #if box not in self.boxes and self.total_boxes_generated < self.box_limit:
+        if box not in self.boxes:  # Check box limit
             self.boxes.append(box)
-            self.total_boxes_generated += 1  # Increment the counter
+            #self.total_boxes_generated += 1  # Increment the counter
 
     def unregister_box(self, box):
         if box in self.boxes:
@@ -204,6 +219,7 @@ def box_generator(interface):
             initial_x = random.randint(-100, 0)
             new_box = Box(conveyor.ax, conveyor.lane_y, conveyor.conveyor_id + 1, initial_x, 0)
             conveyor.boxes.append(new_box)
+            interface.total_boxes_generated += 1
             #interface.register_box(new_box)
             break
         else:
@@ -214,6 +230,7 @@ def box_generator(interface):
                 if abs(initial_x - last_box.get_left_edge()) > gap:  # Ensure no overlap
                     new_box = Box(conveyor.ax, conveyor.lane_y, conveyor.conveyor_id + 1, initial_x, 0)
                     conveyor.boxes.append(new_box)
+                    interface.total_boxes_generated += 1
                     #interface.register_box(new_box)
                     break
 
