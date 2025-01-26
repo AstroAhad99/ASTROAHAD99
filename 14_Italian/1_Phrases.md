@@ -131,4 +131,147 @@
 141. Io do spesso fiori alla mia ragazza.
 142. Mario, conoscerai l'uomo mistorioso? Mario will you meet the mysterius man?
 143. Forse non ti scrivera piu. Maybe he won't write you anymore.
-144. 29th september start
+144. La voglio incontrare subito.
+145. Non essere timido, usite insieme.
+145. Lei e Simona, la mia compagna di classe.
+146. Conoscero questa donna a Milano.
+147. Di solito non esco con persone che non conosco.
+148. Voglio preparami per il concerto.
+149. Vogliono divertisi
+150. Il cantante vuole vestirsi ora
+151. Il cantanti vogliono rilassarsi
+152. Voglio svegliarmi presto per il concerto.
+153. Cosa insegna quel professore.
+154. Loro sono gli sposi.
+155. Le ragazze vogliono divertisi a questo concerto.
+156. vuoi preparati subito?
+157. Il cantante e molto emozionato.
+158. Anche i miei amici vengono qunado ce un concerto
+159. Hai bisogno di molte valigie, vero.
+160. Laura e chiara, questo e il vostro dormitorio
+161. Perche non vai in un agenzia di viaggi?
+162. I gemelli sono disordinati.
+163. Perche il tuo criceto e sempre nella mia stanza.
+164. Sono entrambe carine, ma diverse.
+165. Si, i nostri letti sono stupendi e comodi.
+166. La tua stanza e bella quanto la mia.
+167. Non ricordo quanto rimanesse.
+168. Pensava che io fossi(was) il suo fidanzato.
+169. Non mi piaceva che rimanessero(stayed) sempre da soli.
+170. Puoi passare la notte a casa mia.
+171. Non e vero, la tua e piu sporca!
+172. La tua stanza puzza(stinks)!
+173. Sono stupende! (They are wonderful!)
+174. Perche litigate! (Why do you argue)
+175. Le tende sporche (The dirty curtains)
+176. Il tuo letto e comodo quanto il mio.
+177. Quali (which) sono gli antipasti tipici italiani.
+178. Queste scatole sono piene di fotografie.
+179. Avete cantanto delle canzione romantiche? (Did you sing some)
+180. Non c'erano molti turisti venti anni fa.
+181. Sembrate contenti qui. (You looks happy here)
+182. I fruti di mare sono molto buono li.
+183. Cosa avete mangiato in Italia?
+184. Abbiamo provato delle pizze deliziose in Campania.
+185. Siamo i proprietari di un'impresa.
+186. L'anno scorso abbiamo sciato con attori famosi
+187. C'era un attrice inglese? (Was there an English actor?)
+188. Le proprietarie inglese.
+189. Abbiamo un'impresa molto importante.
+190. E una bugia! (It is a lie)
+191. C'erano tre mostri spaventosi.
+192. C'erano molte candele vecchie.
+193. Poi ho visto una strega(Witch)
+194. Forse c'era qualcuno nel corridoio.
+195. Molti gruppi vengono a roma ogni anno
+196. Sai se ci sono altre studentesse americane?
+197. Quando deve prepararsi?
+198. Conosci lo studente timido?
+199. Dovete prepararvi per il concerto? (Where have you get ready for the concert?)
+200. Bambini, avete paura dei fantasmi?
+201. Sofia e la meno simpatica, vero?
+202. No e antipatico (No he is unpleasant!)
+203. I nostri cantanti preferiti sono coreani
+204. Le ragazze sono anche ballerine molto brave
+205. Secondo voi sono gentile
+206. Secondo me il cantante non recita molto bene.
+207. Andate diretto fino al semaforo
+208. Qanti video hanno girato in corea? (How many videos did they shoot in Korea?)
+209. Il piu bello della serie.
+210. Ci esercitiamo a parlare cinese ogni sabato
+211. Quando cominciamo a studiare arabo
+212. Luis, non pulisci mai la casa!
+213. L'ostello e in un edificio molto bello
+214. Sono entrambe carine, ma diverse.
+215. Alessandro, sei cosi disordinato!
+216. Guardate un bel film insieme! (Watch a good film together)
+217. Mi piace dare fiori al mio ragazzo.
+218. Non so se gli piacciono i dolci (I dont know if he likes deserts)
+219. Preparo le torte e le metto li
+220. Mi dispiace ma lui non andra nella fabrica
+221. Devo partire domani
+222. Cosa facciamo quando piangono?
+223. Puo venire al panificio con noi? (Can she come to the bakery with us?)
+224. Li possiamo portare dovunque con noi.
+225. Li compri in questo supermercato
+226. Non sei seria, vero?
+227. La mia sorella minore ha paura qui.
+228. Tu e tuoi cuccioli non andrete (wont go) li.
+229. Puoi riparare la mia borsa?
+230. Dai il pupazzo a Anna!
+231. Quando deve prepararsi? (When does he have to get ready?)
+232. Devo preparami per il concerto.
+233. Juan sa gia parlare latino.
+234. Conoscete altri musei?
+235. Quale cartina usate?
+236. Dovete svegliarvi!
+237. Le fanno male gli occhi (Do your eyes hurt), signor smith?
+238. Quando vorreste andare dalla dottoressa?
+239. Le fanno male le gambe e la testa.
+240. Forse quelle infermiere ci possono aiutare.
+241. fino alla piazza
+242. No, noi non parliamo solo italiano.
+243. Non possiamo perche sono gia le dieci.
+244. Sono le undici e un quatro.
+245. Le braccia di luca sono un po' rosse.
+246. Pronto, ce un dottore disponible
+247. Stai imparando il francese e tedesco, vero?
+248. I vostri letti sono entrambi comodi.
+249. La mia stanza non ha mobili scuri.
+250. Simona e laura, dovete preferire dormire?
+251. Loro dormono in posti spaventosi.
+252. La mia stanza e spora quanto la tua.
+253. State scrivendo qualcosa di importante?
+254. la tovaglia nuova.
+255. Mangi sempre da sola? (You always eat by yourself?)
+256. Dove puo vestirsi?
+257. Ti fanno male i piedi e le gambe?
+258. Sono gia le quattro.
+259. Le braccia di luca sono un po' rosse.
+260. Mi fanno male i piedi e mi fa male la testa (hurt, hurts)
+261. Non posso andare dalla dottoressa ora.
+262. Voglio sapare che l'uomo mistorioso.
+263. Voi bevete l'acqua.
+264. L'abbigliamento (The clothing)
+265. Oggi prendo la patente (Today I get my driver's licence)
+266. Non vedo l'ora (I cannot wait)
+267. Perche non portiamo una bottiglia di vino? (Why dont we take a bottle of vine?)
+268. Cosa fai prima di colazione?
+269. Non capisco il tedesco.
+270. Usate questa scopa per il balcone.
+271. Aprite la bottiglia.
+272. Dove vivete?
+273. Gli fa male il braccio, dottore! (His arm hurts, doctor)
+274. Questo infermiere ti puo aiutare.
+275. Chiama il dottore si ti senti male.
+276. Mi fanno male i piedi e mi fa male la testa.
+277. La donna mangia panini.
+278. Mamma, stai attenta!
+279. Noi spesso andiamo li.
+280. Tu porti le scarpe. (You wear the shoes)
+281. Stanno venendo al bar?
+282. Il cibo e nei piatti.
+283. Su quale strada posso cominciare?
+284. Mangia un biscotto col latte.
+285. La donna compra i biscotti dalle ragazze.
+286. 24th November 2024.
