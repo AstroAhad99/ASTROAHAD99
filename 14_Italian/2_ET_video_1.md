@@ -20,8 +20,8 @@ naturale.
 In piu ci sono degli studi che dimostrano che quando scrivi qualcosa a mano lo ricordi meglio.
 
 Se non parli con le persone perche non vuoi parlare con le persone o perche non sei in
- l italia basta guardare delle conversazioni naturali. come per esampio potresti 
- guardare su un canale che publicca ogni settimana delle interviste per strada in italia, come easy italian Questo canale? Questo canale
+l italia basta guardare delle conversazioni naturali. come per esampio potresti 
+guardare su un canale che publicca ogni settimana delle interviste per strada in italia, come easy italian Questo canale? Questo canale
 
 Proprio questo canale, In piu cosi ti puoi concentrare sulle parolle utili 
 che userai spesso nelle conversazione quotodiane. 
@@ -75,4 +75,3 @@ E tu che ne pensi della app. Le trovi utili o no per imparare l'italiano, scrivi
 Ora vi saluto che ho voglia di fare questo cruciverba
 
 Ciao
-
