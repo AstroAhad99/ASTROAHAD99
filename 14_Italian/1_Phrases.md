@@ -517,26 +517,26 @@
 525. Ce un serpente nell'automobile
 526. Una folla aspetta lo scrittore
 527. Alle mie amiche non piace il calcio
-528. 20th December 2025
-529. 
-530. 
-531. 
-532. 
-533. 
-534. 
-535. 
-536. 
-537.  
-538. 
-539. 
-540. 
-541.  
-542. 
-543. 
-544. 
-545. 
-546. 
-547. 
+528. Sono simpatici
+529. Conosco una persona con lo stesso cognome.
+530. Mia zia ha un personalita forte.
+531. L'adolescente mangia molto
+532. Lui e mio compagno di stanza
+533. Provo a vedere la mia fidenzata.
+534. Siamo vicini al popolo tedesco (We are sympathetic to the German people)
+535. Adesso e solo un cittadino normale.
+536. La sua personalita e diversa.
+537. L'individuo
+538. Buonasera signore e signori.
+539. La sua personalita e diversa.
+540. Sono simpatici
+541. E una bambina.
+542. Spesso ho ospiti a casa.
+543. Lei e la mia fidenzata
+544. Mio figlio e solo un adolescente
+545. Noi siamo individui
+546. Sono in buoni rapporti con i loro vicini
+547. E fuori con i campagni di scoula
 548. 
 549. 
 550. 
