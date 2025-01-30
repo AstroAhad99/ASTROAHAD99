@@ -420,24 +420,123 @@
 428. Stasera sceglie lui il ristorante.
 429. La carota cade dal tavolo.
 430. Oggi controllo il calendario.
-431. 7th December 2024
-432. 
-433. 
-434. 
-435. 
-436. 
-437. 
-438. 
-439. 
-440. 
-441. 
-442. 
-443. 
-444. 
-445. 
-446. 
-447. 
-448. 
-449. 
-450. 
-
+431. Ora che succede?
+432. Lei indica il colore
+433. Perche lui non ritorna? (Why does he not return?)
+434. Non aggiungi lo zucchero?
+435. Scusate. chi siete?
+436. Voi chiudete il cancello
+437. Noi paghiamo per lui.
+438. Cosa significa per noi? (What does it mean for us?)
+439. I documenti lo dimostrano.
+440. Mangiamo bene
+441. Imparo l'italiano in una scoula in centro
+442. Non ci sono molti fiumi in sicilia.
+443. Perche colpisci il tuo fratello.
+444. Tu tiri su la coperta?
+445. Lei indica il colore.
+446. Quanto dura la cena? (How long does the dinner last?)
+447. Provano il riso.
+448. Lui dimentica i nostri nomi
+449. Domani guidiamo noi.
+450. Tu discrivi tua madre.  
+451. Chiudi la finestra
+452. Mia zia spiega la ricetta.
+453. Il messagio e piutossto(rather/pretty) chiaro
+454. Di dove sono? (Where are they from)
+455. Insomma(well) e pronto.
+456. Cucino sopratutto(mainly) dolci.
+457. E piuttosto(pretty) interesante
+458. E soltanto(just) un topo. 
+459. Allora tu non sei un vero cuoco.
+460. Non e ancora qui (She is not here yet.)
+461. Tuttavia(Nonetheless) lui non mangia carne. 
+462. Quando ti senti male, devi chiamare il dottore.
+463. Conosco vostro papa
+464. Scrivo circa un libro all'anno
+465. Allora tu non sei un vero cuoco.
+466. E davvero una grande idea.
+467. Almeno, io sono cosi.
+468. La luce e sopra il tavolo.
+469. Con il telefono nuovo sento benissimo
+470. Noi vediamo gente strana ovunque
+471. E davvero una grande idea.
+472. Insomma e un buon momento
+473. Il mare, le colline e le piccole montagne.
+474. La festa e nel mio quartiere.
+475. Potrebbero(They could) cercare gli zaini in questo negozio
+476. Prendiamo i libri in libreria.
+477. Costruite i punti, non i muri.
+478. Lui vive in un palazzo importante.
+479. Quando vai al porto?
+480. D'estate lavoriamo in libreria.
+481. Il ragazzo mette le sue scrape nell'angolo.
+482. Arriva una guardia
+483. Si sto studiando in biblioteca in questo momento.
+484. La risposta del capitano arriva oggi.
+485. Stiamo leggendo per un riunione. 
+486. Cosa state preparando?
+487. Sto andando al ristorante vuoi venire?
+488. Lavora come postino
+489. I teatri sono grandi.
+490. L'uomo e vicino al ponte
+491. Il capitano e al porto di matina
+492. Questa e una piazza
+493. La Scala e un teatro molto bello.
+494. Mario e Luca, andate al negozio, per favore
+495. Corre in un campo
+496. La problema e la batteria stessa(itself)
+497. Apri la busta
+498. Posso leggere senza occhiali.
+499. Le cose non sono sempre come sembrano
+500. Il problema e la batteria stessa
+501. del sushi buono
+502. Do spesso del ciocolatto alla mia ragazza.
+503. dei dolci deliziosi
+504. Non e fidenzato
+505. E emozionate, vero?
+506. Pulisci il lavendino nel bagno
+507. Compro un profuno nuovo per l'apuntamento
+508. Sei cosi fortunata
+509. Mi piace Anna e la chiamo spesso
+510. Sono povera e lui vuole una villa molto grande!
+511. Compra della pizza per il primo appuntamento
+512. Molti artisti internazaionali hanno suonato la.
+513. Hanno girato un film
+514. Lui direbbe di no.(He would say no)
+515. Mia sorella piu grande ha un pianoforte.
+516. Parlo sopratutto di loro.
+517. Lui non dira di si.
+518. John e il piu carino in questo video
+519. Nella busta rossa.
+520. Ce un serpente nell'automobile
+521. In cosa?
+522. Faccio cose, vedo gente
+523. La macchina nuova e sua
+524. Sento la batteria(drum)
+525. Ce un serpente nell'automobile
+526. Una folla aspetta lo scrittore
+527. Alle mie amiche non piace il calcio
+528. 20th December 2025
+529. 
+530. 
+531. 
+532. 
+533. 
+534. 
+535. 
+536. 
+537.  
+538. 
+539. 
+540. 
+541.  
+542. 
+543. 
+544. 
+545. 
+546. 
+547. 
+548. 
+549. 
+550. 
