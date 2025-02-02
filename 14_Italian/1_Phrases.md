@@ -537,6 +537,362 @@
 545. Noi siamo individui
 546. Sono in buoni rapporti con i loro vicini
 547. E fuori con i campagni di scoula
-548. 
-549. 
-550. 
+548. L'estate e per i giovani
+549. Addesso e solo un cittadino normale.
+550. Io sono umano
+550. I bambini nella mia famiglia sono alti
+551. Voglio chiamare i miei amici
+552. Io non sono un ospiti
+553. Il caffe piace alla nostra generazione.
+554. Bounaserra signore e signori
+555. Oggi arriva il campagno di stanza
+556. E una bambina
+557. Lei e una donna di carattare forte
+558. Il giovane non mangia verdura
+559. No lui non e il mio nuovo fidenzato
+560. La mia generazione non mangia pesce
+561. Il meno bravo
+562. E una settimana dura
+563. Il vino e buono in Italia
+564. Sono forte come lei
+565. Lui e un uomo comune
+566. Non e possible, sono molto occupato oggi
+567. E un posto interessante da visitare
+568. Tu hai un marito alto
+569. Il pranzo e il nostro
+570. Il mio vicino e simpatico
+571. Ma io sono una signora!
+572. La gente segui il capo
+573. Io vivo con un amico simpatico
+574. Lei e la mia fidenzata
+575. Io non pago per i miei amici
+576. La mia amica non dorme bene qui
+577. Un gatto non e una persone
+578. La mia amica non dorme bene qui
+579. La bambina(girl) parla con se stessa
+580. Lui li vede
+581. Mi sento bene addesso
+582. Ci piace giocare insieme
+583. Ce ne sono (There are some of them)
+584. Lei non mi aspetta mai (She never waits for me)
+585. Hai il tuo passaporto con te? (Do you have your passport with you?)
+586. Lei mi fa felice (She makes me happy)
+587. Vi porto subito il conto (I bring you the check right away)
+588. Come ti chiami? (Whats your name)
+589. I nostri amici ci lasciano le chiavi (Our neighbours leave us the keys)
+590. I miei genetori non lo amano (My parents do not love him)
+591. Li conosco (I know them)
+592. La cena la offro io staserra (Dinner is on me tonight)
+593. Non ne voglio (I do not want any)
+594. Perche non lo fanno? ( Why dont they do it?)
+595. Io gli manco (He misses me)
+596. Perche sei contro di me? (Why are you against me?)
+597. Di domenica ce la prendiamo sempre comoda. (On sunday we always take it easy)
+598. L'amo (I love him)
+599. Vi amo (I love you all)
+600. La mia professoressa sa parlare italiano e latino
+600. Studio qui per conoscere meglio l'arte italiana
+601. Io mangio un fagiolo
+602. Io la amo e lei ama me
+603. Ci piace l'autunno
+604. Posso correre con te?
+605. A me piace nuotare (I like to swim)
+606. Ti amo, ma non tanto
+607. Ti amo ma non tanto (I love you but not a lot)
+608. Il dottore dice che io sono alla decima settimana. (The doctore says I am in the tenth week)
+609. Siamo in novanta (We are ninety of us)
+610. Aspettiamo una terza bambina (We are expecting a third baby)
+611. Ho zero pantaloni
+612. Cinquanta e piu di venti
+613. Sono la nona al bar (I am ninth at the bar)
+614. Bene ma non e sufficiente (Good, but it is not sufficient)
+615. Sono gia le undici (It is already eleven)
+616. Tre piu uno fa quattro
+617. Il quinto ponte va al museo
+618. Sono al settimo posto
+619. Avete alcuni libri. (You have a few books)
+620. Al momento e ottavo. (At the moment he is eight.)
+621. Il paesa ha cento musei (The country has a hundred museums)
+622. Cosa significa il numero novanta. (What does the number ninety mean?)
+623. Sono abbastanza sicuro. (I am sure enough)
+624. Ho tanti appuntamenti questa settimana (I have many appointments this week)
+625. Otto sono sufficienti.
+626. Due minuti e sedici secondi
+627. Il libro e del quarto secolo
+628. Chiedono almeno un millione (They ask atleast one million)
+629. Tuo nonno e siciliano?
+630. Potete venire subito dalla dottoressa? (Can you come to the doctor immediately?)
+631. Devi parlare con un medico (You have to speak to the doctor)
+632. Devi prendere una pillola. (You have to take a pill)
+633. Compra un souvenir piu bello per tua madre. (Buy a more beautiful souvenir for your mother)
+634. Potrei avere un appuntamento oggi?
+635. Sono cavalli piccoli
+636. Come sta tuo padre?
+637. Ce un centro commerciale molto grade qui.
+638. Io e mio fratello non possiamo dormire.
+639. Le fa male il braccio?
+640. Vorrei correre ma mi fa male la gamba
+641. Un infermiere simpatico
+642. Il mio papa ha un leone
+643. E quasi sufficiente (It is almost enough)
+644. Il colore e piu viola che(than) rossa
+645. E importante leggere molti libri
+646. Io leggo alcuni giornali (I read some newspaper)
+647. La sedia e abbastanza bassa per lui
+648. E molto buono
+649. Abbiamo ottanta(eighty) nipoti
+650. Quelle camicie sono troppo piccole per lui.
+651. C'e troppa gente in stazione
+652. A me non piacciono quelle telefoni
+653. Trovi qualsiasi (You can find any) ingrediante in quel supermercato 
+654. Voglio un altra birra
+655. Mangiamo in diversi posti. (We eat in different places)
+656. Tutta la gente e interessata
+657. Qualunque(Whichever) limone va bene nella torta. (Any lemon goes well in the cake)
+658. Succede a parecchia gente. (It happens to plenty of people)
+659. Certa gente non impara mai (Certain people never learn)
+660. Voglio qualunque verdura (I want whichever vegetable)
+661. Io non guido quell'automobile(I do not drive that automobile)
+662. Certi individui non mangiano la verdura (Certain individuals do not eat vegetable)
+663. C'e parecchia gente stasera
+664. Lavora in questa citta? (Does she work in this city?)
+665. Questo vestito ti sta benissimo (This dress fits you very well)
+666. Lui beve qualsiasi succo (He drinks any juice.)
+667. Di chi sono quelle scarpe? (Whose shoes are those?)
+668. Di chi sono questi occhiali (Whose glasses are these?)
+669. Non voglio mangiare quel pomodoro.
+670. Luca e malato quindi non puo venire.
+671. Che peccato, fa bel tempo oggi
+672. Lui e l'ingegnere lei ;'architetto
+673. Adesso le nostre colleghe stanno chiamando Elisa 
+674. I direttori leggono i nostri nomi
+675. Purtroppo sto studiando adesso.
+676. Mia madre fa la segretaria
+677. Gli ingegneri sanno la risposta
+678. Per piacere, spenate la computer e vienite qui
+679. Il pesce fritto e la tua specialita.
+680. Sei tu il contuttore? (Are you the presenter?)
+681. Diamo gli strumenti all'operaia. (We give the tools to the worker)
+682. Anche loro stanno chaimando Matteo. (They are also calling Metteo)
+683. Cosa state scrivendo
+684. Stiamo leggendo per una reunione.
+685. Devi provare questa pasticceria!
+686. Purtroppo credo di si ragazzi.
+687. Quest'esame
+688. Chi sono gli operai oggi? (Who are the workers Today)
+689. Vorrei del cibo filippino, vuoi pranzare con me?
+690. Quest'automobile e come nuova
+691. Questa libreria ha due bagni
+692. Senti quel flauto? (Do you hear that flute)
+693. Quelli sono i miei capi. (Those are my boses)
+694. Questo gionarle e gratuito.
+695. Vuoi un'altra tazza di te? (Do you want another cup of tea?)
+696. Quelle storie sono vere.
+697. Queste scarpe sono troppo piccole (These shoes are too small)
+698. Abbiamo parecchi millioni
+699. Canto sempre.
+700. Siamo migliori o peggiori? 
+701. Viaggiamo insieme
+702. Prenotano una notte.
+703. Lui non lo pianifica (He does not plan it)
+704. Friggiamo la cippola. (We fry the onion)
+705. Non ti giudichiamo. (We donot judge you)
+706. Mi dispiace ma e davvero impossible.
+707. Mi piace come sorridi (I like how you smile.)
+708. A mezzogiorno lei abbassa le tende
+709. Mi riposo
+710. Cuciniamo la patata
+711. Visitiamo il quartiere.
+712. Siamo migliori o peggiori
+713. Pescano fino a mezzogiorno (they fish until non)
+714. Il mio fidenzato disegna abbiti.
+715. Asciugo la mia camicia. (I dry my cloths)
+716. Parcheggi nel cortile. (You park in the courtyard)
+717. Anche lui si siede vicino a me
+718. Lei frigge la verdura
+719. Lui non fuma
+720. Il treno parte alle nove
+721. Voglio che tu cammini (I want you to walk)
+722. Non fallisco mai (I never fall)
+723. Non ti preoccupare, abbiamo ragione
+724. Sei una persona fortunata
+725. E tu, dai spesso del cioccolato al tro ragazzo?
+726. Preparo dei bicchieri e li metto li
+727. Scopa i pavimenti il giorno dell'apuntamento
+728. Non lo so ma credo di no
+729. In biblioteca, ci sono molti ragazzi carini
+730. Non so se gli piaccono i dolci
+731. Vuoi dei bracciali nuovi per l'appuntamenti 
+732. Compriamo i pantaloni neri.
+733. Lui nuota come in pesce
+734. Gli uccelli volano
+735. Oggi lei si riposa (Today she rests)
+736. Non abbiamo una scala in cucina.
+737. Lui dorme mentre io cucino (He sleeps while I cook)
+738. L'autobus parte ogni quindici minuti
+739. Perche non mi hanno creduto?
+740. Non ho potuto (I could not)
+741. Stai lontano da qui. Hai capito? (Stay far away from here, do you understand?)
+742. Siamo arrivati
+743. L'ho voluta.(I wanted it)
+744. Ho preso le calze (I have taken the socks)
+745. Ha chiamato il dottore. (He called the doctor)
+746. No ho ricevute un paio.
+747. Lui ha insistito nel vedere sua figlia
+748. Perche non mi hai aspettato?
+749. Ha iniziato a mangiare (He started eating)
+750. Io me ne sono ricordato.
+751. Ecco la fattoria dove ha vissuto. (Here is the farm where she lived)
+752. Mi e piaciuta di meno. (I liked it less)
+753. Le batterie sono morte. (The battries have dead)
+754. La sua personalita e cambiata
+755. E importante che ci siamo capiti. (It is important that we have understood one another)
+756. E iniziato sei ora fa.
+757. Mi e piaciuta di meno 
+758. Ho bevuto del latte (I have drunk some milk)
+759. Abbiamo finito di studiare Italiano oggi.
+760. Lei e conosciuta ovunque (She is known everywhere)
+761. Qundo L'hai incontrata? (When did you meet her?)
+762. Non ci hanno voluti. (They did not wanted us.)
+763. Invece mia madre lo ha riconosciuta subito. (Instead my mother recognized him right away.)
+764. Noi non l'abbiamo fermata. (We did not stop her)
+765. E andata a quel concerto? (Did she go to that concert?)
+766. Agosto e un mese caldo qui. (August is a hot month here)
+767. Sei libro per un aperitivo?
+768. Il maglione e nuovo.
+769. Il pollo e molto buono.
+770. La chiamata e da tua madre.
+771. Loro sono forte some noi.
+772. Io ho le sue bottiglie.
+773. Il loro orso ha fame.
+774. Tu hai una figlia alta vero?
+775. Dove avete guardato? (Where did you look?)
+776. Abbiamo visto una scimmia nello zoo.
+777. Io ne ho avuto abbastanza (I have had enough)
+778. Lui ha finito di mangiare 
+779. Perche hai aperto la scatola?
+780. Ho scritto tre lettere
+781. Hai deciso? (Have you decided?)
+782. Non abbiamo trovato piu caffe. (We did not find more coffee)
+783. Lui non ha lavorato domenica (He did not work on Sunday)
+784. Ho perso la mia chiave. (I have lost my keys.)
+785. Non abbiamo mai parlato (We have never spoken)
+786. La tua voce mi ha fatto piangere
+787. Perche hai aperto la scatola?
+788. La tua voce mi ha fatto piangere
+789. Non e cosi differente (It is not so different)
+790. Sono particolari (They are particular)
+791. Forse e solo una cosa culturale. 
+792. La risposta e storica
+793. Mangiate la cucina tradizionale? (Do you all eat traditional cooking?)
+794. Leggiamo la gionale indipendente.
+795. Il mio cappotto e leggero ma caldo
+796. Le risposte sono positive.
+797. Per queste persone un rapporto personale e fondamentale
+798. Siamo uomini professionali
+799. Lo capisco. E quasi naturale. (I undertand it. It is almost natural)
+800. Quelle sono cosi dolci (Those are so sweet)
+800. Questi asciugmani sono di colori differenti. (These towels are different colors)
+801. I numeri non sono ancora definitivi.
+802. La vasca e troppo profondo per il bambino
+803. Mio nonno e di eta avanzata. (My grandfather is of advance age)
+804. Quanto sono efficaci i cavalli? (how efficient are the horses)
+805. Oggi mi sento piu responsabile (Today I feel more responsable)
+806. Il manzo e cattivo.
+807. Loro sono superiori.
+808. Semplice, ma efficace
+809. Hanno documenti legali
+810. Questo negozio ha molti libri antichi.
+811. Dov'e il parco industriale?
+812. Sono particolari.(They are peculiar)
+813. Qual e la domada finale? (What is the last question)
+814. Imparare una lingua straniera e divertente
+815. Il giornale e ricente? (Is the newspaper recent?)
+816. Puoi usare la cartina per Imparare
+817. Conosci venezia? 
+818. Il sabato mangiamo pollo. (On Saturdays we eat chicken)
+819. Quale cartina usate? (Which newspaper do you use?)
+820. Io cucino il riso.
+821. Sapete se ce una studentessa indiana?
+822. Lui bolle un uovo per colazione.
+823. Conoscete altri musei?
+824. Lui mangia un fagiolo
+825. Io mangio una carota.
+826. Una prenotazione non e necessaria. (A reservation is not necessary)
+827. Per di piu(Besides), non e una strada pricipale
+828. Le domande sono ancora numerose.
+829. E una persona negitiva
+830. Sappiamo leggere
+831. E piu piccolo ma piu efficace
+832. Il giono seguente lui visita la citta
+833. Non e necessario
+834. Quanto sono efficaci i cavalli
+835. Perche non hai un nome piu professionle?
+836. Il succo non e cattivo
+837. Per di piu non e una strada principale.
+838. E piu piccolo, ma piu efficace
+839. Possiamo costruire un albergo (We can build a hotel)
+840. Mi voglio sentire meglio (I want to feel better)
+841. Vogliamo tenere l'aula pulita
+842. Proviamo a cambiare (We try to change)
+843. Non possiamo decidere cosa fare
+844. E ora di chiudere il cancello
+845. 1st Jan 2025
+846. 
+847. 
+848. 
+849. 
+850. 
+851. 
+852. 
+853. 
+854. 
+855. 
+856. 
+857. 
+858. 
+859. 
+860. 
+861. 
+862. 
+863. 
+864. 
+865. 
+866. 
+867. 
+868. 
+869. 
+870. 
+871. 
+872. 
+873. 
+874. 
+875. 
+876. 
+877. 
+878. 
+879. 
+880. 
+881. 
+882. 
+883. 
+884. 
+885. 
+886. 
+887. 
+888. 
+889. 
+890. 
+891. 
+892. 
+893. 
+894. 
+895. 
+896. 
+897. 
+898. 
+899. 
+900. 
+
+
+
