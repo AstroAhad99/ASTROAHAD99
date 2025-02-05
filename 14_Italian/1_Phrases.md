@@ -837,62 +837,163 @@
 842. Proviamo a cambiare (We try to change)
 843. Non possiamo decidere cosa fare
 844. E ora di chiudere il cancello
-845. 1st Jan 2025
-846. 
-847. 
-848. 
-849. 
-850. 
-851. 
-852. 
-853. 
-854. 
-855. 
-856. 
-857. 
-858. 
-859. 
-860. 
-861. 
-862. 
-863. 
-864. 
-865. 
-866. 
-867. 
-868. 
-869. 
-870. 
-871. 
-872. 
-873. 
-874. 
-875. 
-876. 
-877. 
-878. 
-879. 
-880. 
-881. 
-882. 
-883. 
-884. 
-885. 
-886. 
-887. 
-888. 
-889. 
-890. 
-891. 
-892. 
-893. 
-894. 
-895. 
-896. 
-897. 
-898. 
-899. 
-900. 
+845. Abbiamo tanto da offrire.
+846. Mi Puoi indicare quale ti piace? (Can you show me which one you like?)
+847. Non mi svegliare!
+848. Chi ci vuole seguire? (Who wants to follow us?)
+849. Chi puo essere? (Who can it be?)
+850. Puoi unire questi tavoli?
+851. Ecco il padre della sposa.
+852. Scusi, la clinica e vicina? 
+853. Il mio ufficio a Milano e piccolo.
+854. Pronto, posso parlare con un medico, per favore?
+855. Quanti grammi di burro sono nella torta?
+856. Lei ha i piedi piccoli.
+857. Lui vuole diventare ingegnere.
+858. Cosa si puo noleggiare? (What can one rent?)
+859. Mi piace essere da sola. (I like being alone.)
+860. Possiamo scegliere un altro sapone?
+861. Come vuole costruire questo posto? (How does he want to build this place?)
+862. Dove vuoi tirare la coperta? (Where do you want to throw the blanket?)
+863. Ora posso morire felice.
+864. Non mi dire! (Don't tell me!)
+865. Non ho niente da perdere.
+866. Non puoi mancare (You cannot miss.)
+867. Questo non puo rimanere cosi. (This cannot remain like this.)
+868. Cosa si puo noleggiare?
+869. Molti vanno allo stadio domenica.
+870. Alcuni sono buoni, altri meno. (Others are good, others less so)
+871. Non vedo nulla.
+872. Hai fatto qualcos'altro questa settimana.
+873. Le voglio tutte per me! (I want them all for myself.)
+874. A qualcuna piace questa ricetta? (Does somebody like this recipe?)
+875. E tutta bianca. (It is all white)
+876. Nessuna delle automobile e la mia. (None of the automobiles is mine.)
+877. Non sa niente della tua famiglia. (She does not know anything about your family)
+878. Lui non vuole una moglie qualsiasi (He does not want just any wife.)
+879. I biscotti al ciocolatto, i quali sono vecchi, sono nella scatola.
+880. Mio figlio non ne offre alcuna. (My son does not offer any of them)
+881. Non capisci cio che voglio dire. (You do not understand what I mean)
+882. Quelle non mancano (Those are not missing)
+883. Nessuna per me. (None for me)
+884. Sono entrambe nella stanza. (They are both in the room)
+885. Succede anche ad altri (It happens to others too)
+886. Alcune sono ancora in scatola. (Some are still in the box.)
+887. Non cerco un regalo speciale, qualsiasi va bene (I am not looking for a special gift, any will do)
+888. Conosco mia figlia meglio di chiunque altro (I know my daughter better than anyone else)
+889. Non ne ho alcuno (I do not have any)
+890. Tutto cio che lui dice e vero. (Everything he says is true.)
+891. Queste non sono le mie chiavi. 
+892. La guradia non dice nulla. (The guard does not say anything.)
+893. Nessuno di noi e perfetto (None of us is perfect)
+894. Elisa sta male, quindi non puo uscire oggi. (Elisa is unwell so she can't go outside)
+895. Non so quale birra beve. (I do not know which beer he drinks.)
+896. Non conosco nulla delle due sorelle. (I do not know either of the two sisters)
+897. Non vedo nulla.
+898. Non mi piace anything.
+899. Che ora sono nel tuo paese?
+900. Quello non e giusto. (That is not fair.)
+900. Quelli sono cavalli
+901. Cio che ha detto non e vero. (What he said is not true.)
+902. Questa non e scrivania
+903. Nessuna fuma qui.
+904. Non conosco nessuna delle due sorelle
+905. Quello non significa nulla
+906. Perche non parliamo di qualcos'atro? (Why don't we speak about something else?)
+907. Cosa facciamo domenica? Passiamola al parco! (What are we doing Sunday? Lets spend it at the park)
+908. Andate allo zoo! (Go to the zoo!)
+909. L'insalata e pronta, passiamola agli ospiti.
+910. Senti quanto e caldo! (Feel how hot it is!)
+911. Ricorda la data (Remember the date!)
+912. Vive con me per sempre! (Live with me forever!)
+913. Usi il coltello! (Use the knife)
+914. Venga da me! (Come to me!)
+915. Pensiamoci su domani! (Let's think about it tomorrow)
+916. Lascia che ti spieghi (Let me explain)
+917. Entra pura! (Do come in!)
+918. Rimante dove siete! (Remain where you are!)
+919. Metti la cintura! (Put your belt on!)
+920. Diciamo che non lo sappiamo. (Let us say that we do not know it.)
+921. Prendi un foglio e scrivi! (Take a pice of paper and write)
+922. Arrivate piu presto oggi! (Arrive earlier today!)
+923. Lasciate stare il ghiaccio (Leave the ice alone!)
+924. Cosa facciamo domenica? Passiamola al parco!
+925. Io do spesso fiori alla mia ragazza
+926. Io compro dei biscotti e li porto a casa. 
+927. 
+928. 
+929. 
+930. 
+931. 
+932. 
+933. 
+934. 
+935. 
+936. 
+937. 
+938. 
+939. 
+940. 
+941. 
+942. 
+943. 
+944. 
+945. 
+946. 
+947. 
+948. 
+949. 
+950. 
+951. 
+952. 
+953. 
+954. 
+955. 
+956. 
+957. 
+958. 
+959. 
+960. 
+961. 
+962. 
+963. 
+964. 
+965. 
+966. 
+967. 
+968. 
+969. 
+970. 
+971. 
+972. 
+973. 
+974. 
+975. 
+976. 
+977. 
+978. 
+979. 
+980. 
+981. 
+982. 
+983. 
+984. 
+985. 
+986. 
+987. 
+988. 
+989. 
+990. 
+991. 
+992. 
+993. 
+994. 
+995. 
+996. 
+997. 
+998. 
+999. 
+1000. 
 
 
 
