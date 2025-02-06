@@ -920,18 +920,18 @@
 924. Cosa facciamo domenica? Passiamola al parco!
 925. Io do spesso fiori alla mia ragazza
 926. Io compro dei biscotti e li porto a casa. 
-927. 
-928. 
-929. 
-930. 
-931. 
-932. 
-933. 
-934. 
-935. 
-936. 
-937. 
-938. 
+927. Io compro un anello nuovo e lo uso per uscire.
+928. Esci con lei e vedi si e simpatica.
+929. Potresti fare qualcosa di romantico. (You could do something romantic)
+930. Dai cose molto care alla tua ragazza di solito?
+931. Senti come ride!
+932. Stai buono per un momento! (Stay still for a moment)
+933. Andate di soli! (Go by yourself)
+934. Guarda bene cosa faccio! (Watch what I do closely)
+935. Dimmi quando cominciare (Tell me when to start)
+936. Arriva qui verso le nove (Arrive here around nine)
+937. Teniamo la cosa fra di noi (Lets keep it between us)
+938. 10 Jan 2025
 939. 
 940. 
 941. 
