@@ -931,60 +931,60 @@
 935. Dimmi quando cominciare (Tell me when to start)
 936. Arriva qui verso le nove (Arrive here around nine)
 937. Teniamo la cosa fra di noi (Lets keep it between us)
-938. 10 Jan 2025
-939. 
-940. 
-941. 
-942. 
-943. 
-944. 
-945. 
-946. 
-947. 
-948. 
-949. 
-950. 
-951. 
-952. 
-953. 
-954. 
-955. 
-956. 
-957. 
-958. 
-959. 
-960. 
-961. 
-962. 
-963. 
-964. 
-965. 
-966. 
-967. 
-968. 
-969. 
-970. 
-971. 
-972. 
-973. 
-974. 
-975. 
-976. 
-977. 
-978. 
-979. 
-980. 
-981. 
-982. 
-983. 
-984. 
-985. 
-986. 
-987. 
-988. 
-989. 
-990. 
-991. 
+938. L'insalate e pronta, passiamola(lets pass) agli ospiti!
+939. Seguite quella macchina! (Follow that car)
+940. Porta gli occhiali (Wear glasses!)
+941. Apri la bottiglia!
+942. Ho il testo (I have the text)
+943. Le istruzioni sono chiare.
+944. Adesso faciamo una prova (Now we do a test run)
+945. Ce un corso per principianti? (Is there a course for the beginners)
+946. No faccio mai esercizi (I never do exercise)
+947. Aggiungo una frase di esempio (I add an example sentence)
+948. Sono contro questo projetto
+949. Mio padre vuole vedere i miei voti
+950. Questo compito e pieno di errori.
+951. Hanno solo una descrizione (they only have a description).
+952. Conosco qualche studente in quella scoula. (I know few students in that school)
+953. E una prova di carattere. (It is a test of character)
+954. E la migliore istitazione del paese. (It is the best institution in the country)
+955. Per adesso sono solo una principianti. (for now I am only a beginner)
+956. Non Faccio mai esercizi
+957. Lei non ama la stessa. (She does not love herself)
+958. Mangiamo mentre la zuppa e calda.
+959. Agosto e caldo e non lavoriamo.
+960. Lui ha le gambe lunghe (He has long legs)
+961. Il telefono di Mario e vecchio
+962. Leggo le istruzioni
+963. Hai dei progetti per stasera? (Do you have any plans for this evening?)
+964. E buona educazione!
+965. Ho letto la sua tesi. (I read his thesis)
+966. Le sue parole sono speciali.
+967. Usi la mia matita
+968. Il dipartimento
+969. Il testo e troppo piccolo da leggere. (The text is too small to read.)
+970. Le visite di mia nonna sono sempre speciale (My grandmothers visits are always special.)
+971. Noi non sappiamo mai la destinazione (We never know the destination)
+972. La mia automobile e tedesca
+973. Fai buon volo (Have a good flight)
+974. Arrivo domani in germania (i arrive in Germany tomorrow)
+975. Lei parla inglese, spagnolo, e portoghese
+976. Gli italiani sono in aeroporto
+977. Lavoro nel dipartimento dei trasporti
+978. Lo vogliono in inghiterra e spagna.
+979. I turisti francesi vanno versi il palazzo. (The french tourists go towards the palace)
+980. L'italia è in Europa.
+981. So già scrivere in cinese (i already know how to write in Chinese)
+982. Dove sono i treni?
+983. La starniera non ha un nome italiano (The foreigner does not have an Italian name)
+984. Quelli sono voli speciali
+985. Giovedi prossima è vacanza
+986. Il nome è brasiliano? (is the name brazilian?)
+987. Chi di voi preferisce le automobili inglesi? (Which of you preferes English cars?)
+988. Qui abbiamo uno di piu antichi castelli portoghesi
+989. Arrivano in America (They arrive in America)
+990. Non è personale
+991. 18 Jan 2025
 992. 
 993. 
 994. 
