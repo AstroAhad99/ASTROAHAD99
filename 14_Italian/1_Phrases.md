@@ -984,16 +984,118 @@
 988. Qui abbiamo uno di piu antichi castelli portoghesi
 989. Arrivano in America (They arrive in America)
 990. Non è personale
-991. 18 Jan 2025
-992. 
-993. 
-994. 
-995. 
-996. 
-997. 
-998. 
-999. 
-1000. 
+991. Mi dispiace ma le tue ricette sono troppo dolce
+992. Taglio il pane con un coltello
+993. Sappiamo leggere
+994. Il ponte tra le due citte e fondamentale
+995. Loro mangiano il pesce
+996. Le scarpe marroni sono migliori
+997. Siamo uomini professionali (We are professional men)
+998. Il cuoco ha il formaggio nel piatto
+999. Voi mangiate un pesce
+1000. E possibile una cosa simile? (Is such a thing possible?)
+1000. Siamo fuori la cucina
+1001. Io mangio l'uva
+1002. Non e risponsabile
+1003. La donna ha una tazza
+1004. Lui bolle un uovo per collazione
+1005. Lui mangia l'aglio (garlic)
+1006. Troviamo della frutta locale al mercato (we find some local fruit in the market)
+1007. Il film e in portoghese
+1008. Ci sono pochi passeggeri su questo treno (There are few passengers in this train)
+1009. Lei dà istruzioni in inglese
+1010. Qui ce una buona vista
+1011. Mio figlio non e mai andato all'estero
+1012. Ora devo comprare il biglietto
+1013. Abbiamo una mappa molto chiara
+1014. Guada mamma, una barca che vola.
+1015. Non sono mai andato in Europa. (I have never gone to Europe)
+1016. Amo lo spagnolo.
+1017. Il mio orologio e avanti di cinque minuti.
+1018. E la direzione giusta per il museo?
+1019. E questa la tua fermata? (Is this your stop?)
+1020. Ho lasciato la crema davanti allo specchio. (I left the cream in the front of the mirror)
+1021. Ha messo il suo nome in cima (He put his name at the top)
+1022. Possono iniziare a mangiare.
+1023. E l'inizio della fine.
+1024. Lui mette giu il coltello.
+1025. Questo ingresso e solo per gli studenti
+1026. Il lato interiore (The in)
+1027. Vogliamo i mezzi pubblici (We need public transportation)
+1028. E proprio dietro di te (It is right behind you)
+1029. Si sente attraverso di muri (You can hear through the walls)
+1030. Il cuoco ha messa la frutta dentro la scatola.
+1031. La cima
+1032. Vedo una formica dentra la bottiglia.
+1033. Dove la prossima fermata?
+1034. L'ingresso e sempre gratuito
+1035. La cucina e dietro il muro
+1036. L'ovest
+1037. Nord, sud, ovest, o est?
+1038. Siamo alla fine della strada.
+1039. La stazione si trova nel mezzo della citta. (The station is in the middle of the city)
+1040. E l'inizio della fine.
+1041. Di frondte a noi (opposite to us) c'e un edificio alto
+1042. Sei arrivato in fondo (You arrived to the bottom)
+1043. Quali sono i lati positivi (Which are the positive aspects)
+1044. Aspetto un paio d'ore (I wait for couple of hours)
+1045. Di dove tua madre? (Wheres your mother from?)
+1046. La stanza ha una finestra grade vero?
+1047. Dobbiamo (We have to) andare dal medico subito vero?
+1048. Possiamo (Can we) andare dalla dottoressa subito?
+1049. Sappiamo cucinar, mamma!
+1050. Scusi, l'ospidale e vicino?
+1051. Siamo una coppia
+1052. La pillola, le pillole
+1053. Quantri metri? (How many meters?)
+1054. Pronto, ce un dottore disponibile?
+1055. Quale la misure dei pantaloni?
+1056. Ho un litro d'olio in cucina?
+1057. Dove la clinica?
+1058. La donna ha un metro di lana verde
+1059. Anche tuo zio vieni da Palermo?
+1060. Vediamo la ristorante dopo un chilometro.
+1061. Io ho una madre americana.
+1062. Ho un paio di scarpe rosse.
+1063. Sono una nonna fortunata (I am a lucky grand mother)
+1064. Dobbiamo andare dal medico subito
+1065. Possiamo andare dalla dottoressa subito?
+1066. Si, mi fanno male i piedi stamattina. (Yes, my feet hurts this morning)
+1067. Scusi, l'ospidale e vicino?
+1068. C'è un maglione piccolo? (is there a small sweater
+1069. Quanti metri
+1070. Dove la clinica?
+1071. Perche sei in questa posizione?
+1072. Fa caldo al sud. (is is hot in the south)
+1073. E la direzione giusta per il museo?
+1074. Siamo pronte a iniziare. (We are ready to begin)
+1075. La bibliotecca e nel mezzo della citta.
+1076. Lui e avanti in matematica (He is ahead in mathematics)
+1077. E l'ingresso principale della bibliotecca (It is the main enterence of the library)
+1078. La Bibliotecca e a destra.
+1079. Il Giappone e un paese dell'est
+1080. Andiamo verso il nord
+1081. E un bicchiere senza fondo
+1082. Il museo e dietro l'angolo. (The museum is around the corner)
+1083. Vogliamo i mezzi pubblici
+1084. 
+1085. 
+1086. 
+1087. 
+1088. 
+1089. 
+1090. 
+1091. 
+1092. 
+1093. 
+1094. 
+1095. 
+1096. 
+1097. 
+1098. 
+1099. 
+1100. 
+
 
 
 
