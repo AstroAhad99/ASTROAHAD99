@@ -1062,7 +1062,7 @@
 1065. Possiamo andare dalla dottoressa subito?
 1066. Si, mi fanno male i piedi stamattina. (Yes, my feet hurts this morning)
 1067. Scusi, l'ospidale e vicino?
-1068. C'è un maglione piccolo? (is there a small sweater
+1068. C'è un maglione piccolo? (is there a small sweater)
 1069. Quanti metri
 1070. Dove la clinica?
 1071. Perche sei in questa posizione?
@@ -1095,107 +1095,207 @@
 1098. Non potevano vedere (They could not see)
 1099. Provavamo per ore (We used to try for hours)
 1100. Chiamavo e lui non rispondeva. (I was calling and he was not answering)
-1100. 19 Jan 2025
-1101. 
-1102. 
-1103. 
-1104. 
-1105. 
-1106. 
-1107. 
-1108. 
-1109. 
-1110. 
-1111. 
-1112. 
-1113. 
-1114. 
-1115. 
-1116. 
-1117. 
-1118. 
-1119. 
-1120. 
-1121. 
-1122. 
-1123. 
-1124. 
-1125. 
-1126. 
-1127. 
-1128. 
-1129. 
-1130. 
-1131. 
-1132. 
-1133. 
-1134. 
-1135. 
-1136. 
-1137. 
-1138. 
-1139. 
-1140. 
-1141. 
-1142. 
-1143. 
-1144. 
-1145. 
-1146. 
-1147. 
-1148. 
-1149. 
-1150. 
-1151. 
-1152. 
-1153. 
-1154. 
-1155. 
-1156. 
-1157. 
-1158. 
-1159. 
-1160. 
-1161. 
-1162. 
-1163. 
-1164. 
-1165. 
-1166. 
-1167. 
-1168. 
-1169. 
-1170. 
-1171. 
-1172. 
-1173. 
-1174. 
-1175. 
-1176. 
-1177. 
-1178. 
-1179. 
-1180. 
-1181. 
-1182. 
-1183. 
-1184. 
-1185. 
-1186. 
-1187. 
-1188. 
-1189. 
-1190. 
-1191. 
-1192. 
-1193. 
-1194. 
-1195. 
-1196. 
-1197. 
-1198. 
-1199. 
-1200. 
+1100. Mi pensivi? (Were you thinking about me?)
+1101. Loro non perdevano mai (They never used to lose)
+1102. L'anno scorso lei viveva con noi (Last year she was living with us)
+1103. Cosa rimaneva da fare? (What was left to do?)
+1104. I miei amici suonavano il violino ed il flauto (My friends played the violin and the flute)
+1105. Io aprivo la busta (I was opening the letter)
+1106. Mia nonna metteva i funghi nel forno per qualche ora (My grandmother was putting the mushrooms in the over for few hours)
+1107. Non decideva lui. (He did't used to decide.)
+1108. Nessuno mi capiva (Nobody understood me.)
+1109. Devi provare questa pestacceria!
+1110. I contadini danno la birra a noi.
+1111. Purtroppo credo di si, ragazzi. (Unfortunately I believe so, guys).
+1112. Devo studiare per quest'esame (I have to study for this exam)
+1113. Chi e il tuo avvocato?
+1114. Cosa state preparando per il cliente giapponese?
+1115. Lui e l'ingegnere lei l'architetto
+1116. Sto guardando un film coreano adesso
+1117. Ti piace il cibo filippino?
+1118. No, sto andando a scuola
+1119. Sei un pagliaccio
+1120. giocare a pallavolo (to play volleyball)
+1121. Mia nonna metteva i funghi nel forno per qualche ora.
+1122. Mi aspettavo di meglio (I was expecting better)
+1123. Ero in ritardo a scuola. (I was late to school)
+1124. Quando era giovane scriveva un libro all'anno. (When she was young she wrote one book a year)
+1125. La gente viveva in questi villaggi. (People were living in these villages)
+1126. Succedeva sepre di luglio (It always used to happen in July)
+1127. Loro non perdevano mai (They never used to lose)
+1128. Non apriva mai le mie lettere (He never used to open my letters)
+1129. Lui rimaneva al suo posto (He was staying in this place)
+1130. Non decideva lui
+1131. Leggevano lo stesso gionarle.
+1132. Lui era la prima persona che leggeva il gionale.
+1133. Lui mi parlava ogni giorno.
+1134. Lasciavano il paese per andare a lavorare. (They were leaving the country to go to work)
+1135. Tutta la classe era tranquilla (The whole class was calm)
+1136. Io sono triste.
+1137. I suoi fratelli hanno preso la colpa e sono in prigione.
+1138. Non ho il coraggio di leggere tutto. (I do not have courage to read everything)
+1139. Ho un sogno
+1140. Queste sono delle piccole soddisfazioni (These are small satisfaction)
+1141. La felicita non si compra (Happiness is not bought)
+1142. Sono molto sorpresa. (I am very surprised)
+1143. La nostra amicizia e unica (Our friendship is unique)
+1144. Non sono oggetti del desiderio. (They are not objects of desires)
+1145. Conosco il sentimento (I know the feeling)
+1146. Questa folla mi fa preoccupare (This crowd makes me worry)
+1147. Il bar e un posto tranquillo (The bar is a calm place)
+1148. Sepriamo di arrivare in tempo. (We hope to arrive in time)
+1149. Sono lacrime di gioia. (They are tears of happiness)
+1150. Queste non sono lacrime.
+1151. Il toppo ha paura di gatti. (The mouse has a fear of cats)
+1152. La felicita e una cosa strana (happiness is a strange thing)
+1153. Non mi aspettavo sorprese (I was not expecting surprises)
+1154. Non mi aspetto sorprese (I do not expect surprises)
+1155. Ho sentito la tua risata (I heared your laugh)
+1156. Ci sono tanti divertimenti nella piazza principale. (There is a lot of entertainment in the main plaza)
+1157. Un giovano le chiede un bacio.  
+1158. Queste sono delle piccole soddisfazioni
+1159. Grazie per il tuo aiuto
+1160. fra due settimana
+1161. Lasciate stare il ghiaccio
+1162. Ordina del sushi se non sai cucinare. (Order some sushi if you dont know how to cook)
+1163. Sono povera ma lei vive in un castello
+1164. Lei e molto piu alta di me
+1165. Invita luis e uscita insieme!
+1166. Prepero dei bicchieri e li metto li (I prepare some glasses and I put them there)
+1167. Scopo sempre il pavimento
+1168. E il vostro primo appunatamento vero?
+1169. Aprite i cancelli. (Open the gates)
+1170. Andiamo al parco a correre!
+1171. un bel regalo
+1172. Mi piace il tuo vestito nuovo
+1173. Mi piace luca e lo chiamo tutti i gioni
+1174. Io compro un anelli nuovo e lo uso per uscire
+1175. Devi usare una toviglia (table cloth) nuova.
+1176. Parla con me al telefono
+1177. Lui da la colpa a me. (He blames me)
+1178. Un bacio o due baci?
+1179. Ho conosciuto un lupo in un sogno (I met a wolf in a dream)
+1180. Sono stanco di guardare l'orologio
+1181. La ragazza ha paura dei cani (The girl is afraid of dogs)
+1182. La felicita e un bicchiere di vino con un panino
+1183. Sono lacrime di gioia
+1184. Che cosa l'amore
+1185. La tua amicizia e molto importante per me
+1186. Ha bisogno di loro (He need them)
+1187. Credo nella fortuna
+1188. Sono piu che felice (I am more than happy)
+1189. Ridiamo e dimentichiamo i brutti pensieri. (We laugh and forget the ugly thoughts)
+1190. Questa parola ha doppio senso
+1191. Lui da la colpa a me
+1192. Che cosa l'amore 
+1193. Questa parola ha doppio senso
+1194. Noi studiamo allo stesso istituto
+1195. Il personaggio nel libro ha un nome diverso
+1196. Il primo a cambiare il versione e lui (The first one to change the versions is him)
+1197. Abbiamo una vittima
+1198. Per quale ragione l'hai fatto? (For what reason did you do it?)
+1199. La crescita del paese ha combiato molte cose.
+1200. La maggioranza prende le decisioni.
+1201. Non mi piacciono queste situazioni
+1202. La mia sezione ha piu studenti
+1203. Io provo con tutte le mie forze
+1204. Qual e il programma?
+1205. Ognuno ha i suoi giudizi personali (Everyone has their personal opinions)
+1206. Lei ha scritto un libro circa le sue esperienze. (She wrote a book about her experience)
+1207. La autorita hanno fermata una terza persona.
+1208. Cosa pensi di questi movimenti culturali? (What do you think of theis cultural movement?)
+1209. Non vedo alcuna differenza. (I do not see any differences)
+1210. Lei canta piano (She singss softly)
+1211. Abbiamo perso la due punti.
+1212. Sono ancora in prima fase (I am still in the first phase.)
+1213. Loro sono spesso in difficolta.
+1214. Quali sono i tuoi obiettivi? (What are your objectives)
+1215. Quali numeri indicano la crescita? (Which numbers indicate the growth?)
+1216. Non c'e azione senza conseguenza. (There are no actions without consequences)
+1217. Internet mi ha dato molte possibilita (The internet has given me many possibilities)
+1218. Come si chiamano questi fenomini? (What are these phenomena called?)
+1219. Non mi e piacuto il risultato? (I do not like the result.) 
+1220. Miglioriamo il qualita (We are improving the quality?)
+1221. Quali sono i motivi? (what are the reasons?)
+1222. Mario vuole un telefono nuovo.
+1223. Ho una griglia elettrica.
+1224. Avete una birra straniera?
+1225. Non sono libero.
+1226. La tua e una domanda comune. (Yours is a common question)
+1227. I cantanti del Giappone sono bravi. (The singers from Japan are good.)
+1228. Loro sono forti come noi.
+1229. Loro sono i nostri uomini.
+1230. Siamo alti e forti.
+1231. Cos'e populare ora?
+1232. Qual professore e molto bravo?
+1233. un'infermiera brava
+1234. Sono alte? (Are they tall?)
+1235. Vede se stessa (She sees herself)
+1236. Dove sono le tue scarpe vecchie?
+1237. Con questa decisione non corete rischi. (With this decision you do not run risks)
+1238. Mi piace il tuo aspetto. (I like your appearence)
+1239. Quali sono gli effetti di questo ingrediante?
+1240. Questo vestito e di qualita buona.
+1241. La strattura (The structure)
+1242. Ha iniziato il piano.
+1243. Abbiamo una vittima
+1244. La zona e pericolosa.
+1245. Abbiamo scritto della crescita in Germania. (We wrote about the growth in Germany.)
+1246. Questa e la tradizione di mia nonna. (This is the tradition of my grandmother)
+1247. I loro movimenti sono perfetti.
+1248. Vado in pescina.
+1249. Lui era il campione l'agosto scorso. (He was the campione last august)
+1250. E argentino e da lezione di tennis (He is argentinian and gives the tennis lessons)
+1251. Vincere non e tutto.
+1252. Il mio insegnante era un giacatore di calcio. (My teacher was a soccer player)
+1253. Oggi andiamo alla gara. (Today we go to the race)
+1254. Che cosa dite al pubblico (What do you say to the audience?)
+1255. Qual e il sogno di ogni atleta?
+1256. Vogliamo essere perfetti per il campionato. (We want to be perfect for the championship)
+1257. Dimmi come giocare al gioco?
+1258. Vedo i miei genitori tra gli spettatori. (I see my parents between the spectators)
+1259. Mettiamo la palla in rete. (We put the ball in the goal.)
+1260. Hanno trovato la mia bici (They have found my bicycle.)
+1261. Vincere il campionato e impossibile. (Winning the championship is impossible.)
+1262. E vero che abbiamo vinto la gara? (Is it true that we have won the race?)
+1263. Che e il campione?
+1264. Vogliamo vincere il campionato mondiale. (We want to win the world championship)
+1265. Questa e una bevanda per atleti.
+1266. Giovedi andiamo in pescina.
+1267. Ti vedo saltare. (i see you jump)
+1268. I giochi sono finiti (The games are over.)
+1269. Abbiamo fatto una passegiata nel parco.
+1270. E vero che ha vinto il primo premio (It is true that he won the first prize)
+1271. Giovedi andiamo in pescina.
+1272. La gara e troppo lenta.
+1273. Fuori citta ce una palazzo storico. (Outside the city there is a historic palace)
+1274. Non e necessario.
+1275. Noi mangiamo tardi.
+1276. C'e fuoco in cucina.
+1277. La bottiglia e piena di alcol puro.
+1278. Loro sono poveri.
+1279. Questo negozio ha molti libri antichi.
+1280. Il mio amico e un campione mondiale.
+1281. Lui ha vinto quattro premi (He won four awards)
+1282. Vedo i miei genitori tra gli spettatori
+1283. Mi piace la pallacanestro (I like basketball)
+1284. Vogliamo essere perfetti per il campionato.
+1285. Al bambino piace saltare.
+1286. Questa e una bevanda per atleti.
+1287. Non mi piace questa pista. (I do not like this slope.)
+1288. La loro squadra ha vinto la partita. (Their team won the match yesterday)
+1289. Quella squadra ha un buon allenatore (That team has a good coach)
+1290. Ti piace il calcio?
+1291. Vuoi usare questa bici gialla? (Do you want to use this yellow bicycle?)
+1292. Il parco non e aperto al pubblico
+1293. Il premio e sul muro. (The award is on the wall)
+1294. Non era andata come mi ero aspettato. (It did not go as I had expected)
+1295. 22 Jan 2025
+1296. 
+1297. 
+1298. 
+1299. 
+1300. 
 
 
 
