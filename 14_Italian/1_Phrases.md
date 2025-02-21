@@ -1296,11 +1296,11 @@
 1298. Avevo conosciuto tuo padre quella sera. (I had met your father that evening)
 1299. Mi era piaciuto il progetto finale. (I liked the final project)
 1300. Quasi tutte le mucche erano morte. (Almost all the cows had died)
-1301. 22 Jan 2025
-1302. 
-1303. 
-1304. 
-1305. 
+1301. Eravamo stati insieme. (We had been together)
+1302. Chi l'aveva aperto la prima volta? (Who had opened it the first time)
+1303. Vostro figlio aveva potuto andare prima. (Your son could have gone earlier)
+1304. Eravamo diventati migliori amiche quell'anno (We had become best friends that year)
+1305. Il momento che avevo aspettato era arrivato. (The moment I had waited for had arrived.)
 1306. 
 1307. 
 1308. 
