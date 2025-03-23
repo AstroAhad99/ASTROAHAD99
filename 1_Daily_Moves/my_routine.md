@@ -57,3 +57,6 @@ https://go.tecla.do/python-operators-cheatsheet
 1. I did Brilliant course every day
 2. I did python course on udemy from lesson 44 to 50.
 
+#### 22nd March 2025
+1. 1-50 italian phrases practice
+ 

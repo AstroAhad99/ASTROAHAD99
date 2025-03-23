@@ -1,5 +1,5 @@
-1. Chi ghielo ha dato?
-2. Non ti dimenticare di noi.
+1. Chi glielo ha dato? (Who gave it to him?)
+2. Non ti dimenticare di noi. (Dont forget about us)
 3. Sai cosa mi piace coltivare?
 4. Si, il suo telefono e rotto.
 5. Qui c'e una maglietta piccola in offerta.
@@ -22,7 +22,7 @@
 22. Voglio comprare un souvenir utile
 23. Le tue sorelle sono al ricevimento?
 24. Scusi Signora che ore sono?
-25. Dovete andare diritto fino alla banca.
+25. Dovete andare diritto fino alla banca. (You have to go straight to the bank)
 26. L'armadio
 27. Ragazzi, dove preferite dormire?
 28. Loro vedono molti paesi europei di solito

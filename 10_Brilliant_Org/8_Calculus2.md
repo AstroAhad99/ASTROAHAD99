@@ -62,8 +62,6 @@
 
 20. If we have a coffee brewing equation in time domain.
 
-![Screenshot](./Images/optimization.png) 
-
 21. Now we have to find the value of (t) where there is no change in the brewing function.
 
 22. So first we do the derivative of the function and then equate it to zero to find at what time there is no change in the brewing function.

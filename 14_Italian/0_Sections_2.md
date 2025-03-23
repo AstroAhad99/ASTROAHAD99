@@ -179,65 +179,65 @@
 5. Questo e il mio artista italiana preferito.
 6. Mi piace molto questo dipinto.
 
-## Unit 21:  
+## Unit 21: Use plural verbs
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Ragazzi che materie studiate in italia? (Guys what subjects do you study in Italy?)
+2. I miei genitori lavorano ogni domenica.
+3. Voi parlate anche tedesco in italia vero?
+4. Parliamo italiani e tedesco nella mia citta.
+5. Mangiamo pane ogni giono.
+6. Guardiamo spesso la televisone con amici. 
 
-## Unit 11: 
+## Unit 22: Plan a trip
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Voglio visitare molte citta europee.
+2. Possiamo viaggiare in treno
+3. Possiamo andare a barcellona in treno
+4. Non vogliamo viaggiare in aereo.
+5. Voi preferite dormire in un hotel o in un ostello?
+6. Perche non compriamo i biglietti se siete pronti?
 
-## Unit 11: 
+## Unit 23: Organize an event
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Dobbiamo organizzare un ricevimento per la citta.
+2. Volete organizzare una festa?
+3. Il marito di laura puo cucinare per gli invitati.
+4. Mia cugina Elisa puo cantare durate la festa.
+5. Io posso inviare le email per la nostra festa
+6. Io posso lavare i piatti dono l'evento.
 
-## Unit 11: 
+## Unit 24: Follow a recipe
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Ho bisogno di un uovo per la tua torta preferita.
+2. Ragazzi predete gli ingredienti per la ricetta.
+3. Chiara e Luis, mettete il latte qui.
+4. Luca, metti il ciocolato nella pentola.
+5. Ora mettete gli ingredienti nel forno
+6. Mettete tutto nel forno per favore.
 
-## Unit 11: 
+## Unit 25: Shop for suovenirs
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Cerco un regalo carino per i miei genitori
+2. In quel negozio ci sono molte cose interessanti.
+3. Ti piacciono questi souvenir?
+4. Questi suovenir sono inutili!
+5. Compra un souvenir piu bello per tua madre
+6. Voglio comprare un souvenir utile.
 
-## Unit 11: 
+## Unit 26: Give directions
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Vai diritto
+2. Come posso andare in via Mialno?
+3. Vai dritto e dopo gira a sinistra
+4. Vai e destra
+5. Ce un semaforo li.
+6. Dovete andare fino alla banca
 
-## Unit 11: 
+## Unit 27: Talk about relatives
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Vostro zio e di Palermo?
+2. Vostro nonno e italiano, vero?
+3. Nostro nonno e siciliano.
+4. Tuo nipote Matteo vive in sicilia ora? 
+5. Mio papa viene dalla Sicilia ma io sono inglese.
+6. Vivo in Sicilia con i miei fratelli.
