@@ -57,7 +57,7 @@
 57. La sposa e molto bella.
 58. Stiamo a Milano a Natale.
 59. Mi piacciono i fuochi d artificio a Capodanno
-60. Dopi il Matrimonio, c'e sempre un ricevimento.
+60. Dopo il Matrimonio, c'e sempre un ricevimento.
 61. Questo anello e molto elegante.
 62. Alessandro e Matteo sono gli sposi
 63. Lo sposso e molto bello vero?
@@ -67,7 +67,7 @@
 67. C'e un camerino li?
 68. Si, ma la cintura marrone e meno cara.
 69. Scusi signora dove sono le casse per favore?
-70. Potrebeero comparare queste gonne nere.
+70. Potrebero comprare queste gonne nere. (I could buy these black skirts)
 71. Dovete studiare la musica a scoula?
 72. Quante lingue parli a casa?
 73. Laura e Giovanna, che materie studiate?
