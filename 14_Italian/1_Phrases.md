@@ -1301,21 +1301,21 @@
 1303. Vostro figlio aveva potuto andare prima. (Your son could have gone earlier)
 1304. Eravamo diventati migliori amiche quell'anno (We had become best friends that year)
 1305. Il momento che avevo aspettato era arrivato. (The moment I had waited for had arrived.)
-1306. 
-1307. 
-1308. 
-1309. 
-1310. 
-1311. 
-1312. 
-1313. 
-1314. 
-1315. 
-1316. 
-1317. 
-1318. 
-1319. 
-1320. 
+1306. Io l'avevo lasciato fuori (I had left her outside)
+1307. Erano rimasti senz'acqua.
+1308. Non avevamo portato niente da mangiare. (We had not brought anything to eat)
+1309. Junior, cosa vuoi mangare stasera.
+1310. Pizza. Ho otto anni. Voglio sempre mangiare pizza.
+1311. Fantastico! Possiamo fare una pizza! (we can make a pizza!)
+1312. O la possiamo ordinare invece
+1313. No, se la facciamo e piu divertente!
+1314. Divertente per te forse.
+1315. Divertente per noi! Padre e figlio
+1316. Va bene papa!
+1317. Perfetto! Puoi prendere farina, acqua e sale?
+1318. Ora possiamo mettere tutto insieme
+1319. E cosi difficile e io ho fame!
+1320. E ora dobbiamo aspettare
 1321. 
 1322. 
 1323. 
