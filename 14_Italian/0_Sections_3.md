@@ -88,55 +88,55 @@
 5. La presentazione e alle tre.
 6. Luis, spegni il tuo computer e vai a casa!
 
-## Unit 01: 
+## Unit 11: Use object pronouns 
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Chi ti chiami ogni sera?
+2. Una persona mi chiama ogni sera.
+3. Chi ti invia regali ogni giorno?
+4. Qualcuno mi porta fiori e ciocolato ogni giorno.
+5. I nostri mariti non ci comprano fiori di solito (Our husbands usually don't buy us flowers.)
+6. Vi inviano messagi romantici a volte? (Do they send you romantic messages somtimes?)
 
-## Unit 01: 
+## Unit 12: Talk about going on a date 
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Perche non esci con lui se fa bel tempo?
+2. Andate (Go) insieme all'evento in centro!
+3. Cenero (I will have dinner) con lui in un ristorante in centro
+4. Guardero (I will see) un film romantico
+5. Voremmo andare (We woulde like to) in spiaggia se non e nuvoloso.
+6. Guaderanno (They will watch) un film
 
-## Unit 01: 
+## Unit 13: Describe a concert
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Vorrei andare a questo concerto rock.
+2. E un concerto pop vero?
+3. E un gruppo italiano famoso.
+4. Dobbiamo prepararci (We have to get ready) perche il concerto e domani.
+5. Il cantante e molto emozionato (excited)
+6. Il concerto inizia tra un'ora!
 
-## Unit 01: 
+## Unit 14: Talk about business trip
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Devo andare in italia per affari
+2. Partirai(Will you leave) con il tuo capo?
+3. Il Suo (Your) capo dormira in un'altra stanza
+4. Dormirete (Will you sleep) in centro o vicino al loro (their) ufficio
+5. I cani del capo partiranno (will leave) con lui?
+6. Partiremmo (We will leave) in aereo venerdi prossimo
 
-## Unit 01: 
+## Unit 15: Compare people and things
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Laura dice sempre che la sua stanza e migliore (better)
+2. Il mio letto e piu comodo del letto di Anna.
+3. Elisa, sei piu disordinata (messy) di Chiara.
+4. Luca e pigro (lazy) quanto Mario.
+5. La mia stanza e sporca quanto la tua.
+6. Non e vero, la tua e piu sporca!
 
-## Unit 01: 
+## Unit 16: Talk about the last trip
 
-1. 
-2. 
+1. Ho visitato Napoli dieci anni fa.
+2. Ho visitato un'isola e ho notato molto (I swam alot)
 3. 
 4. 
 5. 
