@@ -137,16 +137,16 @@
 
 1. Ho visitato Napoli dieci anni fa.
 2. Ho visitato un'isola e ho notato molto (I swam alot)
-3. 
-4. 
-5. 
-6. 
+3. C'era un bar molto carino a Capri
+4. Abbiamo mangiato una pizza deliziosa a Napoli.
+5. C'erano molte stelle quella sera
+6. C'era una discoteca vicino al mare.
 
-## Unit 01: 
+## Unit 17: 
 
-1. 
-2. 
-3. 
+1. Cosa hai fatto durante il fine settimana?
+2. Ho viaggiato molto il mese scorso.
+3. Un cantanto ha lavorato con noi il mese scorso.
 4. 
 5. 
 6. 
