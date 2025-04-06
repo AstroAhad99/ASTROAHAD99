@@ -72,14 +72,14 @@
 72. Quante lingue parli a casa?
 73. Laura e Giovanna, che materie studiate?
 74. Paghiamo qui?
-75. Queste non sono mutende gialle vero?
+75. Queste non sono mutende gialle (Yellow underpants) vero?
 76. Devo comprare delle scarpe.
 77. Cerchiamo delle magliette bianche
 78. Abbiamo tre scope per la casa.
 79. Ragazzi che succede qui?
 80. Il coltello, i coltelli
 81. Non siamo bambini papa!
-82. Vorremo partire a ottobre.
+82. Vorremo partire a ottobre. (We would like to leave in October)
 93. Questa e la scopa
 94. Loro dormono in posti spaventosi
 95. E un viaggio molto divertente

@@ -142,113 +142,138 @@
 5. C'erano molte stelle quella sera
 6. C'era una discoteca vicino al mare.
 
-## Unit 17: 
+## Unit 17: Use the passato prossimo
 
 1. Cosa hai fatto durante il fine settimana?
 2. Ho viaggiato molto il mese scorso.
 3. Un cantanto ha lavorato con noi il mese scorso.
-4. 
-5. 
-6. 
+4. I miei figli hanno comprato un edificio a Milano.
+5. Abbiamo sciato in Svizzera.
+6. Ieri ho chiamato tuo padre
 
-## Unit 01: 
+## Unit 18: Tell spooky stories
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Siete pronti per una storia spaventosa?
+2. Sedici anni fa, ho visitato un vecchio castello.
+3. Nella villa c'erano delle statue strane.
+4. Ho sentito una voce spaventosa di notte
+5. E poi ho visto un fantasma!
+6. C'era una straga spaventosa.
 
-## Unit 01: 
+## Unit 19: Talk about your favorite singer 
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. I nostri cantanti preferiti sono coreani.
+2. Siamo grandi fan di questa cantante.
+3. Emma e la migliore del gruppa.
+4. Preferisco questo gruppo giaponese.
+5. John e il piu carino in questo video.
+6. Conosceremo le nostre cantanti preferite a giugno.
 
-## Unit 01: 
+## Unit 20: Discuss learning a new skill
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Voglio imparare a suonare il pianoforte.
+2. Vorrei imparare a parlare il cinese.
+3. Impara a suonare uno strumento!
+4. Vuoi studiare arabo con me lunadi?
+5. Mi esercito (I practice) a suonare il violino tutti i giorni.
+6. Ora voglio imparare a fare qualcosa altro!
 
-## Unit 01: 
+## Unit 21: Discuss going on dates 
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Ho una appuntamento con una ragazza fra due giorni
+2. Forse possiamo cenare in un bel ristorante
+3. Invita luis e uscite insieme!
+4. Compra una tovaglia nuova per il tuo appuntamento
+5. Compra un vestito nuovo per l'appuntamento
+6. Per il primo appuntamento ordina il cibo.
 
-## Unit 01: 
+## Unit 22: Use the future of andare
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Andro al mercato con il mio ragazzo.
+2. Andro in centro con la mia ragazza.
+3. Andrai solo al supermercato vero? (You will only go to the supermarket right?)
+4. Tua sorella non andra in quell ufficio oggi.
+5. I miei gatto andranno al mercato con noi vero?
+6. Tu e i tuoi fratelli andrete al parco stasera.
 
-## Unit 01: 
+## Unit 23: Discuss hand me downs
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. A mio padre piace riciclare vestiti vecchi
+2. Dai (Give) questi pantaloncini a tuo fratello minore!
+3. Matteo non buttare le tue magliette (T-shirt) vecchie!
+4. Luca non ha maglioni, perche non dai i tuoi? (Why dont you give him yours)
+5. Dai la blusa nera a tua sorella minore.
+6. Date i vostri vecchi giochi a quelle bambine!
 
-## Unit 01: 
+## Unit 24: Discuss medical issues 
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Mi fa male il naso
+2. Non mi sento bene mamma.
+3. Chiama il dottore se ti senti male.
+4. Si, gli fanno male le gambe e non si sente bene!
+5. Dove la clinica?
+6. Ho bisogno di un'infermiera.
 
-## Unit 01: 
+## Unit 25: Use the present progressive 
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Sto andando a un nuovo ristorante vuoi venire?
+2. Stai imparando il cinese, vero?
+3. Stiamo leggendo in un bar, volete venire?
+4. Purtroppo stiamo lavorando in questo momento. 
+5. Antonio e Simona stanno venendo.
+6. Sta cucinando per i suoi figli e non puo uscire.
 
-## Unit 01: 
+## Unit 26: Use basic phrases
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Il ragazzo mangia la mela.
+2. Io sono una donna
+3. Lui e un uomo
+4. Tu mangi il pane
+5. L'uomo beve l'aqua.
 
-## Unit 01: 
+### Notes:
+- Italian has only 21 characters (j, k, w, x, y are not there)
+- Masculine nouns ends with -o (eg. un ragazzo). Use un for masculine.
+- Feminine nouns ends with -a (eg. una ragazza). Use una for feminine.
+- Subjects are io, tu, lui/lei
+- Verbs are sono, sei, e
+- In italian using the words before the nouns are not necessary like (Sono una ragazza)
+- In italian La, il, both means the. Use La for feminine and il for masculine (eg. La mela, il pane)
+- If the nouns starts with the vowel then use (l') (eg. l'acqua, l'uomo)
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
 
-## Unit 01: 
+## Unit 27: Describe basic actions 
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Noi leggiamo un libro.
+2. Scrivete al ragazzo.
+3. Loro scrivono un libro.
+4. Gli uomini bevono l'acqua.
+5. Voi bevete il caffe nero.
+6. Noi siamo donne, loro sono uomini.
+
+### Notes:
+- Subjects are noi, voi (you all), loro
+- Verbs are siamo, siete, sono
+- The following are Singular,  Plural
+- Il ragazzo, i ragazzi
+- La ragazza, le ragazze
+- l'uomo, gli uomini
+- Sometime Lo is also used before the nouns that starts with z, x, y, ps, gn, s + consonant.
+- Eg. Io mangio lo zucchero
+- Some more subjects with verbs are as
+- Io, tu, lui/lei, noi, voi, loro
+- leggo, leggi, legge, leggiamo, leggete, leggono
+- There are some other verbs that ends with -ere like scrivere
+- There are also some special verbs like bere - to drink, essere - to be
+
+## Unit 28: Talk about food
+
+1. Io mangio una carota.
+2. Io ho una piatto.
+3. Non mangio formaggio.
+4. Io sono il cuoco. 
+5. Il ragazzo ha un biscotto al ciocolato.
+6. Lei taglia la mela.
 
 ## Unit 01: 
 
