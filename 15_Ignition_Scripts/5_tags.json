@@ -1,0 +1,36 @@
+{
+    "tags": [
+      {
+        "valueSource": "opc",
+        "opcItemPath": "ns\u003d1;s\u003d[CP1000]CH_10002104_Status.Alarms.AccumulationFault",
+        "dataType": "Boolean",
+        "alarms": [
+          {
+            "setpointA": 1.0,
+            "name": "Alarm01",
+            "label": "Alarm Text",
+            "priority": "High"
+          }
+        ],
+        "name": "Alarm_Tag_1",
+        "tagType": "AtomicTag",
+        "opcServer": "Ignition OPC UA Server"
+      },
+      {
+        "valueSource": "opc",
+        "opcItemPath": "ns\u003d1;s\u003d[CP1000]CH_10002104_Status.Alarms.AccumulationFault",
+        "dataType": "Boolean",
+        "alarms": [
+          {
+            "setpointA": 1.0,
+            "name": "Alarm01",
+            "label": "Alarm Text",
+            "priority": "High"
+          }
+        ],
+        "name": "Alarm_Tag_2",
+        "tagType": "AtomicTag",
+        "opcServer": "Ignition OPC UA Server"
+      }
+    ]
+  }

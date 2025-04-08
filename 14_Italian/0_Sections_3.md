@@ -275,14 +275,27 @@
 5. Il ragazzo ha un biscotto al ciocolato.
 6. Lei taglia la mela.
 
-## Unit 01: 
+### Notes 
+- Al e usato per parlare per cibo.
+- Io mangio la crema al cioccolato.
+- Io ho la torta al caffe.
+- Il gelato non e una colazione.
+- Subjects are: io, tu, lui/lei, noi, voi, loro
+- Verbs are: cucino, cucini, cucina, cuciniamo, cucinate, cucinino
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+## Unit 29: 
+
+1. Loro sono cuochi.
+2. Io scrivo ai ragazzi.
+3. Lei scrive libri.
+4. Loro leggono i giornali.
+
+### Notes:
+1. Ci sono qualche nouns che finishe alle charatera "e" (Per esampio animale)
+2. Singulars are: la ragazza, il ragazzo, il gionrale, l'elefante
+3. Plurals are: le ragazze, i ragazzi, i giornali, gli elefanti
+4. Gli elefanti bevono acqua.
+
 
 ## Unit 01: 
 

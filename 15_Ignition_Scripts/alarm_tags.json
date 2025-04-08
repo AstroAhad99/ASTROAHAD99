@@ -1,0 +1,3862 @@
+{
+  "name": "Alarms_Folder",
+  "tagType": "Folder",
+  "tags": [
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004004_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10004004 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10004004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10001006_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10001006_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10001006_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]PowerMonitor500_RDP01.o_OverVoltageDetected",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PM500_RDP01 : CP1000 (CC87) Over Voltage",
+          "priority": "High"
+        }
+      ],
+      "name": "PM500_RDP01",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]PowerMonitor500_RDP02.o_OverVoltageDetected",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PM500_RDP02 : CP1000 (CC87) Over Voltage",
+          "priority": "High"
+        }
+      ],
+      "name": "PM500_RDP02",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002006_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10002006 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10002006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10003006_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10003006_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10003006_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006004_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10006004 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10006004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006602_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10006602 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10006602",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003004_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10003004 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10003004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10001502_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10001502 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10001502",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002004_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10002004 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10002004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003506_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10003508 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10003508",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10004006_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10004006 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10004006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003504_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10003504 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10003504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006006_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10006006 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10006006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005604_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10005604 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10005604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10002506_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10002506_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10002506_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004102_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10004102 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10004102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002506_Status.Alarms.PecBlockageSos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10002506 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10002506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001102_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10001102 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10001102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10001602_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10001602_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10001602_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003104_CartControl.o_CartFull",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE3_10003104 : ROBIN CART FULL",
+          "priority": "High"
+        }
+      ],
+      "name": "PE3_10003104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]PS_10003_IoPsManager.o_PsFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PS_10003002-24-2 : Power Supply Class2 Fault",
+          "priority": "High"
+        }
+      ],
+      "name": "PS_10003002-24-2",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]PS_10005_IoPsManager.o_PsFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PS_10005502-24-2 : Power Supply Class2 Fault",
+          "priority": "High"
+        }
+      ],
+      "name": "PS_10005502-24-2",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005104_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10005104 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10005104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002504_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10002504 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10002504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10002006_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10002006 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10002006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002004_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10002004 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10002004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005102_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10005102 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10005102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003006_Status.Alarms.PecBlockageSos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10003006 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10003006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005504_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10005504 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10005504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006506_Status.Alarms.PecBlockage2",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10006506 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10006506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10005006_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10005006_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10005006_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005006_MotorFan_AOI.o_MotorFanNotOk",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "FAN_10005006 : ROBIN VFD MTR FAN TRIPPED",
+          "priority": "High"
+        }
+      ],
+      "name": "FAN_10005006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10006502_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10006502 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10006502",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10006006_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10006006_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10006006_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10005506_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10001102 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10001102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10005506_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10005506 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10005506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001104_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10001104 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10001104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004504_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10004504 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10004504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002006_Status.Alarms.PecBlockageSos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10002006 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10002006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005006_Status.Alarms.PecBlockage2",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10005006 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10005006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004102_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10004102 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10004102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004104_CartControl.o_Enabled",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10004104 : ROBIN CART MISSING / NOT ENABLED",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10004104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005102_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10005102 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10005102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10001002_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10001002 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10001002",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002004_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10002004 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10002004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006506_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10006508 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10006508",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10005604_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10005604 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10005604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003504_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10003504 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10003504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006504_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10006504 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10006504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001506_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10001506 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10001506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005006_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10005006 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10005006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10005102_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10005102_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10005102_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10001506_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10001506_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10001506_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10005102_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10001008 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10001008",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10004604_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10004604 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10004604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003102_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10003102 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10003102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001604_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10001604 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10001604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10003006_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10003006 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10003006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]CP1000_Status.Estop",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "CP1000_Epb1 : CP1000 (CC87)  ESTOP DOOR",
+          "priority": "High"
+        }
+      ],
+      "name": "CP1000_Epb1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002506_MotorFan_AOI.o_MotorFanNotOk",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "FAN_10002506 : ROBIN VFD MTR FAN TRIPPED",
+          "priority": "High"
+        }
+      ],
+      "name": "FAN_10002506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003104_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10003104 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10003104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006006_MotorFan_AOI.o_MotorFanNotOk",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "FAN_10006006 : ROBIN VFD MTR FAN TRIPPED",
+          "priority": "High"
+        }
+      ],
+      "name": "FAN_10006006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005506_Status.Alarms.PecBlockageSos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10005506 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10005506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004604_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10004604 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10004604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002102_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10002102 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10002102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003102_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10003102 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10003102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10001604_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10001604 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10001604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006602_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10006602 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10006602",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005104_CartControl.o_Enabled",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10005104 : ROBIN CART MISSING / NOT ENABLED",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10005104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005506_MotorFan_AOI.o_MotorFanNotOk",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "FAN_10005506 : ROBIN VFD MTR FAN TRIPPED",
+          "priority": "High"
+        }
+      ],
+      "name": "FAN_10005506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003506_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10003506 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10003506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10004602_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10004602_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10004602_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10002006_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10002006_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10002006_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10001006_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10001006 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10001006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10005104_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10005104 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10005104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10005602_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10001504 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10001504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004506_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10004506 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10004506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003004_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10003004 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10003004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004006_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10004006 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10004006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003104_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10003104 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10003104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10005002_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10005002 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10005002",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10004006_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10004006_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10004006_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]PLC Device Tag",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "Alarm Text",
+          "priority": "High"
+        }
+      ],
+      "name": "Device Tag",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006506_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10006506 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10006506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002102_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10002102 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10002102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004006_Status.Alarms.PecBlockageSos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10004006 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10004006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005004_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10005004 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10005004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10006506_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10006506 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10006506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10005006_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10001004 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10001004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10003002_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10003002 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10003002",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004104_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10004104 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10004104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005604_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10005604 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10005604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004506_Status.Alarms.PecBlockageSos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10004506 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10004506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003006_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10003006 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10003006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001004_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10001004 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10001004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001104_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10001104 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10001104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004006_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10004008 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10004008",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006006_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10006006 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10006006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10004502_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10004502 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10004502",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006604_CartControl.o_Enabled",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10006604 : ROBIN CART MISSING / NOT ENABLED",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10006604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004604_CartControl.o_Enabled",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10004604 : ROBIN CART MISSING / NOT ENABLED",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10004604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005104_CartControl.o_CartFull",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE3_10005104 : ROBIN CART FULL",
+          "priority": "High"
+        }
+      ],
+      "name": "PE3_10005104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005104_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10005104 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10005104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001506_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10001506 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10001506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]CP1000_Status.CB50_04",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "MCP1000_PointIo : CP1000 (CC87) Panel Tripped Fan",
+          "priority": "High"
+        }
+      ],
+      "name": "MCP1000_PointIo",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10003104_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10003104 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10003104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003104_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10003104 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10003104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001604_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10001604 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10001604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001604_CartControl.o_CartFull",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE3_10001604 : ROBIN CART FULL",
+          "priority": "High"
+        }
+      ],
+      "name": "PE3_10001604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10001102_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10001102_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10001102_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005604_CartControl.o_CartFull",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE3_10005604 : ROBIN CART FULL",
+          "priority": "High"
+        }
+      ],
+      "name": "PE3_10005604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004104_CartControl.o_CartFull",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE3_10004104 : ROBIN CART FULL",
+          "priority": "High"
+        }
+      ],
+      "name": "PE3_10004104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001504_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10001504 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10001504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004602_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10004602 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10004602",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002006_Status.Alarms.PecBlockage2",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10002006 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10002006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004006_MotorFan_AOI.o_MotorFanNotOk",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "FAN_10004006 : ROBIN VFD MTR FAN TRIPPED",
+          "priority": "High"
+        }
+      ],
+      "name": "FAN_10004006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005504_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10005504 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10005504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001506_Status.Alarms.PecBlockage2",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10001506 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10001506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005006_Status.Alarms.PecBlockageSos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10005006 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10005006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005004_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10005004 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10005004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10006002_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10006002 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10006002",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10006006_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10001508 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10001508",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10002502_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10002502 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10002502",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10005602_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10005602_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10005602_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002104_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10002104 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10002104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002506_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10002506 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10002506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005506_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10005506 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10005506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002006_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10002008 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10002008",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]CP1000_Status.FireAlarm",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "FireAlarm : CP1000 (CC87) Fire Alarm active",
+          "priority": "High"
+        }
+      ],
+      "name": "FireAlarm",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004506_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10004506 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10004506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004006_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10004006 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10004006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006604_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10006604 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10006604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10004104_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10004104 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10004104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002504_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10002504 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10002504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10001506_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10001506 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10001506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004504_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10004504 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10004504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003104_CartControl.o_Enabled",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10003104 : ROBIN CART MISSING / NOT ENABLED",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10003104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004602_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10004602 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10004602",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002104_CartControl.o_Enabled",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10002104 : ROBIN CART MISSING / NOT ENABLED",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10002104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006006_Status.Alarms.PecBlockage2",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10006006 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10006006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002104_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10002104 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10002104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005602_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10005602 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10005602",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003506_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10003506 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10003506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001604_CartControl.o_Enabled",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10001604 : ROBIN CART MISSING / NOT ENABLED",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10001604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003506_MotorFan_AOI.o_MotorFanNotOk",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "FAN_10003506 : ROBIN VFD MTR FAN TRIPPED",
+          "priority": "High"
+        }
+      ],
+      "name": "FAN_10003506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004604_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10004604 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10004604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006602_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10006602 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10006602",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004102_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10004102 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10004102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002506_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10002508 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10002508",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005004_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10005004 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10005004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10006506_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10006506_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10006506_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006506_MotorFan_AOI.o_MotorFanNotOk",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "FAN_10006506 : ROBIN VFD MTR FAN TRIPPED",
+          "priority": "High"
+        }
+      ],
+      "name": "FAN_10006506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004004_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10004004 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10004004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004006_Status.Alarms.PecBlockage2",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10004006 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10004006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001004_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10001004 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10001004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10003502_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10003502 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10003502",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006506_Status.Alarms.PecBlockageSos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10006506 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10006506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001506_Status.Alarms.PecBlockageSos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10001506 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10001506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]CP1000_Status.PLCBatt",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PLC1000 : CP1000 (CC87) BATTERY FAULT",
+          "priority": "High"
+        }
+      ],
+      "name": "PLC1000",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005504_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10005504 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10005504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004506_Status.Alarms.PecBlockage2",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10004506 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10004506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003506_Status.Alarms.PecBlockage2",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10003506 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10003506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003504_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10003504 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10003504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001006_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10001006 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10001006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001602_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10001602 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10001602",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001104_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10001104 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10001104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10003506_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10003506_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10003506_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002104_CartControl.o_CartFull",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE3_10002104 : ROBIN CART FULL",
+          "priority": "High"
+        }
+      ],
+      "name": "PE3_10002104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001104_CartControl.o_CartFull",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE3_10001104 : ROBIN CART FULL",
+          "priority": "High"
+        }
+      ],
+      "name": "PE3_10001104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]PS_10001_IoPsManager.o_PsFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PS_10001002-24-2 : Power Supply Class2 Fault",
+          "priority": "High"
+        }
+      ],
+      "name": "PS_10001002-24-2",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006006_Status.Alarms.PecBlockageSos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10006006 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10006006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10004506_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10004506_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10004506_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006604_CartControl.o_CartFull",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE3_10006604 : ROBIN CART FULL",
+          "priority": "High"
+        }
+      ],
+      "name": "PE3_10006604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002504_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10002504 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10002504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001102_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10001102 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10001102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003006_MotorFan_AOI.o_MotorFanNotOk",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "FAN_10003006 : ROBIN VFD MTR FAN TRIPPED",
+          "priority": "High"
+        }
+      ],
+      "name": "FAN_10003006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10002104_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10002104 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10002104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10004506_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10004506 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10004506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001006_Status.Alarms.PecBlockage2",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10001006 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10001006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006004_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10006004 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10006004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003006_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10003006 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10003006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004104_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10004104 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10004104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004604_CartControl.o_CartFull",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE3_10004604 : ROBIN CART FULL",
+          "priority": "High"
+        }
+      ],
+      "name": "PE3_10004604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]RIO_01_Status.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "RIO_01 : CP1000 (CC87) RIO01 comms fault",
+          "priority": "High"
+        }
+      ],
+      "name": "RIO_01",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006604_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10006604 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10006604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004104_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10004104 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10004104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001504_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10001504 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10001504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005506_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10005506 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10005506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004506_MotorFan_AOI.o_MotorFanNotOk",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "FAN_10004506 : ROBIN VFD MTR FAN TRIPPED",
+          "priority": "High"
+        }
+      ],
+      "name": "FAN_10004506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001006_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10001006 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10001006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004604_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10004604 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10004604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10002002_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10002002 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10002002",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005506_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10005508 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10005508",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002506_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10002506 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10002506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001506_MotorFan_AOI.o_MotorFanNotOk",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "FAN_10001506 : ROBIN VFD MTR FAN TRIPPED",
+          "priority": "High"
+        }
+      ],
+      "name": "FAN_10001506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001006_Status.Alarms.PecBlockageSos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10001006 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10001006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003006_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10003008 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10003008",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002104_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10002104 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10002104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005102_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10005102 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10005102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003102_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10003102 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10003102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002006_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10002006 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10002006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002102_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10002102 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10002102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004506_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10004508 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10004508",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005006_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10005006 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10005006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10000102_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10000102 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10000102",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10000101_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10000101 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10000101",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10002102_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10002102_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10002102_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001006_MotorFan_AOI.o_MotorFanNotOk",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "FAN_10001006 : ROBIN VFD MTR FAN TRIPPED",
+          "priority": "High"
+        }
+      ],
+      "name": "FAN_10001006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004602_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10004602 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10004602",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004004_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10004004 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10004004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10005506_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "10005506_Epc1 : ROBIN CONVEYANCE E-STOP",
+          "priority": "High"
+        }
+      ],
+      "name": "10005506_Epc1",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10004002_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10004002 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10004002",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006004_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10006004 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10006004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003006_Status.Alarms.PecBlockage2",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10003006 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10003006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001604_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10001604 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10001604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005104_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10005104 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10005104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10005006_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10005006 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10005006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006604_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10006604 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10006604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10006604_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10006604 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10006604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002506_Status.Alarms.PecBlockage2",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10002506 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10002506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006506_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10006506 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10006506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005506_Status.Alarms.PecBlockage2",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10005506 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10005506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003506_Status.Alarms.PecBlockageSos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE1_10003506 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE1_10003506",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006006_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10006008 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10006008",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10003004_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10003004 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10003004",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10005502_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10005502 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10005502",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10004504_Status.Alarms.DisconnectOff",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "DS_10004504 : ROBIN VFD DISC OFF",
+          "priority": "High"
+        }
+      ],
+      "name": "DS_10004504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001602_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10001602 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10001602",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006504_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10006504 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10006504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]I_TRS_10006506_Epc1",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10001602 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10001602",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005604_CartControl.o_Enabled",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10005604 : ROBIN CART MISSING / NOT ENABLED",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10005604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005604_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10005604 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10005604",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005602_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10005602 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10005602",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10002006_MotorFan_AOI.o_MotorFanNotOk",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "FAN_10002006 : ROBIN VFD MTR FAN TRIPPED",
+          "priority": "High"
+        }
+      ],
+      "name": "FAN_10002006",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005006_Status.Alarms.PecBlockageEos",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE_10005008 : ROBIN CONVEYANCE JAM",
+          "priority": "High"
+        }
+      ],
+      "name": "PE_10005008",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10006504_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10006504 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10006504",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10001104_CartControl.o_Enabled",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "PE2_10001104 : ROBIN CART MISSING / NOT ENABLED",
+          "priority": "High"
+        }
+      ],
+      "name": "PE2_10001104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]IO_10001104_IoModuleStatus.o_ModuleFaulted",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "IO_10001104 : ROBIN AREA IO COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "IO_10001104",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    },
+    {
+      "valueSource": "opc",
+      "opcItemPath": "ns\u003d1;s\u003d[CP1000]TRS_10005602_Status.Alarms.CommFault",
+      "dataType": "Boolean",
+      "alarms": [
+        {
+          "setpointA": 1.0,
+          "name": "Alarm01",
+          "label": "VFD_10005602 : ROBIN VFD COMMS FLT",
+          "priority": "High"
+        }
+      ],
+      "name": "VFD_10005602",
+      "tagType": "AtomicTag",
+      "opcServer": "Ignition OPC UA Server"
+    }
+  ]
+}
