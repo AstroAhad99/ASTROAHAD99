@@ -283,7 +283,7 @@
 - Subjects are: io, tu, lui/lei, noi, voi, loro
 - Verbs are: cucino, cucini, cucina, cuciniamo, cucinate, cucinino
 
-## Unit 29: 
+## Unit 29: Form the plurals
 
 1. Loro sono cuochi.
 2. Io scrivo ai ragazzi.
@@ -297,14 +297,18 @@
 4. Gli elefanti bevono acqua.
 
 
-## Unit 01: 
+## Unit 30: Talk about animals
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Lui ha un cane.
+2. No, non e un scimmia.
+3. Il topo mangia il formaggio.
+4. La mosca e nel bicchiere.
+5. La formica e un insetto.
+
+### Notes:
+1. E un uccello?
+2. Nel, nello are used when taking about location of people, animal, and objects.
+3. Le scimmie sono nello zoo.
 
 ## Unit 01: 
 
