@@ -117,13 +117,13 @@
 127. Quale schermo devo accendere?
 128. Sono i tuoi colleghi
 129. Quando vai in pausa di solito 
-130. Voi predete sempre il treno a Milano?
+130. Voi prendete sempre il treno a Milano?
 131. Loro vedono molti paesi Europei di solito.
 132. Che paese europea volete visitare dopo?
 133. Ragazzi, dove preferite dormire?
 134. Posso avere un po di carta?
 135. La torta e nel armadio del capo.
-136. Dobbiamo ancore preparare tutto. We still have to prepare everything
+136. Dobbiamo ancore preparare tutto. (We still have to prepare everything)
 137. Questa collana e molto bella.
 138. Purtroppo non ci danno niente.
 139. E tu, dai spesso del ciocalato al tuo ragazzo?

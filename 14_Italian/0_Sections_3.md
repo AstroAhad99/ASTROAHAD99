@@ -310,59 +310,123 @@
 2. Nel, nello are used when taking about location of people, animal, and objects.
 3. Le scimmie sono nello zoo.
 
-## Unit 01: 
+## Unit 31: Talk about food and drink
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Lei cucina una bistecca
+2. Noi beviamo la limonata.
+3. Lui mangia un panino
+4. Lui non e vegetariano
+5. Ceniamo al ristorante.
+6. Si, io ho fame
 
-## Unit 01: 
+### Notes:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. In italian most fruits are feminine which means they end with -a (for example mela, arancia)
+2. However the trees are masculine (for example il melo, l'arancio)
+3. Ho and Ha are two verbs (to have) in English
+4. Io ho una fragola.
+5. La donna ha l'ingrediente
+6. Io ho fame.
+7. La ragazza ha fame.
+8. Lui mangia un panino.
+9. Burgers and rolls are also Panini in italian
 
-## Unit 01: 
+## Unit 32: Describe possessions
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Io ho i vostri panini.
+2. Il cane e il tuo
+3. Lui ha il tuo piatto
+4. Lui ha il mio pranzo
+5. E la sua giacca?
 
-## Unit 01: 
+### Notes
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. The food items which ends with -a are feminine and we use "la" before it, if -e then we use "le".
+2. Else if it is masculine and ends with -o then we use "il", -i then we use "i".
+3. The following are the singular
+4. Masculine - il mio pomodoro, il tuo biscotto, il suo riso, il nostro cuoco, il vostro panino, il loro pranzo
+5. Feminine - la mia torta, la tua patata, la sua cucina, la nostra pasta, la vostra banana, la loro cena
+6. The following are the plurals
+7. Masculine - I miei pomodori, I tuoi biscotti, I suoi libri, I nostri cuochi, I vostri panini, I loro pranzi.
+8. Feminine - Le mie torte, le tue patatele, le sue mele, le nostre case, le nostre banane, le loro cene
+9. E il tuo cane, E il mio gatto
 
-## Unit 01: 
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+## Unit 33: Discuss clothing
 
-## Unit 01: 
+1. La donna compra un maglione.
+2. Lui ha il mio portafoglio.
+3. Il cappotto e nel ristorante.
+4. Lei compra gli stevali.
+5. Ho un cappello rosso.
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+### Notes:
+1. Double consonents sounds longer as compared to single consonants for example (capello, cappotto)
+2. In italian orologio means both watch and clock (It depends on the context)
+
+## Unit 34: Talk about present 
+
+1. Voglio una caramella.
+2. Noi abbiamo un costume.
+3. Non abbiamo manzo.
+4. Aprite la bottiglia. (You open the bottle)
+5. Guardiamo il menu (we look at the menu)
+
+### Notes: 
+1. Fare means to do.
+2. Cosa fate? (What do you do?)
+3. Noi facciamo torte (We make cates)
+4. The forms of verbs for fare are
+5. Io Faccio (I do/make), Tu Fai (You do, make), Lui/Lei Fa (He/She does), Noi Facciamo (We do/make), Voi Fate (You all do/make), Loro Fanno (They do/make)
+6. Come stai? (how are you?)
+7. Come sta (How is he/she/it?)
+8. Come stanno (How are they?)
+9. One of the important verbs in italian is Andare (to go)
+10. Io Vado (I go), Tu Vai (You go), Lui/Lei Va (He/She goes), Noi Andiamo (We go), Voi Andate (You all go), Loro Vanno (They go)
+11. Come va? (How's it going?)
+
+## Unit 35: Describe Colors
+
+1. Lei ha i pantaloni rossi
+2. La mia gonna non e gialla.
+3. Le sue calze sono grigie.
+4. L'azzuro e il suo colore.
+5. Gli uccelli sono gialli.
+
+### Notes:
+1. Adjectives are the words that describes the property of a noun. (like red, funny, precious)
+2. In italian the endings of the adjectives are different depending on weather they are masculine or feminine.
+3. Ho un cappello rosso.
+4. La sua camicia e rossa.
+5. Rossa (pink), purple (viola)
+6. La sua maglia (shirt) e viola.
+7. Il suo maglione e viola.
+8. La maglia rossa e sua.
+9. Lei ha i pantaloni rosa.
+10. Blu is darker shades of blue. Azzuro is lighter version.
+11. I suoi pantaloni sono blu.
+12. Le sue scarpe sono azzurre.
+
+## Unit 36: Talk about places 
+
+1. Compriamo le caramelle allo zoo.
+2. Vanno da Roma a Napoli (They go from Rome to Naples)
+3. Vengo dalla gioielleria (I am coming from the jewelry store)
+4. Andiamo ad Amsterdam (We go to Amsterdam)
+5. Arriviamo da Milano (We arrive from Milan)
+
+### Notes
+1. Lui scrive agli uomini. (He writes to the men)
+2. "A" and its combinations are used to talk about likes and dislikes
+3. A lui piace il te.
+4. Alla ragazza non piace il pollo.
+5. "nel" and "nello" combinations are used to talk about the location of animal, people, places
+6. Metto ghiaccio nei bicchieri.
+7. Lui cucina cella cucina.
+8. Il cibo e nei piatti.
+9. Maria's cat - Il gatto di Maria
+10. "di", "dello", "della" is used to show the ownership of something
+11. Chi ha il cibo degli animali
 
 ## Unit 01: 
 
