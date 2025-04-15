@@ -37,15 +37,23 @@
 
 #### Vero:
 1. La corsia puo essere destinata alla normale marcia dei veicoli.
-2. 
+2. The lane may be used for normal vehicle traffic.
 ---
 3. La corsia e limitata da strisce continue o discontinue.
-4. 
+4. The lane is delimited by continuous or discontinuous lines.
 ---
 5. La corsia puo essere di accelerazione.
-6. 
+6. The lane may be an acceleration lane.
 ---
 7. La corsia puo essere di decelrazione.
-8. 
+8. The lane may be a deceleration lane.
 ---
-9. 
+9. La corsia puo essere vietati a taluni tipi di veicoli.
+10. The lane may be closed to certain types of vehicles.
+---
+11. La corsia puo essere riservata alla circolazione di alcuni categorie di veicoli (taxi, autobus, ecc.)
+12. The lane may be reserved for the circulation of certain categories of vehicles (taxis, buses, etc.)
+---
+13. La corsia puo essere destinata ad effetture sorpassi.
+14. The lane may be used for overtaking.
+---
