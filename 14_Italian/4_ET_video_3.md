@@ -7,3 +7,5 @@ In questo video vediamo sette film perfetti per imparare l'italiano. E se pensi 
 Se volete scoprire in modo divertente le differenze culturali e linguistiche tra nord e sud italia "Benvenuti al Sud" e il film perfetto. Il protogonista e interpretato (The main character is played) dal comico Claudio Bisio e si chiama Alberto un direttore delle poste del Nord Italia che sogna di essere trasferito a Milano.
 
 Quando tenta(tries) di fingere(fake) una disabilita per ottenere(get) il trasferimento viene scoperto (he gets found out) e spedito per punizione al Sud (and as punishment he get sent to the south) precisamente (specifically) a Castellabate, un piccolo paesino vicino a Salerno.
+
+Alberto parte terrorizato (terrified)
