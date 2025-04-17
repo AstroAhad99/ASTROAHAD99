@@ -57,3 +57,72 @@
 13. La corsia puo essere destinata ad effetture sorpassi.
 14. The lane may be used for overtaking.
 ---
+15. L'ente proprietario della strada puo imporre che su una corsia i veicoli transitino ad una velocita minima obbligatoria.
+16. 
+---
+17. La corsia e una parte della carregiata che consenta la circolazione di una sola fila di veicoli.
+18. 
+---
+19. La corsia puo essere riservata ai veicoli che intendono svoltare (corsia specializzata)
+20. 
+---
+21. La corsia puo essere destinata al rallentamento dei veicoli in uscita dalle autostrade.
+22. 
+---
+23. La corsia di accelerazione facilita l'ingresso dei veicoli in autostrada o su strada extraurbane pricipali.
+24. 
+---
+25. La corsia di accelerazione serve ad entrare correttamente in autostrada.
+26. 
+---
+27. La corsia di accelerazione viene utilizzata per aumentare la velocita.
+28. 
+---
+29. La corsia di accelerazione serve per rientrare sulla carreggiata dell'autostrada dopo che si e uscita da area di servizio.
+30. 
+---
+31. La corsia di decelerazione facilita l'uscita dei veicoli dall'autostrada.
+32. 
+---
+33. La corsia di decelerazione serve per uscire correttamente da una strada extraurbane principale.
+34. 
+---
+35. La corsia di decelerazione serve per uscire dalla carregiata dell'autostrada ed entrare nell'area di servizio.
+36. 
+
+#### False:
+1. La corsia e destinata solo al transito dei pedoni.
+2. 
+---
+3. La corsia puo essere a doppio senso di circolazione.
+4. 
+---
+5. La corsia e una pista riservata alle vetture da corsa.
+6. 
+---
+7. La corsia non puo essere attraversata dai pedoni.
+8. 
+---
+9. La corsia e formata due carregiata.
+10. 
+---
+11. La corsia e una strada a scorrimento veloce.
+12. 
+---
+13. Nei centri abitati, su una stessa corsia possono circolare affiancati due ciclomotori.
+14. 
+---
+15. La corsia di accelerazione serve per uscire da una piazzola di sosta.
+16. 
+---
+17. La corsia di accelerazione serve per abbandonare la carreggiata dell'autostrada ed entrare in un'area di sosta.
+18. 
+---
+19. La corsia di decelerazione puo essere utilizzata per ;a sosta dei veicoli.
+20. 
+---
+21. La corsia di decelerazione serve per entrare in una piazzola di sosta.
+22. 
+---
+23. La corsia di decelerazione serve ad entrare in autostrada.
+24. 
