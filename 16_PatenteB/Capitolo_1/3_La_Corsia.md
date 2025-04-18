@@ -58,71 +58,71 @@
 14. The lane may be used for overtaking.
 ---
 15. L'ente proprietario della strada puo imporre che su una corsia i veicoli transitino ad una velocita minima obbligatoria.
-16. 
+16. The road owner may require that vehicles travel at a mandatory minimum speed on a lane.
 ---
 17. La corsia e una parte della carregiata che consenta la circolazione di una sola fila di veicoli.
-18. 
+18. A lane is a part of the roadway that allows the circulation of only one lane of vehicles.
 ---
 19. La corsia puo essere riservata ai veicoli che intendono svoltare (corsia specializzata)
-20. 
+20. The lane can be reserved for vehicles intending to turn (specialized lane)
 ---
 21. La corsia puo essere destinata al rallentamento dei veicoli in uscita dalle autostrade.
-22. 
+22. The lane may be used to slow down vehicles exiting motorways.
 ---
-23. La corsia di accelerazione facilita l'ingresso dei veicoli in autostrada o su strada extraurbane pricipali.
-24. 
+23. La corsia di accelerazione facilita l'ingresso dei veicoli in autostrada o su strada extraurbane principali.
+24. The acceleration lane makes it easier for vehicles to enter motorways or main extra-urban roads.
 ---
 25. La corsia di accelerazione serve ad entrare correttamente in autostrada.
-26. 
+26. The acceleration lane is used to correctly enter the motorway.
 ---
 27. La corsia di accelerazione viene utilizzata per aumentare la velocita.
-28. 
+28. The acceleration lane is used to increase speed.
 ---
 29. La corsia di accelerazione serve per rientrare sulla carreggiata dell'autostrada dopo che si e uscita da area di servizio.
-30. 
+30. The acceleration lane is used to re-enter the carriageway of the motorway after leaving a service area.
 ---
 31. La corsia di decelerazione facilita l'uscita dei veicoli dall'autostrada.
-32. 
+32. The deceleration lane makes it easier for vehicles to exit the motorway.
 ---
 33. La corsia di decelerazione serve per uscire correttamente da una strada extraurbane principale.
-34. 
+34. The deceleration lane is used to properly exit a main extra-urban road.
 ---
 35. La corsia di decelerazione serve per uscire dalla carregiata dell'autostrada ed entrare nell'area di servizio.
-36. 
+36. The deceleration lane is used to exit the highway carriageway and enter the service area.
 
 #### False:
 1. La corsia e destinata solo al transito dei pedoni.
-2. 
+2. The lane is intended for pedestrians only.
 ---
 3. La corsia puo essere a doppio senso di circolazione.
-4. 
+4. The lane may be two-way.
 ---
 5. La corsia e una pista riservata alle vetture da corsa.
-6. 
+6. The lane is a track reserved for racing cars.
 ---
 7. La corsia non puo essere attraversata dai pedoni.
-8. 
+8. The lane cannot be crossed by pedestrians.
 ---
 9. La corsia e formata due carregiata.
-10. 
+10. The lane is made up of two carriageways.
 ---
 11. La corsia e una strada a scorrimento veloce.
-12. 
+12. The lane is a fast-flowing road.
 ---
 13. Nei centri abitati, su una stessa corsia possono circolare affiancati due ciclomotori.
-14. 
+14. In built-up areas, two mopeds may travel side by side in the same lane.
 ---
 15. La corsia di accelerazione serve per uscire da una piazzola di sosta.
-16. 
+16. The acceleration lane is used to exit a lay-by.
 ---
 17. La corsia di accelerazione serve per abbandonare la carreggiata dell'autostrada ed entrare in un'area di sosta.
-18. 
+18. The acceleration lane is used to leave the carriageway of the motorway and enter a rest area.
 ---
-19. La corsia di decelerazione puo essere utilizzata per ;a sosta dei veicoli.
-20. 
+19. La corsia di decelerazione puo essere utilizzata per la sosta dei veicoli.
+20. The deceleration lane can be used for parking vehicles.
 ---
 21. La corsia di decelerazione serve per entrare in una piazzola di sosta.
-22. 
+22. The deceleration lane is used to enter a lay-by.
 ---
 23. La corsia di decelerazione serve ad entrare in autostrada.
-24. 
+24. The deceleration lane is used to enter the motorway.
