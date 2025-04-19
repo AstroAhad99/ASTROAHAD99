@@ -428,32 +428,80 @@
 10. "di", "dello", "della" is used to show the ownership of something
 11. Chi ha il cibo degli animali
 
-## Unit 01: 
+## Unit 37: Form complex sentenses 
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Se non cucino, non mangio
+2. Io non parlo mentre mangio
+3. Lei non mangia ne pollo ne pesce
+4. Io mangio sia verdura che carne (I eat both vegetable and meat)
+5. Leggo un libro mentre mangio
 
-## Unit 01: 
+### Notes
+1. In Italiano, la parola perche significa sia because e why.
+2. Perche non mangi la verdura?
+3. Tu mangi perche hai fame.
+4. ne significa neither
+5. Lei non mangia ne pollo ne pesce (She eats neither chicken nor fish)
+6. Per usare la parola Until hai bisogno di usare due parole insieme (finche non). Per esempio
+7. Io aspetto, finche non trovi il cane. (I wait until you find the dog.)
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+## Unit 38: Express date and time (Esprimere data e ora)
 
-## Unit 01: 
+1. Marzo finisce oggi.
+2. Lo zoo apre a maggio
+3. Non so che ora e.
+4. E mezzanotte
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+### Notes
+1. Il nomi dei mesi e delle stagioni non sono scirtti in maiuscolo in italiano.
+2. Il ristorante apre a gennaio.
+3. Il ristorante apre a febraio.
+4. Il ristorante apre a marzo.
+5. Il ristorante apre ad aprile.
+6. Beviamo la birra a giugno.
+7. Non siamo in gennaio, ma in luglio.
+8. Prima di una stagione, userai "in" proprio come (just like) in inglese.
+9. Non siamo in autonno, ma in primavera.
+10. Siamo in estate, non in inverno.
+11. Siamo in inverno.
+12. In Italiano, i giorni della settimana non si scrivono con la maiuscola. In genere, la settimana inizia di lunadi.
+13. lunadi, martedi, mercolodi, giovedi, venerdi, sabato, domenica.
+14. Non dimenticare l'accento sulla -i per i primi cinque giorni della settimana.
+15. Oggi e lunadi. Domani e martedi. Domani e venerdi.
+16. Stamattina, stasera, and stanotte.
+17. In inglese deciamo questa mattina, questa pommerigio, questa sera ma stasera e megio di questa notte.
+18. Tonight e stanotte.
+19. Allo stesso modo (In the same way) darai (you will say) sta mattina per this morning e stasera per this evening.
+20. Cosa bevi stamattina?
+21. Cosa fai stasera.
+22. Puoi simplicemente dire (you can just say) questo pomeriggio o oggi pomerggio.
+
+
+## Unit 39: Decribe your family (Descrivi la tua famiglia)
+
+1. Lui e mia madre sono fratelli
+2. I miei genitori bevono caffe.
+3. Noi siamo i suoi figli
+4. Vivo con i miei genitori
+5. Hai fratelli?
+
+### Notes:
+1. Abbiamo visto come in italiano bisogna (you have to) includere il o la prima di parole come mio, tuo, e suo
+2. Io mangio il mio panino.
+3. Il gatto vebe il suo latte
+4. Ma ce un'eccezione a questa regola. Prima delle parole che si riferiscono ai membri della famiglia, di solito non si include il o la quando il nome(noun) e singolore.
+5. Dove mia sorella?
+6. Lui e mio fratello.
+7. Ricordati di usare i o le prima di miei o mie se stai parlando di piu di un membro della famiglia.
+8. Loro sono i miei fratelli.
+9. In italiano la parola nome si riferesce al nome di battesimo (first name), ma come in inglese a volte puo riferirsi anche al nome completo.
+10. La parola Last name si riferesce al cognome.
+11. Il tuo nome e sulla domanda(application)?
+12. Qual e vostro cognome? 
+13. In italia non e raro (uncomman) rivolgersi(address) alle persone usando prima il cognome e poi il nome, soprattutto (especially) in contesti formali.
+14. Lo vedrai anche nei documenti o nei roster.
+15. Un nipote (grandson) e il figlio di un fratello o di una sorella.
+16. Una nipote (granddaughter) e la figlia di tuo fratello o sorella
 
 ## Unit 01: 
 

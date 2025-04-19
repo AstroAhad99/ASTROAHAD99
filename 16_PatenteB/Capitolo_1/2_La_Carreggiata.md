@@ -73,7 +73,7 @@
 4. The carriageway is intended for emergency parking.
 ---
 5. La carreggiata e la traccia lasciata dalle ruote dei veicoli sulle strade innevate.
-6. The road surface and the track left by vehicle wheels on snow-covered roads.
+6. The road surface is the track left by vehicle wheels on snow-covered roads.
 ---
 7. La carregiata comprende le piazzole di sosta.
 8. The roadway includes parking spaces.
