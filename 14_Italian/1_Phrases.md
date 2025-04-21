@@ -1316,86 +1316,286 @@
 1318. Ora possiamo mettere tutto insieme
 1319. E cosi difficile e io ho fame!
 1320. E ora dobbiamo aspettare
-1321. 
-1322. 
-1323. 
-1324. 
-1325. 
-1326. 
-1327. 
-1328. 
-1329. 
-1330. 
-1331. 
-1332. 
-1333. 
-1334. 
-1335. 
-1336. 
-1337. 
-1338. 
-1339. 
-1340. 
-1341. 
-1342. 
-1343. 
-1344. 
-1345. 
-1346. 
-1347. 
-1348. 
-1349. 
-1350. 
-1351. 
-1352. 
-1353. 
-1354. 
-1355. 
-1356. 
-1357. 
-1358. 
-1359. 
-1360. 
-1361. 
-1362. 
-1363. 
-1364. 
-1365. 
-1366. 
-1367. 
-1368. 
-1369. 
-1370. 
-1371. 
-1372. 
-1373. 
-1374. 
-1375. 
-1376. 
-1377. 
-1378. 
-1379. 
-1380. 
-1381. 
-1382. 
-1383. 
-1384. 
-1385. 
-1386. 
-1387. 
-1388. 
-1389. 
-1390. 
-1391. 
-1392. 
-1393. 
-1394. 
-1395. 
-1396. 
-1397. 
-1398. 
-1399. 
-1400. 
+1321. Avevo preso un ombrello con me.
+1322. Avevi aperto un ristorante (You had opened a restaurant)
+1323. Eri venuto dalla citta. (You had come from the city)
+1324. Eravamo arrivati in ritardo. (We had arrived late)
+1325. Erano passati sei secoli. (Six centuries had passed)
+1326. Due pesci erano morti. (Two fish had died)
+1327. Mia madre non aveva sentito niente. (My mother had not felt anything)
+1328. Io avevo capito (I understood)
+1329. Dove l'avevi messa? (Where had you put it?)
+1330. Avevamo guardato i movimenti del pinguino. (We had watched the movement of the penguin.)
+1331. Volevo spaere se ti era piacciuto. (I wanted to know if you had liked it)
+1332. Eravamo diventate migliori amiche quell'anno (We had become best friends that year)
+1333. Eravamo entrati sensa biglietti. (We had entered without tickets)
+1334. Avevo creduto la stessa cosa.
+1335. Lui aveva parlato con molte persone ieri. (He had spoken with many people yesterday)
+1336. Ho passeggiato li con tuo padre. (I walked around there with your father)
+1337. Quando vorreste andare dalla dottoressa? (When would you like to go to the doctor?)
+1338. Devi predere una pillola. (You have to take a pill)
+1339. Ai miei fratelli piace la birra. (My brothers like beer)
+1340. Giovanna, perche non vuoi andare dal medico? (Giovanna, why dont you want to go to the doctor?)
+1341. Come posso andare alla clinica? (How can we go to the clinic?)
+1342. Posso parlare con un infermiere? (Can I speak to a nurse?)
+1343. Non abbiamo pillole a casa. (We dont have pills at home)
+1344. E urgente? (Is it urgent?)
+1345. Quell'orso e cosi grade! (That bear is so big)
+1346. Mi fanno male i piedi e non posso guidare. (My lef hurt and I can't drive)
+1347. Devi predere la prima strada a destra (You have to take the first road to the right)
+1348. E un cane molto piccole e lo devo proteggare. (He is a very small dog and I have to protect him)
+1349. Le fanno male le gambe e la testa. (Her legs and head hurt)
+1350. Bevono un litro d'acqua. (They drink a liter of water)
+1351. L'ospedale e vicino.
+1352. Vuoi un po del mio? (Do you want a little of mine?)
+1353. Devo andare alla clinica perche mi sento male.
+1354. L'ambulenza non e cara.
+1355. Le fanno male le gambe e la testa
+1356. Un madre con un figlio
+1357. No, l'ospedale non e vicino.
+1358. Mangio con mio nonno. (I eat with my grandfather)
+1359. Ai miei genitori piace la birra. (My parents like beer)
+1360. Se e un emergenza, devi chiamare un'ambulanza.
+1361. Non posso, mi fa male la gamba
+1362. Devi prendere una pillola
+1363. Mi fa male il braccio. (My arm hurts)
+1364. Mi fanno male i piedi e non posso guidare.
+1365. Ma il mio fratello minore e triste oggi! (but my little brother is sad today!)
+1366. un'infermiera brava (a good nurse)
+1367. Per favaore, chiamate un'ambulenza, mi sento male.
+1368. Vediamo il ristorante dopo un chilometro (We see the restaurant adter a kilometer)
+1369. Quando eri entrata nel museo? (When had you entered the museum)
+1370. L'avevamo fatto insieme. (We had done it together.)
+1371. Avevo chiesto un po' di ghiaccio ma non l'haano portato (I had asked for some ice but they have not brought it)
+1372. I genitori non avevano capito nulla. (The parents had not understood anything)
+1373. Non ricordo l'ultima volta che mi ero sentito cosi (I do not remember the last time that I had felt like this)
+1374. Avevo avuto paura (I had been afraid)
+1375. La scrittrice era diventata molto vecchhia.
+1376. Dove l'avevate trovato? (Where had you found it?)
+1377. Avevamo lavortao tutta la notte. (We had worked all night)
+1378. Certo, la porta era aperta (of course the door was open)
+1379. L'avevo saputo da luigi (I had learned it from Luigi)
+1380. Il direttore del museo era tenuto in quel prigione. (The director of the museum was held in that prison)
+1381. Lei non l'aveva voluto (She had not wanted it)
+1382. Aveva chiamato il suo amico (She had called her friend)
+1383. Come avevi ricordato il nome? (How had you remembered the name?)
+1384. Non era andata come mi ero aspettato. (It did not go as I had expected)
+1385. A che ora erravate arrivati (At what time had you arrived?)
+1386. Avevamo lavorato tutta la notte. (We had worked all night.)
+1387. Il direttore del museo era tenuto in quella prigione.
+1388. Per fortuna sono ragazze furbe (Luckily they are crafty girls)
+1389. Che torta soffice (What a soft cake)
+1390. Quale e la tua cena ideale? (What is your ideal dinner?)
+1391. Le strade sono sporche.
+1392. Hanno libri piu intellituali
+1393. Non e probabile
+1394. Nulla e piu rivoluzionario di questo.
+1395. Correre e un attivita abituale.
+1396. Peceh sei cosi silenziosa
+1397. Dove sono i vestiti formali?
+1398. Sono una persona etica
+1399. Siamo stanchi delle visite frequente
+1400. I danni erano costosi. (The damages were expensive)
+1401. Questo cugino e il piu amichevole (This cousin is the friendliest)
+1402. E possibile ma non probabile
+1403. Quale piati sono sporchi?
+1404. Sono debole in tedesco.
+1405. La domanda non e frequente. (The question is not frequent)
+1406. Lei e una donna furba
+1407. Lei e consapevole (She is aware)
+1408. La sua risposta era logica.
+1409. Quella lana e cosi soffice.
+1410. Oggi ho una maglia sottile (thin jersey)
+1411. Siamo tutti bagnati (We are all wet)
+1412. Hanno una birra eccellente
+1413. E usato in misura crescente. (It is increasingly used)
+1414. Le ruote sono rumorose.
+1415. E una partita emozionante. (Is is an exciting match)
+1416. Sto andando a casa e non posso venire.
+1417. Devi provare questa pesticceria! (You have to try this pastry shop)
+1418. Io sono un contadino.
+1419. Tutti i miei colleghi stanno venendo qui.
+1420. Loro sono stanchi, quindi non vogliono uscire.
+1421. Stai studiando in questo momento?
+1422. I nostri fratelli sono meccanici.
+1423. Vedi il pescatore?
+1424. No sto andando a scoula.
+1425. Perche sta dormendo di pommerggio? (Why he is sleeping in the afternoon?)
+1426. Ah, stai imparando lo spagnolo!
+1427. Volete giocare a pallavolo con noi? (Do you want to play vollyball with us?)
+1428. No, sto studiando in questo momento.
+1429. Non vuole venire perche e arrabiata
+1430. Ti piace il cibo filippino?
+1431. Il poliziotto dice che siamo dei cittadini eccellenti.
+1432. Che e consapevole di questo?
+1433. No, la borsa rosa e peggiore!
+1434. Nella stanza ce una finistra tonda.
+1435. Anche lui ha il suo lato selvaggio (Even he has his wild side.)
+1436. Ho scritto il nome sbagliato
+1437. In questo paese le persone sono molto amichevoli (In this village the people are very friendly)
+1438. Lui mi scrive una lettera formale
+1439. Che noioso!
+1440. Lui e gentile con lei. (He is kind to her)
+1441. Che torta soffice
+1442. Non e vero, la tua e piu sporca!
+1443. I genitori parlano del matrimonio potenziale.
+1444. Il tuo tappeto e sporco!
+1445. Chi e consapevole di questo?
+1446. Ho scritto il nome sbagliato.
+1447. Sono taltamente stanco che non posso studiare
+1448. Lui parla troppo velocemente.
+1449. Chissa perche ti ho pensata. (Who knows why I thought of you.)
+1450. Non ho vinto neanch'io (I do not win either)
+1451. La struttura e essenzialmente la stessa.
+1452. Io ti vedo dappertutto (I see you everywhere)
+1453. Questo sapone costa uguale ma e migliore. (This soap costs the same but it is better)
+1454. Credo fortamente in questo progetto.
+1455. Andiamo, altrimenti facciamo tardi. (Lets go otherwise we will be late)
+1456. Non lo vedo praticamente mai. (I practially never see him)
+1457. L'ho riconosciuta immediatamente. (I recognized her immediately)
+1458. Non cera nemmeno un regalo. (There was not even one present)
+1459. Non e neppure cosi tanto. (It is not even that much)
+1460. Fortunamente non dura per sempre. (Fortunately it does not last forever.)
+1461. E un posto totalmente diverso.
+1462. Chissa perche ti ha pensato.
+1463. Siamo gravemente in difficolta (We are in grave difficulty.)
+1464. Fortunatamente non sono tuo padre.
+1465. Lei e andata via senza dire ciao (She went away without saying goodbye)
+1466. L'avevano guardata direttamente.
+1467. Eppure (And yet) e tutto vero.
+1468. Non lo vedo praticamente mai (I never see him practically)
+1469. Normalmente dormono in questa stanza. (Normally they sleep in this room)
+1470. Questa scarpe e uguale a quella.
+1471. La stanza non ha nemmeno una finistra. (The room does'nt even have a window)
+1472. Beviamo velocemente.
+1473. Mi leggi nel pensiero. (You read my mind)
+1474. Sei stanco?
+1475. Ho una maglione elegante e lo uso per uscire (I have a elegant sweater and I use it to go out)
+1476. Questa e una buona emozione. (This is a good emotion)
+1477. Ogni pianta ha bisogno di luce.
+1478. Non mi aspetto sorprese. (I do not expect surprises.)
+1479. Ache io non stanca, ma molto felice! (I am also tired but very happy)
+1480. Confondere i nomi non aiuta. (Confusing names does not help.)
+1481. Lei non ha paura di niente.
+1482. Un bacio o due baci?
+1483. La prima volta (The first time)
+1484. Il piacere e nostro. (The plasure is ours)
+1485. Ci volevano soltanto spaventare. (They only wanted to scare us) 
+1486. Mi ha ricevuto con un sorriso grande (She received me with big smile)
+1487. Invita il tuo vicino! (Invite your neighbor!)
+1488. Questo e il mio desiderio (This is my wish)
+1489. La nostra amicizia e unica. (Our friendship is unique)
+1490. Io non credo nella fortuna. (I do not believe in luck)
+1491. Sono taltamente stanco che non posso studiare.
+1492. Normalmente cuniamo insieme.
+1493. La vedo raramente (I see her rarely)
+1494. Il tuo fidanzato non e particolarmente forte (Your boyfriend is not particularly strong)
+1495. Arrivo immediatamente (I arrive immediately)
+1496. Credo fortemente in questo progetto (I strongly belive in this project)
+1497. L'ho usato solamente una volta (I used it only once)
+1498. Sono uguale a te (I am same as you)
+1499. Quindi sono io il cuoco, non lui. (Therefore I am the cook, not him)
+1500. Lei metteva quel cuscini rosa dappertutto (She was putting those pink pillows everywhere)
+1501. Ogni gara e ugualmente importante. (Every race is equally important)
+1502. Sono sinceramente stanco. (I am honestly tired)
+1503. E piu recentemente? (And more recently?)
+1504. Credo fortemente in questo progetto.
+1505. Ogni gara e ugualmente importante.
+1506. Sono sinceramente stanco
+1507. Usiamo il dizinario per trovare il significato (We use the dictionary to meaning)
+1508. Essere altro e un vantaggio quando si giocca a pallacanestro. (Being tall is an advantage when playing basketball)
+1509. La partenza e veloce (The departure is fast)
+1510. Questa e la vera radice del problema (This is real cause of the problem)
+1511. La frequenza del corso e gratuita (Attending the course is free.)
+1512. I ritorni non sono mai felici. (The returns are never happy.)
+1513. Quello che dice lui non ha importanza. (What he says is not important.)
+1514. Attraversiamo tre nazione in un mese. (We cross three nations in one month.)
+1515. La guardia e responsabile per la nostra protezione.
+1516. Non perdere questa opportunita (Do not miss this opportunity)
+1517. Possiamo giocare con il linguaggio. (We can play with the language)
+1518. Il rappresentate (The representative)
+1519. Sai tenere un segreto? (Do you know how to keep a secret?)
+1520. Per cosa sono i nostri sforzi (What are our efforts for?)
+1521. 
+1522. 
+1523. 
+1524. 
+1525. 
+1526. 
+1527. 
+1528. 
+1529. 
+1530. 
+1531. 
+1532. 
+1533. 
+1534. 
+1535. 
+1536. 
+1537. 
+1538. 
+1539. 
+1540. 
+1541. 
+1542. 
+1543. 
+1544. 
+1545. 
+1546. 
+1547. 
+1548. 
+1549. 
+1550. 
+1551. 
+1552. 
+1553. 
+1554. 
+1555. 
+1556. 
+1557. 
+1558. 
+1559. 
+1560. 
+1561. 
+1562. 
+1563. 
+1564. 
+1565. 
+1566. 
+1567. 
+1568. 
+1569. 
+1570. 
+1571. 
+1572. 
+1573. 
+1574. 
+1575. 
+1576. 
+1577. 
+1578. 
+1579. 
+1580. 
+1581. 
+1582. 
+1583. 
+1584. 
+1585. 
+1586. 
+1587. 
+1588. 
+1589. 
+1590. 
+1591. 
+1592. 
+1593. 
+1594. 
+1595. 
+1596. 
+1597. 
+1598. 
+1599. 
+1600. 
 
 
 
