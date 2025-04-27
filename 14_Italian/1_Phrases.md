@@ -1516,86 +1516,286 @@
 1518. Il rappresentate (The representative)
 1519. Sai tenere un segreto? (Do you know how to keep a secret?)
 1520. Per cosa sono i nostri sforzi (What are our efforts for?)
-1521. 
-1522. 
-1523. 
-1524. 
-1525. 
-1526. 
-1527. 
-1528. 
-1529. 
-1530. 
-1531. 
-1532. 
-1533. 
-1534. 
-1535. 
-1536. 
-1537. 
-1538. 
-1539. 
-1540. 
-1541. 
-1542. 
-1543. 
-1544. 
-1545. 
-1546. 
-1547. 
-1548. 
-1549. 
-1550. 
-1551. 
-1552. 
-1553. 
-1554. 
-1555. 
-1556. 
-1557. 
-1558. 
-1559. 
-1560. 
-1561. 
-1562. 
-1563. 
-1564. 
-1565. 
-1566. 
-1567. 
-1568. 
-1569. 
-1570. 
-1571. 
-1572. 
-1573. 
-1574. 
-1575. 
-1576. 
-1577. 
-1578. 
-1579. 
-1580. 
-1581. 
-1582. 
-1583. 
-1584. 
-1585. 
-1586. 
-1587. 
-1588. 
-1589. 
-1590. 
-1591. 
-1592. 
-1593. 
-1594. 
-1595. 
-1596. 
-1597. 
-1598. 
-1599. 
-1600. 
+1521. Mia madre ha perso l'appetito
+1522. Non ha nemici (She does not have enemies)
+1523. Vado dal dattore perche ho la pressione alta. (I go to the doctor because I have high pressure)
+1524. Preferisco la prima opzione (I prefer the first option)
+1525. Sentiamo lo stesso ritmo. (We feel the same rhythm.)
+1526. Abbiamo trovato la radice del problema. (We found the root of the problem)
+1527. Lui cucina con passione.
+1528. Hanno riconosciuta l'importanza della protezione della proprieta intellettuale. (They have recognized the importance of the protection of intellectual property)
+1529. Scrivi in una strana maniera. (You write in a strange way)
+1530. Avevo seguito il segno da molto tempo (I had followed the sign for a long time)
+1531. Le quattro pareti hanno colori diversi. (The four walls have different colors)
+1532. Il loro linguaggio e strano.
+1533. Volano a due velocita differenti (They fly at two different speed)
+1534. Sono in arrivo (I am arriving)
+1535. Ho bisogno di un nuovo hobby
+1536. Il lovoro e il mio pane quotidiano. (Work is my bread and butter)
+1537. Lui e forte (He is strong)
+1538. Lui non e un architetto comune. (He is not a common architect)
+1539. La tua risposta e giusta.
+1540. E difficile conoscere se stessa (It is difficult to know ourself)
+1541. Un vicino timido e una vicina alta (a shy neigbor and a tall neigbor)
+1542. Io mangio i tuoi panini (I eat your sandwiches)
+1543. Il gatto beve il suo latte (The cat drinks its milk)
+1544. Questo corso e molto utile.
+1545. Sei libro questo giovedi?
+1546. Le sue caramelle sono nel piatto. (His candies are on the plate)
+1547. Beviamo la sua birra a settembre. (We drink his beer in september)
+1548. Sei veramente ricco e famoso? (Are you really rich and famous?)
+1549. Non e giusto
+1550. Sapete se le studentesse inglesi sono brave? (Do you know if the English students are good?) 
+1551. Forse e interessato. (Maybe he is interested)
+1552. Molte gente ricca (Many rich people) vive a Milano.
+1553. Loro sono forti come noi.
+1554. C'era una pizzeria molto buona. (There was a very good pizzeria)
+1555. una professiressa brava
+1556. Siete in ritardo (You are late)
+1557. C'e qualcosa che non mi piace, ma nessuna nazione e perfetta. (There is something that I do not like but no nation is perfect)
+1558. Quali sono i vantaggi? (What are the advantages?)
+1559. Le cose sono andate in maniera diversa
+1560. Davvero, non ha importanza. (Really it has no importance)
+1561. Lei e una bellezza.
+1562. Abbiamo trovato la radice del problema
+1563. Non ho intenzione di parlare piu. (I have no intentions to speak further)
+1564. Non mi piace il tuo comportamento (I do not like your behaviour)
+1565. Ci conosciamo dall infanzia (We know each other since childhood)
+1566. Ogni altra opzione e rischio (Every other option is a risk)
+1567. E un segreto
+1568. Il ritorno e domani. (The return is tomorrow)
+1569. Non vado da nessuna parte senza contanti. (I do not go anywhere without cash)
+1570. Questa banca ha bancomat(atm) in tutta la citta
+1571. La mia banca che e in centro e chiusa. (My bank which is downtown is closed)
+1572. Da quanto tempo fai affari con loro (How long have you been done business with them?)
+1573. Non vado da nessuna parte senza contanti.
+1574. Chiaramente non puo costare di menu. (Clearly it cannot cost less.)
+1575. A che possono appartenere? (To whom, can they belong)
+1576. No so se ridere o piangere.
+1577. Ha deciso di mandare il baglietto. (I have decided to send the card.)
+1578. Possono bruciare piu facilmente. (They can burn more easily)
+1579. Non so cosa preferire. (I do not know what to prefer.)
+1580. Sono parole che mi fanno sorridere. (They are words that make me smile)
+1581. Non rompere il piatto della nonna! (Do not break grandma's plate.)
+1582. Fumare in albergo e cattiva educazione. (Smoking in the hotel is bad manners.)
+1583. Possiamo solo supporre. (We can only imagine.)
+1584. Non ce niente da coltivare. (There is nothing to cultivate)
+1585. Voglio rompere con te.
+1586. Posso suppore dove sei finito. (I can imagin where you ended up.)
+1587. Possiamo attraversare? (Can we cross)
+1588. Non mi ringraziare! (Dont thank me!)
+1589. Non ho potuto (I could not) controllare le mie lacrime (Control my tears). 
+1590. Sto bene, posso camminare.
+1591. Voglio dirgli tutto. (I want to tell him everything)
+1592. Hanno detto che e facile rubare. (They said it is easy to steal.)
+1593. Il professore ci chiede di riempire la pagina. (The professore asks us to fill the page)
+1594. Vogliono colpire di notte. (They want to strike at night)
+1595. Possiamo migliorare quell'idea (We can improve that idea)
+1596. Credo di appartenere a questo posto. (I believe I belong to this place)
+1597. Posso immaginare come ti sei sentito. (I can imagine how you felt.)
+1598. Non voglio cadere (I do not want to fall)
+1599. Voglio prenotare una stanza. (I want to reserve a room)
+1600. Posso metterla qui? (Can I put it here?)
+1601. Non nuotare nell'acqua profonda (Do not swim in deep water.)
+1602. Semplice ma efficace (Simple but effective)
+1603. E una festa locale (It is a local party)
+1604. I ragazzi mangiano il pane.
+1605. Siamo fuori della cucina
+1606. La banana e cattiva
+1607. Non leggere quel biglietto (Do not read that note)
+1608. Forse un film divertente (fun film) e migliore (is better).
+1609. Loro non sono cativi. (They are not bad)
+1610. Oggi non sono piu necessari. (Today they are no longer necessary.)
+1611. Il giocattolo non e divertente. (The toy is not fun)
+1612. Quella famiglia e povera.
+1613. Mi dispiace, ma le tue ricette sono troppo dolci.
+1614. L'ho visto colpire l'animale. (I saw him hit the animal)
+1615. Lo possiamo immaginare.
+1616. Voglio dirgli che lo amo. ( I want to tell him I love him)
+1617. Ti piace ferire la gente. (You like to hurt people)
+1618. Tuo marito dice che vuoi riposare domenica. (Your husband says that you want to rest on Sunday)
+1619. Chiaramente non puo costare di meno. (Clearly it cannot cost less)
+1620. Ti ho visto crescere. (I saw you grow up)
+1621. Lo posso suppore (I can imagine it)
+1622. Mi voglio scusare. (I want to apologize)
+1623. Non voglio attraversare la strada
+1624. Non mi piace l'idea di fallire. (I dont like the idea of falling)
+1625. Mi puoi prestare il tuo dizionario?
+1626. Posso pagare con un assegno? (can I pay by check?)
+1627. L'una e un quarto era l'ora in cui lui ha telefonato. (A quarter past 12 was the time he called)
+1628. Scrivi il tuo nome su questo foglio.
+1629. Questa banca ha bancomat in tutta la citta. (This bank has ATM in every part of the city)
+1630. La autostarde di Seoul sono molto affolate!
+1631. Da quanto tempo fai affari con loro?
+1632. Quel ragazzo ha appena (just) depositato un milione di dolori!
+1633. 
+1634. 
+1635. 
+1636. 
+1637. 
+1638. 
+1639. 
+1640. 
+1641. 
+1642. 
+1643. 
+1644. 
+1645. 
+1646. 
+1647. 
+1648. 
+1649. 
+1650. 
+1651. 
+1652. 
+1653. 
+1654. 
+1655. 
+1656. 
+1657. 
+1658. 
+1659. 
+1660. 
+1661. 
+1662. 
+1663. 
+1664. 
+1665. 
+1666. 
+1667. 
+1668. 
+1669. 
+1670. 
+1671. 
+1672. 
+1673. 
+1674. 
+1675. 
+1676. 
+1677. 
+1678. 
+1679. 
+1680. 
+1681. 
+1682. 
+1683. 
+1684. 
+1685. 
+1686. 
+1687. 
+1688. 
+1689. 
+1690. 
+1691. 
+1692. 
+1693. 
+1694. 
+1695. 
+1696. 
+1697. 
+1698. 
+1699. 
+1700. 
+1701. 
+1702. 
+1703. 
+1704. 
+1705. 
+1706. 
+1707. 
+1708. 
+1709. 
+1710. 
+1711. 
+1712. 
+1713. 
+1714. 
+1715. 
+1716. 
+1717. 
+1718. 
+1719. 
+1720. 
+1721. 
+1722. 
+1723. 
+1724. 
+1725. 
+1726. 
+1727. 
+1728. 
+1729. 
+1730. 
+1731. 
+1732. 
+1733. 
+1734. 
+1735. 
+1736. 
+1737. 
+1738. 
+1739. 
+1740. 
+1741. 
+1742. 
+1743. 
+1744. 
+1745. 
+1746. 
+1747. 
+1748. 
+1749. 
+1750. 
+1751. 
+1752. 
+1753. 
+1754. 
+1755. 
+1756. 
+1757. 
+1758. 
+1759. 
+1760. 
+1761. 
+1762. 
+1763. 
+1764. 
+1765. 
+1766. 
+1767. 
+1768. 
+1769. 
+1770. 
+1771. 
+1772. 
+1773. 
+1774. 
+1775. 
+1776. 
+1777. 
+1778. 
+1779. 
+1780. 
+1781. 
+1782. 
+1783. 
+1784. 
+1785. 
+1786. 
+1787. 
+1788. 
+1789. 
+1790. 
+1791. 
+1792. 
+1793. 
+1794. 
+1795. 
+1796. 
+1797. 
+1798. 
+1799. 
+1800. 
 
 
 

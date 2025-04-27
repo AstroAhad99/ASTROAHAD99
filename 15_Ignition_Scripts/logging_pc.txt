@@ -1,0 +1,48 @@
+27-04-2025 12:32:07 ---> DEBUG    [<module:logging99.logging_pc>:13] Test Message
+27-04-2025 12:36:23 ---> DEBUG    [<function:runAction>:4] Test Message
+27-04-2025 12:52:15 ---> DEBUG [<function:runAction>:4] Message: Test Message
+27-04-2025 13:27:50 ---> INFO ---> [<function:runAction>:6] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 14:00:46 ---> INFO ---> [<function:runAction>:6] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 14:01:22 ---> INFO ---> [<function:runAction>:6] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 14:01:35 ---> INFO ---> [<function:runAction>:6] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 14:12:29 ---> INFO ---> [<function:runAction>:6] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 14:37:47 ---> WARNING ---> [<function:runAction>:6] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 14:38:36 ---> WARNING  -> [<function:runAction>:6] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 14:39:06 ---> WARNING  [<function:runAction>:6] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 14:42:20 ---> WARNING  [<function:runAction>:6] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 14:42:20 ---> INFO     [<function:runAction>:15] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 14:42:29 ---> WARNING  [<function:runAction>:6] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 14:42:29 ---> INFO     [<function:runAction>:15] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:05:24 ---> DEBUG    [<module:folder_logging99.file_logging_pc>:50] ---> Location: MainView/Button1 ---> Payload: TestData ---> Message: hello
+27-04-2025 15:05:24 ---> DEBUG    [<module:folder_logging99.file_logging_pc>:50] ---> Location: MainView/Button1 ---> Payload: TestData ---> Message: hello
+27-04-2025 15:06:33 ---> DEBUG    [<module:folder_logging99.file_logging_pc>:50] ---> Location: MainView/Button1 ---> Payload: TestData ---> Message: hello
+27-04-2025 15:06:42 ---> DEBUG    [<module:folder_logging99.file_logging_pc>:50] ---> Location: MainView/Button1 ---> Payload: TestData ---> Message: hello
+27-04-2025 15:06:50 ---> DEBUG    [<module:folder_logging99.file_logging_pc>:50] ---> Location: MainView/Button1 ---> Payload: TestData ---> Message: hello
+27-04-2025 15:06:50 ---> DEBUG    [<module:folder_logging99.file_logging_pc>:50] ---> Location: MainView/Button1 ---> Payload: TestData ---> Message: hello
+27-04-2025 15:07:23 ---> DEBUG    [<module:folder_logging99.file_logging_pc>:50] ---> Location: MainView/Button1 ---> Payload: TestData ---> Message: hello
+27-04-2025 15:07:31 ---> DEBUG    [<module:folder_logging99.file_logging_pc>:50] ---> Location: MainView/Button1 ---> Payload: TestData ---> Message: hello
+27-04-2025 15:14:04 ---> INFO     [<function:runAction>:6] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:18:25 ---> INFO     [<function:runAction>:4] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:18:25 ---> WARNING  [<function:runAction>:11] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:18:25 ---> CRITICAL [<function:runAction>:18] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:18:25 ---> ERROR    [<function:runAction>:25] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:19:10 ---> INFO     [<function:runAction>:4]-9s ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:19:10 ---> WARNING  [<function:runAction>:11]-9s ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:19:10 ---> CRITICAL [<function:runAction>:18]-9s ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:19:10 ---> ERROR    [<function:runAction>:25]-9s ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:20:01 ---> INFO     [<function:runAction>:4       ] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:20:01 ---> WARNING  [<function:runAction>:11      ] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:20:01 ---> CRITICAL [<function:runAction>:18      ] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:20:01 ---> ERROR    [<function:runAction>:25      ] ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42} ---> Message: Button clicked successfully.
+27-04-2025 15:25:58 ---> INFO     [<function:runAction>:4    ] ---> Message: Button clicked successfully. ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42}
+27-04-2025 15:25:58 ---> WARNING  [<function:runAction>:11   ] ---> Message: Button clicked successfully. ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42}
+27-04-2025 15:25:58 ---> CRITICAL [<function:runAction>:18   ] ---> Message: Button clicked successfully. ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42}
+27-04-2025 15:25:58 ---> ERROR    [<function:runAction>:25   ] ---> Message: Button clicked successfully. ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42}
+27-04-2025 16:23:46 ---> INFO     [<function:runAction>:4    ] ---> Message: Button clicked successfully. ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42}
+27-04-2025 16:23:46 ---> WARNING  [<function:runAction>:11   ] ---> Message: Button clicked successfully. ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42}
+27-04-2025 16:23:46 ---> CRITICAL [<function:runAction>:18   ] ---> Message: Button clicked successfully. ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42}
+27-04-2025 16:23:46 ---> ERROR    [<function:runAction>:25   ] ---> Message: Button clicked successfully. ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42}
+27-04-2025 16:45:44 ---> INFO     [<function:runAction>:4    ] ---> Message: Button clicked successfully. ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42}
+27-04-2025 16:45:44 ---> WARNING  [<function:runAction>:11   ] ---> Message: Button clicked successfully. ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42}
+27-04-2025 16:45:44 ---> CRITICAL [<function:runAction>:18   ] ---> Message: Button clicked successfully. ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42}
+27-04-2025 16:45:44 ---> ERROR    [<function:runAction>:25   ] ---> Message: Button clicked successfully. ---> Location: MainView/Button1 ---> Payload: {'user': 'ahad', 'value': 42}
