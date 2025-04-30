@@ -1,0 +1,168 @@
+
+NETWORK
+TITLE = LANCIO BANCO CH67: C2101 -> C2102 -> B249
+      SET                        // ==== RUN VALLE === 
+      A     "DB141_LGK_M"._C2102.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      O(
+      A     "C2101_PB_ROSSO"      // <- PULSANTE BLOCCO ROSSO     (Pulsantiera Desk)
+      AN    "C2101_BF1"           // <- FOTOCELLULA BF1 INIZIO NASTRO 1 (1=PRES OBJ)
+      )
+      =     "DB141_LGK_M"._C2101.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+      A(
+      A     "DB141_LGK_M"._B249.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      AN    "DB141_LGK_M"._C2102.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      O
+      A     "DB141_LGK_M"._C2101.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      A     "DB141_LGK_M"._C2101.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      A     "DB141_LGK_M"._C2102.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      )
+      =     "DB141_LGK_M"._C2102.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+
+NETWORK
+TITLE = LANCIO BANCO CH68: C2103 -> C2104 -> B249
+      SET                        // ==== RUN VALLE === 
+      A     "DB141_LGK_M"._C2104.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      O(
+      A     "C2103_PB_ROSSO"      // <- PULSANTE BLOCCO ROSSO     (Pulsantiera Desk)
+      AN    "C2103_BF1"           // <- FOTOCELLULA BF1 INIZIO NASTRO 1 (1=PRES OBJ)
+      )
+      =     "DB141_LGK_M"._C2103.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+      A(
+      A     "DB141_LGK_M"._B249.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      AN    "DB141_LGK_M"._C2104.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      O
+      A     "DB141_LGK_M"._C2103.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      A     "DB141_LGK_M"._C2103.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      A     "DB141_LGK_M"._C2104.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      )
+      =     "DB141_LGK_M"._C2104.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+
+NETWORK
+TITLE = LANCIO BANCO CH69: C2105 -> C2106 -> B249
+      SET                        // ==== RUN VALLE === 
+      A     "DB141_LGK_M"._C2106.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      O(
+      A     "C2105_PB_ROSSO"      // <- PULSANTE BLOCCO ROSSO     (Pulsantiera Desk)
+      AN    "C2105_BF1"           // <- FOTOCELLULA BF1 INIZIO NASTRO 1 (1=PRES OBJ)
+      )
+      =     "DB141_LGK_M"._C2105.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+      A(
+      A     "DB141_LGK_M"._B249.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      AN    "DB141_LGK_M"._C2106.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      O
+      A     "DB141_LGK_M"._C2105.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      A     "DB141_LGK_M"._C2105.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      A     "DB141_LGK_M"._C2106.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      )
+      =     "DB141_LGK_M"._C2106.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+
+NETWORK
+TITLE = LANCIO BANCO CH70: C2107 -> C2108 -> B249
+      SET                        // ==== RUN VALLE === 
+      A     "DB141_LGK_M"._C2108.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      O(
+      A     "C2107_PB_ROSSO"      // <- PULSANTE BLOCCO ROSSO     (Pulsantiera Desk)
+      AN    "C2107_BF1"           // <- FOTOCELLULA BF1 INIZIO NASTRO 1 (1=PRES OBJ)
+      )
+      =     "DB141_LGK_M"._C2107.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+      A(
+      A     "DB141_LGK_M"._B249.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      AN    "DB141_LGK_M"._C2108.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      O
+      A     "DB141_LGK_M"._C2107.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      A     "DB141_LGK_M"._C2107.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      A     "DB141_LGK_M"._C2108.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      )
+      =     "DB141_LGK_M"._C2108.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+
+NETWORK
+TITLE = LANCIO BANCO CH71: C2109 -> C2110 -> B249
+      SET                        // ==== RUN VALLE === 
+      A     "DB141_LGK_M"._C2110.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      O(
+      A     "C2109_PB_ROSSO"      // <- PULSANTE BLOCCO ROSSO     (Pulsantiera Desk)
+      AN    "C2109_BF1"           // <- FOTOCELLULA BF1 INIZIO NASTRO 1 (1=PRES OBJ)
+      )
+      =     "DB141_LGK_M"._C2109.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+      A(
+      A     "DB141_LGK_M"._B249.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      AN    "DB141_LGK_M"._C2110.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      O
+      A     "DB141_LGK_M"._C2109.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      A     "DB141_LGK_M"._C2109.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      A     "DB141_LGK_M"._C2110.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      )
+      =     "DB141_LGK_M"._C2110.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+
+NETWORK
+TITLE = LANCIO BANCO CH72: C2111 -> C2112 -> B249
+      SET                        // ==== RUN VALLE === 
+      A     "DB141_LGK_M"._C2112.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      O(
+      A     "C2111_PB_ROSSO"      // <- PULSANTE BLOCCO ROSSO     (Pulsantiera Desk)
+      AN    "C2111_BF1"           // <- FOTOCELLULA BF1 INIZIO NASTRO 1 (1=PRES OBJ)
+      )
+      =     "DB141_LGK_M"._C2111.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+      A(
+      A     "DB141_LGK_M"._B249.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      AN    "DB141_LGK_M"._C2112.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      O
+      A     "DB141_LGK_M"._C2111.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      A     "DB141_LGK_M"._C2111.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      A     "DB141_LGK_M"._C2112.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      )
+      =     "DB141_LGK_M"._C2112.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+
+NETWORK
+TITLE = LANCIO BANCO CH73: C2113 -> C2114 -> B250
+      SET                        // ==== RUN VALLE === 
+      A     "DB141_LGK_M"._C2114.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      O(
+      A     "C2113_PB_ROSSO"      // <- PULSANTE BLOCCO ROSSO     (Pulsantiera Desk)
+      AN    "C2113_BF1"           // <- FOTOCELLULA BF1 INIZIO NASTRO 1 (1=PRES OBJ)
+      )
+      =     "DB141_LGK_M"._C2113.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+      A(
+      A     "DB141_LGK_M"._B250.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      AN    "DB141_LGK_M"._C2114.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      O
+      A     "DB141_LGK_M"._C2113.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      A     "DB141_LGK_M"._C2113.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      A     "DB141_LGK_M"._C2114.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      )
+      =     "DB141_LGK_M"._C2114.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+
+NETWORK
+TITLE = LANCIO BANCO CH74: C2115 -> C2116 -> B250
+      SET                        // ==== RUN VALLE === 
+      A     "DB141_LGK_M"._C2116.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      O(
+      A     "C2115_PB_ROSSO"      // <- PULSANTE BLOCCO ROSSO     (Pulsantiera Desk)
+      AN    "C2115_BF1"           // <- FOTOCELLULA BF1 INIZIO NASTRO 1 (1=PRES OBJ)
+      )
+      =     "DB141_LGK_M"._C2115.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
+      A(
+      A     "DB141_LGK_M"._B250.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      AN    "DB141_LGK_M"._C2116.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      O
+      A     "DB141_LGK_M"._C2115.Q_Rip_RUNN_AV_IND// <- RUNNING NASTRO A VALLE (dopo)
+      A     "DB141_LGK_M"._C2115.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      A     "DB141_LGK_M"._C2116.I_SEL_DIR_REV// <- SELEZIONE MOVIMENTO INDIETRO (1=Reverse)
+      )
+      =     "DB141_LGK_M"._C2116.I_STATO_RUN_VALLE// <- RUNNING UTENZE A VALLE
+
