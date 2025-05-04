@@ -1628,174 +1628,375 @@
 1630. La autostarde di Seoul sono molto affolate!
 1631. Da quanto tempo fai affari con loro?
 1632. Quel ragazzo ha appena (just) depositato un milione di dolori!
-1633. 
-1634. 
-1635. 
-1636. 
-1637. 
-1638. 
-1639. 
-1640. 
-1641. 
-1642. 
-1643. 
-1644. 
-1645. 
-1646. 
-1647. 
-1648. 
-1649. 
-1650. 
-1651. 
-1652. 
-1653. 
-1654. 
-1655. 
-1656. 
-1657. 
-1658. 
-1659. 
-1660. 
-1661. 
-1662. 
-1663. 
-1664. 
-1665. 
-1666. 
-1667. 
-1668. 
-1669. 
-1670. 
-1671. 
-1672. 
-1673. 
-1674. 
-1675. 
-1676. 
-1677. 
-1678. 
-1679. 
-1680. 
-1681. 
-1682. 
-1683. 
-1684. 
-1685. 
-1686. 
-1687. 
-1688. 
-1689. 
-1690. 
-1691. 
-1692. 
-1693. 
-1694. 
-1695. 
-1696. 
-1697. 
-1698. 
-1699. 
-1700. 
-1701. 
-1702. 
-1703. 
-1704. 
-1705. 
-1706. 
-1707. 
-1708. 
-1709. 
-1710. 
-1711. 
-1712. 
-1713. 
-1714. 
-1715. 
-1716. 
-1717. 
-1718. 
-1719. 
-1720. 
-1721. 
-1722. 
-1723. 
-1724. 
-1725. 
-1726. 
-1727. 
-1728. 
-1729. 
-1730. 
-1731. 
-1732. 
-1733. 
-1734. 
-1735. 
-1736. 
-1737. 
-1738. 
-1739. 
-1740. 
-1741. 
-1742. 
-1743. 
-1744. 
-1745. 
-1746. 
-1747. 
-1748. 
-1749. 
-1750. 
-1751. 
-1752. 
-1753. 
-1754. 
-1755. 
-1756. 
-1757. 
-1758. 
-1759. 
-1760. 
-1761. 
-1762. 
-1763. 
-1764. 
-1765. 
-1766. 
-1767. 
-1768. 
-1769. 
-1770. 
-1771. 
-1772. 
-1773. 
-1774. 
-1775. 
-1776. 
-1777. 
-1778. 
-1779. 
-1780. 
-1781. 
-1782. 
-1783. 
-1784. 
-1785. 
-1786. 
-1787. 
-1788. 
-1789. 
-1790. 
-1791. 
-1792. 
-1793. 
-1794. 
-1795. 
-1796. 
-1797. 
-1798. 
-1799. 
-1800. 
+1633. Perche non seguire la strada al parco (Why not follow the street to the park?)
+1634. Dove possiamo mettere l'automobile?
+1635. Ho sentito dire che Laura e andata a vivere a Firenze. (I have heared that Laura went to live in Florence.)
+1636. Non la posso capire. (I cannot understand her)
+1637. Oggi voglio passare il pomeriggio con te. (Today I want to spend the afternoon with you)
+1638. Non voglio decidere. (I do not want to decide.)
+1639. Il cuoco non sa cosa aggiungere. (The cook does not know what to add.)
+1640. Non si sa mai cosa puo succedere (You never know what can happen.)
+1641. Mi fa piacere. (I am glad)
+1642. Andiamo a svegliare tuo fratello. (We are going to wake up your brother)
+1643. E perche non vuoi essere solo (It is because you do not want to be alone)
+1644. Non guadare nella scatola. (Do not look in the box)
+1645. Mio nipote mi fa sorridere. (My nephew makes me smile.)
+1646. Come pensi di controllare? (How do you think you will check?)
+1647. Tuo marito dice che vuoi riposare domenica. (You husband says that you want to rest on Sunday)
+1648. Sono andata a pescare (I went to fish)
+1649. Puoi discrevere queste differenze? (Can you describe these differences?)
+1650. Non so cosa preferire. (I do not know what to prefer.)
+1651. Possiamo concordare un'altra data (We can agree on another date)
+1652. Ti ho visto crescere. (I saw you grow up)
+1653. Gli piace camminare. (He likes to walk)
+1654. Non sono capace di mentire (I am not capable of lying)
+1655. Questo uccelo non puo volare (This bird cannot fly)
+1656. Non dimenticare le tue cose. (Do not forget your things.)
+1657. Ti vuoi sedere? (Do you want to sit?)
+1658. Ho un leggero mal di testa oggi. (I have a mild headache today)
+1659. Da dove veniva quel virus? (Where did that virus come from?)
+1660. Mio nonno non ha denti. (My grandfather does not have teeth)
+1661. Il cuore e un muscolo.
+1662. Le medicine (The drugs)
+1663. Come va la tua caviglia? (How is your ankle?)
+1664. Colpisce tutti gli organi. (It hits all the organs.)
+1665. Lui la teneva per mano. (He was holding her by the hand.)
+1666. Mia madre ha avuto un incidente. (My mother had an accident)
+1667. Parla alle sue spalle. (He talks behind her back.)
+1668. Ridere fa bene al benessere. (Laughing is good for your well-being)
+1669. Non posso scegliere quale malattia avere.
+1670. Scusi, l'ospidale e vicino? (Excuse me, is the hospital close?)
+1671. Il dotore dice sempre di seguire una dieta piu sana. (The doctor always says to follow a healthier diet.)
+1672. Sappiamo che lei e una dentista. (We know that she is a dentist)
+1673. Cosa sono i virus? (What are the viruses?)
+1674. La nascita di un animale (The birth of an animal)
+1675. L'insegnante legge le sue labbra. (The teacher reads his lips.)
+1676. La schiena (The back)
+1677. Ho un dolore nel petto. (I have a pain in my chest)
+1678. Non mi taglio mai le unghie di notte (I never cut my nails at night)
+1679. Ho dato un osso al lupo. (I have given the wolf a bone)
+1680. Lui ha saputo mangiare sano. (He has been able to eat healthy)
+1681. Ecco gli intermieri (Here are the nurses!)
+1682. Da piccola mio padre mi portava in spalla. (When I was samll my father carried me on his shoulder.)
+1683. Il collo (The neck)
+1684. I medici hanno un problema strano oggi. (The doctors have a strange problem today)
+1685. Il corpo. (The body)
+1686. L'organo (The organ)
+1687. La moglie di mio zio e mia zia. (The wife of my uncle is my aunt)
+1688. Mia madre e una donna bassa. (My mother is a short women)
+1689. Ecco gli infermieri! 
+1690. Mio figlio vuole un letto verde. (My son wants a green bed)
+1691. Mio padre ama mia madre.
+1692. Mio zio vive in un appartamento.
+1693. Sua mamma lava i piatti per noi di solito (Her mom usually washes the dishes for us)
+1694. Mi sento molto male (I feel very bad.)
+1695. Tu hai figli. (Do you have children)
+1696. Non puo venire perche suo figlio ha un anno (He can't come because his son is one)
+1697. Scusi, la clinica e vicina?
+1698. Zio Mario, ecco la sorella della sposa.
+1699. La chiamata e da tua madre. (The call from your mother)
+1700. Vuoi un po' del mio? (Do you want a little of mine?)
+1701. Mio fratello e a letto con la febbre. (My brother is in bed with fever)
+1702. Mia nonna ha problemi alla schiena. (My mother has problems with her back)
+1703. Posso parlare con un infermiere? (Can I speak to a nurse?)
+1704. Lei e ancora debole dopo la sua malatia. (She is still week after her sickness.)
+1705. Che indossa i pantaloni di pelle? (Who wears the leather pants?)
+1706. Studio medicina. (I study medicine)
+1707. Scusi, l'ospedale e vicino? (Excuse me, the hospital is close?)
+1708. Ho un dolore nella spalla. (I have a pain in my shoulder)
+1709. Sono a dieta. (I am on diet)
+1710. Quella e una creama per i capelli. (That is cream for hair.)
+1711. Camminare e una forma di esercizio sana. (Walking is a healthy form of exercise)
+1712. Questa e una farmacia, vero?
+1713. Quando c'e la salute, c'e tutto. (When there is health, there is everything.)
+1714. Tieni la bocca chiusa! (Keep your mouth close)
+1715. I pazienti (The patients)
+1716. Il caffe puo avere un brutto effetto sullo stomaco. (Coffee can have a bad effect on the stomach)
+1717. Mia nonna ha problemi alla(with her) schiena.
+1718. Stasera leggeremo la storia insieme (Tonight we will read the story together)
+1719. Giochero con tutta la famiglia.
+1720. Vi risponderemo appena possibile (We will reply you as soon as possibile.) 
+1721. Io non perdero niente (I will not lose anything)
+1722. Mio figlio non aprira la porta (My son will not open the door)
+1723. Quando arrivero ti scrivero (When I arrive I will write you)
+1724. Io suonero con te (I play with you)
+1725. Nessuno mi credera mai. (Nobody will ever belive me)
+1726. Non entrate nella nostra piscina (You will not enter our pool)
+1727. Finiro di leegere questa lettera. (I am going to finish reading this letter)
+1728. Vivro per un mese da mio zio. (I will live for a month at my uncle's)
+1729. Saremo allo stesso posto.
+1730. Dicono che guaderanno le carte (They say they will look at the cards.)
+1731. Non cabiera niente. (Nothing will change.)
+1732. Lo lascerai andare con i suoi amici? (will you let him go with his friends?)
+1733. Quello ti mettera un pericolo. (That will put you in danger)
+1734. Seguirai le ultime partite del campionato? (Will you follow the final match of the championship?)
+1735. Perderai il treno (You will miss the train)
+1736. Andro a dormire (I will go to sleep)
+1737. Dove passerai le vacanze? (Where will you spend your vacations?)
+1738. Costruiremo dove c'e sicurezza. (We will build where there is safety)
+1739. Loro lovorerano (They will work)
+1740. Quello ti mettera in pericolo (That will put you in danger)
+1741. Ti seguiro (I am going to follow you.)
+1742. Non entrerete nella nostra piscina (You will not enter our pool.)
+1743. Offriranno i loro posti alle donne (They will offer their places to the women)
+1744. Penso che ricordera (I think she is going to remember)
+1745. Avro dieci piatti bianchi. (I am going to have ten white plates)
+1746. Questo ci indichera la strada (This will indicate the road to us.)
+1747. Rimaranno in biblioteca stanotte. (They will remain in the library tonight)
+1748. Che succedera giovedi? (Whay will happen Thursday)
+1749. Io suonero con te (I will play with you)
+1750. Sappiamo gia come risponderanno (We already know how they will respond)
+1751. Che treno prederai (Which train will you take?)
+1752. Non vuole venire perche e arrabiata. (She does'nt want to come because she's angry)
+1753. Mia madre fa la segretaria. (My mother is a secretary)
+1754. quest'esame (This exam)
+1755. Cosa mangia l'idraulico (What does the pluber eat?)
+1756. Perche non giochiamo a pallavolo? (Why don't we play vollyball?)
+1757. No, sto studiando in questo momento (No, I am studying at the moment)
+1758. Andiamo alla mia pasticceria perferita. (let's go to my favorite pastry shop) 
+1759. Lo scrittore scrive di mattina. (The writter writes in the morning)
+1760. State preparando la lettera per la capa? (Are you preparing the letter for the boss?)
+1761. Luca e malato, perche non puo venire. (Luca's sick, so he can't come)
+1762. I contadini danno la birra a noi. (The farmers give the beer to us.)
+1763. Quando arrivera a Boston questo treno? (When will this train arrive in Boston?)
+1764. Vi risponderemo appena possibile. (We will reply you as soon as possible)
+1765. Da domani saremo in divisa. (Starting tomorrow we will be in uniform)
+1766. Chi di voi andra ai suoi concerti? (Which of you will go to his concerts?)
+1767. Non lo faro. (I will not do that)
+1768. Partiremo presto (We are going to leave soon)
+1769. Avro dieci piatti bianchi.
+1770. Non so dove andrai. (I don't know where you will go)
+1771. Ti seguiremo. (We are going to follow you.)
+1772. Mi fara una zuppa. (She is going to make me a soup)
+1773. Avremo degli ospiti domani
+1774. Lui sara a casa sua questa stanotte
+1775. Troverai il suo numero di telefono sull'elenco. (You will find his telefone number on the list)
+1776. Chi di voi andra ai suoi concerti (Which of you will go to his converts?)
+1777. Partiremo presto. (We are going to leave soon.)
+1778. Dove stai correndo? (Where are you running?)
+1779. Dove stai dormendo? (Where are you sleeping?)
+1780. Volendo, possiamo andare insieme? (If we want, we can go together.)
+1781. Io sto costruendo un muro. (I am building a wall)
+1782. Stavi camminando vicino alla pista? (Were yoo walking by the trail?)
+1783. Sta piovendo di nuovo. (It is raining again)
+1784. Lo stiamo capendo - anche noi. (We are understanding it too.)
+1785. I miei fratelli stanno scrivendo con quelle penne. (My siblings are writing with those pens.)
+1786. Stavo aspettando il mio amico. (I was waiting for my friend.)
+1787. Cosa sta succendendo qui? (What is happening here?)
+1788. Non lo so, ancora sto decidendo. (I don't know, I am still deciding)
+1789. A cosa stai pensando? (What are you thinking about?)
+1790. Capisco cosa sta tentando di fare. (I undertand what she is trying to do.)
+1791. Perceh mi stai tenendo la mano? (Why are you holding my hand?)
+1792. La gente sta respondendo. (The people are responding.)
+1793. Confondere i nomi non aiuta. (Confusing the names does not help.)
+1794. Poi ho sentito un grido di gioia. (Then I heard a cry of joy.)
+1795. Dove posso comprare un bel vestito? (Where can I buy a nice dress.)
+1796. Queste sono delle piccole soddisfazione. (These are small satisfaction)
+1797. Secondo te, qualcosa informale e meglio? (In your opinion, something informal is better?)
+1798. La ragazza ha paura dei cani (The girl is afraid of dogs.)
+1799. Ogni pianta ha bisogno di luce. (Every plant needs light)
+1800. Sai se e fidenzato? (Do you know if he's in relationship?)
+1801. Questa e una buona emozione. (This is a good emotion.)
+1802. Preparo la casa e la pullisco bene. (I prepare the house and I clean it well)
+1803. Quel giorno ho comminciato a sognare. (That day I started to dream)
+1804. Queste scarpe comode e informali sono perfette! (These comfortable and informal shoes are perfect)
+1805. Non voglio spaventare le ragazze. (I do not want to scare the girls.)
+1806. Speriamo di no. (Lets hope no)
+1807. Io la rispetto (I respect her)
+1808. Un bracchiale nuovo. (a new bracelet)
+1809. Perche tutto questo odio? (Why all this hatred?)
+1810. Un giovane le chiede un bacio.
+1811. Stanno arrivando in macchina. (They are arriving by car)
+1812. La storia finisce qui, lasciando la gente con troppe domande e poche risposte. (The story ends here, leaving people with too many questions and few answers)
+1813. Dove stanno nuotando? (Where are they swimming?)
+1814. Lui sta sentendo quella voce. (He is hearing that voice.)
+1815. Quel giorno stavo mangiando con te. (That day I was eating with you.)
+1816. La porta si sta aprendo adesso. (The door is opening now.)
+1817. Stiamo andando al negozio (We are going to the store)
+1818. Noi stiammo gia vivendo insieme. (We are already living together.)
+1819. Sto cercando i miei occhiali. (I am searching for my glasses)
+1820. Non capendo come vincere, ho perso. (Not understanding how to win, I lost)
+1821. Ti sta piacendo? (Are you liking it?)
+1822. Cosa stavi facendo quella sera nella tenda? (What were you doing that night in the tent?)
+1823. Dove stai andando? (Where are you going?)
+1824. Dove stanno camminando? (Whrer are they walking?)
+1825. Noi stiamo gia vivendo insieme. (We are already living together.)
+1826. Lei lavora per la galleria. (She works for the gallery)
+1827. Sento il tamburo. (I hear the drum)
+1828. Vogliono fotografare ogni citta. (They want to photograph every city.)
+1829. E un vestito classico. (It is a classic dress.)
+1830. Loro portono le macchine fotografiche all'bergo. (They take the cameras to the hotel)
+1831. Siamo sul palcoscenico. (We are on stage.)
+1832. Mi piace scrivere, specialmente poesie. (I like writing especially poems)
+1833. Camera con vista (A room with a view)
+1834. Puoi andare al ballo (You can go to the dance.)
+1835. Guardava l'immagine (He was looking at the image)
+1836. Abbiamo visto i tuoi disegni all'esibizione. (We saw your drawings at the exhibition.)
+1837. Alcuni di loro sono chiamati sul palco. (Some of them are called on stage.)
+1838. 
+1839. 
+1840. 
+1841. 
+1842. 
+1843. 
+1844. 
+1845. 
+1846. 
+1847. 
+1848. 
+1849. 
+1850. 
+1851. 
+1852. 
+1853. 
+1854. 
+1855. 
+1856. 
+1857. 
+1858. 
+1859. 
+1860. 
+1861. 
+1862. 
+1863. 
+1864. 
+1865. 
+1866. 
+1867. 
+1868. 
+1869. 
+1870. 
+1871. 
+1872. 
+1873. 
+1874. 
+1875. 
+1876. 
+1877. 
+1878. 
+1879. 
+1880. 
+1881. 
+1882. 
+1883. 
+1884. 
+1885. 
+1886. 
+1887. 
+1888. 
+1889. 
+1890. 
+1891. 
+1892. 
+1893. 
+1894. 
+1895. 
+1896. 
+1897. 
+1898. 
+1899. 
+1900. 
+1901. 
+1902. 
+1903. 
+1904. 
+1905. 
+1906. 
+1907. 
+1908. 
+1909. 
+1910. 
+1911. 
+1912. 
+1913. 
+1914. 
+1915. 
+1916. 
+1917. 
+1918. 
+1919. 
+1920. 
+1921. 
+1922. 
+1923. 
+1924. 
+1925. 
+1926. 
+1927. 
+1928. 
+1929. 
+1930. 
+1931. 
+1932. 
+1933. 
+1934. 
+1935. 
+1936. 
+1937. 
+1938. 
+1939. 
+1940. 
+1941. 
+1942. 
+1943. 
+1944. 
+1945. 
+1946. 
+1947. 
+1948. 
+1949. 
+1950. 
+1951. 
+1952. 
+1953. 
+1954. 
+1955. 
+1956. 
+1957. 
+1958. 
+1959. 
+1960. 
+1961. 
+1962. 
+1963. 
+1964. 
+1965. 
+1966. 
+1967. 
+1968. 
+1969. 
+1970. 
+1971. 
+1972. 
+1973. 
+1974. 
+1975. 
+1976. 
+1977. 
+1978. 
+1979. 
+1980. 
+1981. 
+1982. 
+1983. 
+1984. 
+1985. 
+1986. 
+1987. 
+1988. 
+1989. 
+1990. 
+1991. 
+1992. 
+1993. 
+1994. 
+1995. 
+1996. 
+1997. 
+1998. 
+1999. 
+2000. 
+
 
 
 

@@ -6,7 +6,7 @@
 3. Deve essere corredato da apposito segnale, che riporti l'ente e il numero di autorizzazione.
 4. It must be accompanied by a specific sign, which shows the entity and the authorization number.
 ---
-5. In corrispondenza del passo carrabile e consentita la fermata ma noon la sosta (neache del proprietaio)
+5. In corrispondenza del passo carrabile e consentita la fermata ma non la sosta (neache del proprietaio)
 6. Stopping is permitted at the driveway but not parking (not even for the owner)
 
 
