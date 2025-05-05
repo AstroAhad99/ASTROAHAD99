@@ -1879,37 +1879,37 @@
 1881. Qual e il segreto della sua danza? (What is secret of his dance?)
 1882. Ho trovato una foto dei miei nonni. (I found a photo of my grandparents.)
 1883. Io voglio imaparare questi balli. (I want to learn these dances)
-1884. 
-1885. 
-1886. 
-1887. 
-1888. 
-1889. 
-1890. 
-1891. 
-1892. 
-1893. 
-1894. 
-1895. 
-1896. 
-1897. 
-1898. 
-1899. 
-1900. 
-1901. 
-1902. 
-1903. 
-1904. 
-1905. 
-1906. 
-1907. 
-1908. 
-1909. 
-1910. 
-1911. 
-1912. 
-1913. 
-1914. 
+1884. Lei avra avuto troppo tempo (She will have had too much time?)
+1885. Allora si che saremo entrati. (Then offcourse we will have entered)
+1886. Ti avro tenuto in braccio. (I will have held you in my arms)
+1887. Avremo portato una torta. (We will have brought a cake)
+1888. Loro si saranno sentiti come fratelli. (They will have felt like brothers)
+1889. Forse avro lavorato con lui. (Maybe I will have worked with him)
+1890. Saprete quando sara venuta l'ora. (You will know when the time has come)
+1891. Avranno usato questo strumento? (Will they have used this tool?)
+1892. L'avrai conosciuta da non di piu tre ore. (You wll have known her for no more than three hours)
+1893. Solo uno sara rimasto. (Only one will have remained.)
+1894. L'avrete visto qualche volta. (You will have seen him a few times)
+1895. Sara arrivato il nuovo giocatore? (Will the new player have arrived?)
+1896. Non avrai creduto alle sue parolle? (You will have not believed his words)
+1897. Spero che per quando arriviamo sara stato aperto. (I hope that by the time we arrive it will have been opened)
+1898. Per domani avremo seguiti tutti i corsi. (By tomorrow we will have attended all the courses)
+1899. Sarai entrato prima (You will entered earlier)
+1900. Forse lui avra parlato di me. (Maybe he will have talked about me.)
+1901. Avranno lavorato per lui. (They will have worked for him.)
+1902. Cosa saranno diventate? (What will they have become)
+1903. Avrai gia vissuto in un altro paese. (You will have already lived in another country)
+1904. Dove l'avra messa? (Where might he have put it?)
+1905. Mi avra seguito perche ha fame. (It must have followed me because it is hungary)
+1906. Perche avra lasciato il marito? (Why will she have left her husband?)
+1907. Io ti creduto alla fine. (I will have believed you in the end.)
+1908. Sono sicuro che per domani l'avranno detto a qualcuno. (I am sure that by tomorrow they will have told someone.)
+1909. Probabilmente l'avrete vista cantare. (You will probably have seen her sing.)
+1910. Spero che per quando arriviamo sara stata aperto.
+1911. Sara stata chiamata cosi in onore delle zia.  (She must have been named so in honor of her aunt.)
+1912. Quando avranno capito? (When they will have understood?)
+1913. Lui sara venuto presto. (He will have come early.)
+1914. Cosa avra voluto dire? (What will it have meant)
 1915. 
 1916. 
 1917. 
