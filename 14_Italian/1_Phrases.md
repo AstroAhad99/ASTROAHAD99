@@ -1833,52 +1833,52 @@
 1835. Guardava l'immagine (He was looking at the image)
 1836. Abbiamo visto i tuoi disegni all'esibizione. (We saw your drawings at the exhibition.)
 1837. Alcuni di loro sono chiamati sul palco. (Some of them are called on stage.)
-1838. 
-1839. 
-1840. 
-1841. 
-1842. 
-1843. 
-1844. 
-1845. 
-1846. 
-1847. 
-1848. 
-1849. 
-1850. 
-1851. 
-1852. 
-1853. 
-1854. 
-1855. 
-1856. 
-1857. 
-1858. 
-1859. 
-1860. 
-1861. 
-1862. 
-1863. 
-1864. 
-1865. 
-1866. 
-1867. 
-1868. 
-1869. 
-1870. 
-1871. 
-1872. 
-1873. 
-1874. 
-1875. 
-1876. 
-1877. 
-1878. 
-1879. 
-1880. 
-1881. 
-1882. 
-1883. 
+1838. E un vestito classico
+1839. La famiglia lavora nel circo
+1840. Non conosco il significato di questa danza (I dont understand the meaning of this dance)
+1841. Non senti i tamburi? (You don't hear the drum)
+1842. E responsabile con i suoi studi (He is responsible with his studies)
+1843. Mi piace molto il ballo. (I really like the dance)
+1844. Mi piace la tua macchina fotografica.
+1845. Abbiamo visto i tuoi desegni all'esibizione.
+1846. La scena e sempre la stessa. (The scene is always the same)
+1847. Hanno deciso di filmare le attrici (They have decided to film the actresses)
+1848. Poi ci saranno tre palchi (Then there will be three stages)
+1849. Mi piace il suo romanzo (I like your novel)
+1850. La tua risposta non e chiara. (Your answer is not clear)
+1851. Il cane e il nostro cane  (The dog is our dog)
+1852. Sono alti? (Are they tall?)
+1853. Sono forti come noi (They are strong as us.)
+1854. Agosto e un mese caldo in Inghilterra? (Is August a hot month in England?)
+1855. Non siamo certe.
+1856. Il vino e buono in Italia.
+1857. L'artista deve prepararsi per un evento speciale. (The artist has to get ready for a special event)
+1858. Hai ragione, il suo telefono e troppo vecchio. (You are right, his telefone is too old)
+1859. Forse e interessato. (Maybe he is interested)
+1860. Mangio il mio pasto quotidiano (I eat my daily meal)
+1861. Non a a casa sua. (She is not at her house.)
+1862. Un marito timido e una figlia alta (A shy husband and a tall daughter)
+1863. Io mangio i tuoi panini. (I eat your sandwitches)
+1864. Sono le sue farfalle. (They are her butterflies)
+1865. La nostra scimmia ha fame. (Our monkey is hungary)
+1866. Lei non e vecchia. (She is not old)
+1867. E la settimana nazionale del libro. (It is national book week)
+1868. Gli artisti parlano in francese. (The artists speak in french)
+1869. Ci sono cinque sezioni nella mostra (There are 5 sections in the exhibit)
+1870. Io voglio imparare questi balli. (I want to learn these dances)
+1871. Questa e una scena familiare. (This is a familiar scene)
+1872. Questo e il nuovo video. (This is the new video)
+1873. Dove la gallaria d'arte piu vinina? (Where is the nearest art gallery?)
+1874. E una artista impegnata nel teatro. (She is an artist involved in the theater)
+1875. L'artice vuole un altro cuscino. (The artist wants another pillow.)
+1876. Stiamo andando al cinema. 
+1877. Gli elefanti ritornano al circo locale. (The elefants returns to the local circus)
+1878. Ho visto l'immagine. (I saw the image)
+1879. Piu tardi quest'idea e andata fuori moda. (Later this idea went out of fashion)
+1880. Ho scritto il titolo del suo romanzo. (I wrote the title of her novel.)
+1881. Qual e il segreto della sua danza? (What is secret of his dance?)
+1882. Ho trovato una foto dei miei nonni. (I found a photo of my grandparents.)
+1883. Io voglio imaparare questi balli. (I want to learn these dances)
 1884. 
 1885. 
 1886. 
