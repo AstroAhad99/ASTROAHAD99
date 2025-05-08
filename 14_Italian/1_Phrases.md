@@ -1910,35 +1910,35 @@
 1912. Quando avranno capito? (When they will have understood?)
 1913. Lui sara venuto presto. (He will have come early.)
 1914. Cosa avra voluto dire? (What will it have meant)
-1915. 
-1916. 
-1917. 
-1918. 
-1919. 
-1920. 
-1921. 
-1922. 
-1923. 
-1924. 
-1925. 
-1926. 
-1927. 
-1928. 
-1929. 
-1930. 
-1931. 
-1932. 
-1933. 
-1934. 
-1935. 
-1936. 
-1937. 
-1938. 
-1939. 
-1940. 
-1941. 
-1942. 
-1943. 
+1915. Papa, voglio un cane.
+1916. Junior, non e facile avere un care.
+1917. Un cane deve passeggire.
+1918. Questo e facile!
+1919. Un cane deve giocare.
+1920. Io posso giocare con il cane!
+1921. E il cibo per cani e caro
+1922. Il cane puo mangiare il mio cibo
+1923. Junior, dove la tua pizza
+1924. E dove il tuo cornetto?
+1925. Junior! perche ce un cane sotto il tavolo?
+1926. E il mio amico!
+1927. Il cane.. ha la tua pizza e il tuo cornetto?
+1928. Si papa, e facile avere un cane!
+1929. Dove il parco industriale?
+1930. La banana e cattiva.
+1931. Fuori citta ce un palazzo storico. (Outside the city there is a historic palace)
+1932. Leggiamo un gionale indipendente.
+1933. Lui taglia il pane.
+1934. La domanda e antica. (The question is ancient)
+1935. Gli animali sono superiori a noi. (The animale are superior to us.)
+1936. Andiamo alla festa regionale. (We go to the regional party.)
+1937. Arriva un poliziotto provinciale. (A state police is arriving)
+1938. Quanto costa il letto antico? (How much does the antique bed cost?)
+1939. Arrostiamo qualche patata dolce. (We roast some sweet potato.)
+1940. La signora e responsabile. (The lady is resposible.)
+1941. Gli uomini mangiano pesce. (The men eat fish.)
+1942. Il pesce e la cena. (The fish is the dinner)
+1943. Questi pantaloni sono migliori, vero? (These pants are better, right?)
 1944. 
 1945. 
 1946. 
