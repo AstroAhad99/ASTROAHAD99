@@ -503,14 +503,25 @@
 15. Un nipote (grandson) e il figlio di un fratello o di una sorella.
 16. Una nipote (granddaughter) e la figlia di tuo fratello o sorella
 
-## Unit 01: 
+## Unit 40: Talk about occupation - Parliamo di occupazione
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Dove lavori?
+2. Sono un poliziotto
+3. Gli ingegneri lavorono con noi.
+4. Mio padre e al lavoro.
+5. Mia figlia fa la poliziotto
+6. Faresti meglio a lavorare (You better work)
+
+### Notes:
+1. Il sostantivo lavoro in italiano significa sia lavoro che impiego - The noun lavoro in italian means both work and job
+2. Mio padre e al lavoro
+3. Mia sorella ha un lavoro
+4. E migliora (And it gets better)
+5. Lavoro è anche la forma I del verbo lavorare. - Lavoro is also the I form of the verb lavorare.
+6. E a proposito di lavoro, in italiano puoi parlare delle professioni delle persone usando il verbo essere, come in inglese, ma puoi usare fare + una parola come il, la, l' ecc.
+7. And speaking of work, in italian you can talk about people's professions by using the verb to be, like in English, but you can use fare + a word like il, la, l' etc
+8. Lui e un avvocato.
+9. Lui fa l'avvocato.
 
 ## Unit 01: 
 
