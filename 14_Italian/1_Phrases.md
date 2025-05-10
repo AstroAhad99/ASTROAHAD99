@@ -1910,62 +1910,62 @@
 1912. Quando avranno capito? (When they will have understood?)
 1913. Lui sara venuto presto. (He will have come early.)
 1914. Cosa avra voluto dire? (What will it have meant)
-1915. 
-1916. 
-1917. 
-1918. 
-1919. 
-1920. 
-1921. 
-1922. 
-1923. 
-1924. 
-1925. 
-1926. 
-1927. 
-1928. 
-1929. 
-1930. 
-1931. 
-1932. 
-1933. 
-1934. 
-1935. 
-1936. 
-1937. 
-1938. 
-1939. 
-1940. 
-1941. 
-1942. 
-1943. 
-1944. 
-1945. 
-1946. 
-1947. 
-1948. 
-1949. 
-1950. 
-1951. 
-1952. 
-1953. 
-1954. 
-1955. 
-1956. 
-1957. 
-1958. 
-1959. 
-1960. 
-1961. 
-1962. 
-1963. 
-1964. 
-1965. 
-1966. 
-1967. 
-1968. 
-1969. 
-1970. 
+1915. Papa, voglio un cane.
+1916. Junior, non e facile avere un care.
+1917. Un cane deve passeggire.
+1918. Questo e facile!
+1919. Un cane deve giocare.
+1920. Io posso giocare con il cane!
+1921. E il cibo per cani e caro
+1922. Il cane puo mangiare il mio cibo
+1923. Junior, dove la tua pizza
+1924. E dove il tuo cornetto?
+1925. Junior! perche ce un cane sotto il tavolo?
+1926. E il mio amico!
+1927. Il cane.. ha la tua pizza e il tuo cornetto?
+1928. Si papa, e facile avere un cane!
+1929. Dove il parco industriale?
+1930. La banana e cattiva.
+1931. Fuori citta ce un palazzo storico. (Outside the city there is a historic palace)
+1932. Leggiamo un gionale indipendente.
+1933. Lui taglia il pane.
+1934. La domanda e antica. (The question is ancient)
+1935. Gli animali sono superiori a noi. (The animale are superior to us.)
+1936. Andiamo alla festa regionale. (We go to the regional party.)
+1937. Arriva un poliziotto provinciale. (A state police is arriving)
+1938. Quanto costa il letto antico? (How much does the antique bed cost?)
+1939. Arrostiamo qualche patata dolce. (We roast some sweet potato.)
+1940. La signora e responsabile. (The lady is resposible.)
+1941. Gli uomini mangiano pesce. (The men eat fish.)
+1942. Il pesce e la cena. (The fish is the dinner)
+1943. Questi pantaloni sono migliori, vero? (These pants are better, right?)
+1944. Scrivono per un gionale culturale. (They write for a cultural newspaper.)
+1945. Io cucino la crema al ciocolato. (I cook the chocolate cream.)
+1946. Leggiamo il giornale locale. (We read local newspaper)
+1947. E necessario. (It is necessary.)
+1948. Loro non sono cattivi. (They are not bad.)
+1949. A luglio mangiamo frutta. (In July we eat fruit.)
+1950. L'hanno messo in una prigione statale.
+1951. Il nome ti suona familiare? (The name sounds familiar to you?)
+1952. Voi mangiate il pollo. (You reat the chicken.)
+1953. Il mio cappotto e leggero ma caldo. (My coat is light but warm)
+1954. La bambina avra voluto ancora un biscotto. (The girl will have wanted one more biscuit)
+1955. Cosa saranno diventate? (What will they have become?)
+1956. Lui non ti avra dato niente. (He won't have given you anything.)
+1957. Avranno ricordato qualcosa. (They will have remembered something)
+1958. Perche avra lasciato il marito? (Why will she have left her husband?)
+1959. Di che cosa avranno parlato? (What will they have talked about?)
+1960. Alla fine saro diventato un vero campione. (At the end I will have become a real champion)
+1961. Saro morto dal ridere. (I will have died laughing.)
+1962. L'avrete visto qualche volta (You will have seen him a few times.)
+1963. Loro avranno pensato come noi. (They will have thought like us.)
+1964. Dove l'avra messa? (Where might he have put it?)
+1965. Ti avro tenuto in braccio. (I will have held you in my arms.)
+1966. Avranno usato questo strumento? (Will they have used this tool?)
+1967. Tra un anno saranno diventato marito e moglie. (In a year they will have become husband and wife)
+1968. Avrai lavorato tutto il giorno. (You will have worked all day.)
+1969. Chi avra preso il mio dentrificio? (Who could have taken my toothpaste)
+1970. L'avrete visto qualche volta. (You will have seen him a few times.)
 1971. 
 1972. 
 1973. 
