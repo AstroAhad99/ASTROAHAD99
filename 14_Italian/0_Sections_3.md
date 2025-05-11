@@ -522,6 +522,27 @@
 7. And speaking of work, in italian you can talk about people's professions by using the verb to be, like in English, but you can use fare + a word like il, la, l' etc
 8. Lui e un avvocato.
 9. Lui fa l'avvocato.
+10. Che lavoro fai? - Whats your job?
+11. In generale, l'italiano non usa termini per indicare le professioni di genere neutro quanto l'inglese. La maggior parte di essi termina in -o al maschile e in -a al femminile.
+12. Generally speaking, italian doesn't use gender-neutral occupations terms as much as English does. Most of them end in -o in their masculine form, and in -a in their feminine form.
+13. Il poliziotto - La polizziotta
+14. Il segretario - La segretaria
+15. Noterai anche che molte occupazioni terminano in -tore al maschile e in -trice al femminile.
+16. You will also notice that a lot of occupations end in -tore in the masculine and in -trice in the feminine.
+17. Mio marito e un ricercatore.
+18. Conosco una ricercatrice.
+19. Il pescatore - La pescatrice
+20. Il direttore - La direttrice
+21. Lo scrittore - La scrittrice
+22. Lui fa il pescatore
+23. Il suono di S - The sound of S
+24. Senti il suono? - Do you hear the sound?
+25. Come in inglese, la lettera s in italiano ha molti suoni diversi.
+26. Like in English, the letter s in italian has many different sounds.
+27. Non esiste una regola generale su come si pronuncia la s, quindi tieni le orecchie aperti quando vedi questa lettera
+28. There's no general rule for how s is pronounced, so keep your ears open when you see this letter
+29. Come tutte le lettere doppie in italiano, la doppia s suona sempre più lunga e forte.
+30. As all double letters in italian, double s always sounds longer and stronger.
 
 ## Unit 01: 
 

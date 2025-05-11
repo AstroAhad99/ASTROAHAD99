@@ -1966,36 +1966,236 @@
 1968. Avrai lavorato tutto il giorno. (You will have worked all day.)
 1969. Chi avra preso il mio dentrificio? (Who could have taken my toothpaste)
 1970. L'avrete visto qualche volta. (You will have seen him a few times.)
-1971. 
-1972. 
-1973. 
-1974. 
-1975. 
-1976. 
-1977. 
-1978. 
-1979. 
-1980. 
-1981. 
-1982. 
-1983. 
-1984. 
-1985. 
-1986. 
-1987. 
-1988. 
-1989. 
-1990. 
-1991. 
-1992. 
-1993. 
-1994. 
-1995. 
-1996. 
-1997. 
-1998. 
-1999. 
-2000. 
+1971. Le calze hanno un cattivo odore. (The socks have a bad smell)
+1972. Lei lo ama per la sua ricchezza (She loves him for his wealth.)
+1973. Si, ma che succede dopo la caduta? (Yes, but what happens after the fall?)
+1974. Vogliamo una societa senza poverta. (We want a society without poverty.)
+1975. Credo nell'eguaglianza (I belive in equality)
+1976. Siamo qui per la liberazione. (We are here for the liberation)
+1977. L'immmaginazione popolare non e sempre utile.
+1978. Possiamo imparare dai fallimenti. (We can learn from the failures)
+1979. Questa e la tua ombra. (This is your shadow)
+1980. Io sono pronta per fare compromessi. (I am ready to make compromises)
+1981. Ora lei capisce l'essenza dell'amore. (Now she understands the essence of love)
+1982. Il fallimento e la madre del successo. (Failure is the mother of success)
+1983. Ho bisogno di nove ore di sonno (I need nine hours of sleep)
+1984. Perche parlare di liberazione? (Why speak of liberation?)
+1985. E solo la tua immaginazione. (It is just your immagination)
+1986. Si, ma che succede dopo la caduta? (Yes, but what happens after the fall?)
+1987. Quello demotra l'intelligenza. (That shows intelligence)
+1988. Possiamo imparare dei fallimenti.
+1989. Con lui ho capito l'indipendenza
+1990. Oggi parliamo dello sviluppo della comunita. (Today we are speaking about the development of the community)
+1991. Lui infatti sa giocare in tanti ruoli. (Infact he knows to play in different roles.)
+1992. Perche e pir difficile ricordare i nomi che i visi? (Why is it more difficult to remember names than faces)
+1993. L'abbiamo fatto senza perdere la dignita. (We have done it without losing dignity)
+1994. Ho un unico timore. (I have a single fear.)
+1995. E una sensazione buona. (Is is a good feeling.)
+1996. Ce molta concorrenza in questa citta. (There is much competition in this city.)
+1997. Mia moglie e la madre dei miei figli. (My wife is the mother of my children)
+1998. Il nuovo edificio e enorme. (The new building is enormous.)
+1999. Mio figlio potrebbe provare questo gusto? (Could my son try this flavor?)
+2000. Chiamare subito un'ambulanza (Call an ambulance fast.)
+2001. Dobbiamo andare dal medico subito! (We have to go to the doctor immediately!)
+2002. Sua sorella puo portare otto amici. (His sister can bring eight friends)
+2003. Guarda, questo elefante e piu piccolo.
+2004. Mi fa male l'occhio. (My eye hurts)
+2005. No, non mi fanno male la braccia. (No my arms don't hurt)
+2006. Usiamo il succo di un quarto di limone. (We use the juice of a quarter of a lemon)
+2007. Quale e il suo vero nome? (What is his real name?)
+2008. Lui ha i piedi piccoli. (He has small feet)
+2009. Lei ricorda suo fratello. (She remembers her brother.)
+2010. Si, mi fanno male i piedi stamattina. (Yes, my feet hurt this morning.)
+2011. Ho bisogno di un'infermiera (I need a nurse.) 
+2012. Pronto, vorrei parlare con un dottore. (hello I'd like to talk to a doctor)
+2013. Ai miei fratelli piace la birra. (My brothers like beer)
+2014. Mia figlia mangia pasta (My daughter eats pasta)
+2015. Devi prendere la prima strada a destra. (You have to take the first road to the right)
+2016. Dottore, le fa male il mraccio e ha freddo. (Doctor, her arm hurts and she's cold)
+2017. Lo zoo e a un miglio. (The zoo is a mile away.)
+2018. Non siamo una coppia. (We are not a couple)
+2019. Devo andare dalla dottoressa. (I have to go to the doctor)
+2020. E solo la tua immaginazione. (It is just your imagination)
+2021.  
+2022.  
+2023.  
+2024.  
+2025.  
+2026.  
+2027.  
+2028.  
+2029.  
+2030.  
+2031.  
+2032.  
+2033.  
+2034.  
+2035.  
+2036.  
+2037.  
+2038.  
+2039.  
+2040.  
+2041.  
+2042.  
+2043.  
+2044.  
+2045.  
+2046.  
+2047.  
+2048.  
+2049.  
+2050.  
+2051.  
+2052.  
+2053.  
+2054.  
+2055.  
+2056.  
+2057.  
+2058.  
+2059.  
+2060.  
+2061.  
+2062.  
+2063.  
+2064.  
+2065.  
+2066.  
+2067.  
+2068.  
+2069.  
+2070.  
+2071.  
+2072.  
+2073.  
+2074.  
+2075.  
+2076.  
+2077.  
+2078.  
+2079.  
+2080.  
+2081.  
+2082.  
+2083.  
+2084.  
+2085.  
+2086.  
+2087.  
+2088.  
+2089.  
+2090.  
+2091.  
+2092.  
+2093.  
+2094.  
+2095.  
+2096.  
+2097.  
+2098.  
+2099.  
+2100.  
+2101.  
+2102.  
+2103.  
+2104.  
+2105.  
+2106.  
+2107.  
+2108.  
+2109.  
+2110.  
+2111.  
+2112.  
+2113.  
+2114.  
+2115.  
+2116.  
+2117.  
+2118.  
+2119.  
+2120.  
+2121.  
+2122.  
+2123.  
+2124.  
+2125.  
+2126.  
+2127.  
+2128.  
+2129.  
+2130.  
+2131.  
+2132.  
+2133.  
+2134.  
+2135.  
+2136.  
+2137.  
+2138.  
+2139.  
+2140.  
+2141.  
+2142.  
+2143.  
+2144.  
+2145.  
+2146.  
+2147.  
+2148.  
+2149.  
+2150.  
+2151.  
+2152.  
+2153.  
+2154.  
+2155.  
+2156.  
+2157.  
+2158.  
+2159.  
+2160.  
+2161.  
+2162.  
+2163.  
+2164.  
+2165.  
+2166.  
+2167.  
+2168.  
+2169.  
+2170.  
+2171.  
+2172.  
+2173.  
+2174.  
+2175.  
+2176.  
+2177.  
+2178.  
+2179.  
+2180.  
+2181.  
+2182.  
+2183.  
+2184.  
+2185.  
+2186.  
+2187.  
+2188.  
+2189.  
+2190.  
+2191.  
+2192.  
+2193.  
+2194.  
+2195.  
+2196.  
+2197.  
+2198.  
+2199.  
+2200.  
 
 
 
